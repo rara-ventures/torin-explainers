@@ -1,0 +1,32 @@
+filters:
+  and:
+    - categories.contains(link("TikTok Scripts"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Script
+  note.tiktok_id:
+    displayName: TikTok ID
+  note.view_count:
+    displayName: Views
+  note.duration:
+    displayName: Duration
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - tiktok_id
+      - view_count
+      - duration
+    sort:
+      - property: view_count
+        direction: DESC
+  - type: table
+    name: By Slug
+    order:
+      - file.name
+      - tiktok_id
+    sort:
+      - property: file.name
+        direction: ASC
