@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Vietnam deleted a country in 4 days. 40,000 dead. The king's head hung under a ship."
+hook: "March 22, 1471: the day a country was deleted in 4 days."
 duration: "80s"
 region: ["Champa"]
 century: "15th"
@@ -10,7 +10,20 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Vietnam deleted a country in 4 days
+# A country was deleted in 4 days. Here's the receipt.
+
+> **HOOK 1 — Cat 09 Specificity (085):** March 22, 1471: the day a country was deleted in 4 days.
+>
+> **TEXT 1:** `MARCH 22, 1471` — Specific date = credibility, when everything changed
+>
+> **HOOK 2 — Cat 01 Curiosity (006):** The truth about a 4-day deletion no one talks about.
+>
+> **TEXT 2:** `NOBODY TALKS ABOUT THIS` — Scarce emotional hook drives shares
+>
+> **HOOK 3 — Cat 03 Authority (022):** After analyzing 1,200 years of a kingdom, here's how it ended in 4 days
+>
+> **TEXT 3:** `1,200YRS → 4 DAYS` — Authority + contrast
+>
 
 > **HOOK (first 3s):** Vietnam deleted a country in 4 days. 40,000 dead. The king's head hung under a ship.
 >

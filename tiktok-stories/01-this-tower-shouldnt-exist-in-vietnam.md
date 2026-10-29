@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Nobody tells you Vietnam has a Hindu temple that never closed — for 1,200 years."
+hook: "Not Buddhist. Not Vietnamese. Prayed to daily."
 duration: "85s"
 region: ["Champa"]
 century: "8th"
@@ -10,7 +10,20 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Vietnam's beach town hides a 1,200-year Hindu goddess
+# This tower shouldn't exist in Vietnam
+
+> **HOOK 1 — Cat 08 Negation (071):** Not Buddhist. Not Vietnamese. Prayed to daily.
+>
+> **TEXT 1:** `NOT BUDDHIST` — Stop-scroll: 2-word negation in 0.3s, contradicts Vietnam=Buddhist
+>
+> **HOOK 2 — Cat 01 Curiosity (001):** Nobody tells you Vietnam has a Hindu temple that never closed.
+>
+> **TEXT 2:** `NOBODY TELLS YOU` — Open loop: why Hindu in Vietnam?
+>
+> **HOOK 3 — Cat 09 Specificity:** 1,200 years. 2 thefts. 1 goddess still getting flowers.
+>
+> **TEXT 3:** `1,200 YEARS STILL FLOWERS` — Odd numbers = credibility
+>
 
 > **HOOK (first 3s):** Nobody tells you Vietnam has a Hindu temple that never closed — for 1,200 years.
 >

@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "This is the world's biggest religious building. Cambodia built it, then just left — and monks never did."
+hook: "They finished the biggest temple on Earth. Then they just... left."
 duration: "90s"
 region: ["Angkor"]
 century: "12th"
@@ -10,7 +10,20 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Cambodia built the world's biggest temple — then left it
+# They built the biggest temple on Earth, then walked away
+
+> **HOOK 1 — Cat 07 Story (061):** They finished the biggest temple on Earth. Then they just... left.
+>
+> **TEXT 1:** `THEY JUST LEFT` — Mid-story with ellipsis = must resolve
+>
+> **HOOK 2 — Cat 08 Negation (071):** It's not abandoned. Monks never left.
+>
+> **TEXT 2:** `NOT ABANDONED` — Negation of abandoned assumption
+>
+> **HOOK 3 — Cat 04 Emotional (040):** If you've ever finished something huge then walked away, watch this
+>
+> **TEXT 3:** `IF YOU EVER FINISHED...` — Mirrors viewer's quit-project pain
+>
 
 > **HOOK (first 3s):** This is the world's biggest religious building. Cambodia built it, then just left — and monks never did.
 >

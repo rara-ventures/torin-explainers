@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Indonesia built a mountain you don't climb. You read it — 2,672 panels, zero words."
+hook: "Stop climbing temples. This one you read."
 duration: "90s"
 region: ["Sailendra Mataram"]
 century: "8th"
@@ -10,7 +10,20 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# This Indonesian hill is a book with no words
+# You don't climb this temple. You read it.
+
+> **HOOK 1 — Cat 02 Contrarian (011):** Stop climbing temples. This one you read.
+>
+> **TEXT 1:** `STOP CLIMBING` — Pattern interrupt: climbing is wrong
+>
+> **HOOK 2 — Cat 09 Specificity:** 2,672 carvings. Zero words. 5km walk to finish the sentence.
+>
+> **TEXT 2:** `2,672 CARVINGS. 0 WORDS.` — Specificity = proves book claim
+>
+> **HOOK 3 — Cat 10 Confession (005):** I've been climbing temples wrong my entire life
+>
+> **TEXT 3:** `WRONG MY WHOLE LIFE` — Confession + relatability
+>
 
 > **HOOK (first 3s):** Indonesia built a mountain you don't climb. You read it — 2,672 panels, zero words.
 >

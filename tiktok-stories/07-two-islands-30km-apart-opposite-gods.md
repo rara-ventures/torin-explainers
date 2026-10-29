@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Two islands, same country, 30km apart — one prays to Shiva, one to Allah. The difference is rice vs pepper."
+hook: "What if your neighbor's god was opposite yours — 30km away, same passport?"
 duration: "75s"
 region: ["Bali"]
 century: "16th"
@@ -10,7 +10,20 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# One Indonesian island prays to Shiva. The next prays to Allah.
+# Two islands, 30km apart, opposite gods — same country
+
+> **HOOK 1 — Cat 06 Question (052):** What if your neighbor's god was opposite yours — 30km away, same passport?
+>
+> **TEXT 1:** `WHAT IF NEIGHBOR...?` — Shocking premise forces answer
+>
+> **HOOK 2 — Cat 08 Negation (073):** It's not about religion. It's about rice vs pepper.
+>
+> **TEXT 2:** `NOT RELIGION. RICE.` — Myth buster: religion excuse → trade reason
+>
+> **HOOK 3 — Cat 02 Contrarian (013):** Unpopular opinion: Bali isn't Hindu because it's holy. It's Hindu because of rice fields.
+>
+> **TEXT 3:** `RICE, NOT HOLY` — Contrarian of holy assumption
+>
 
 > **HOOK (first 3s):** Two islands, same country, 30km apart — one prays to Shiva, one to Allah. The difference is rice vs pepper.
 >
