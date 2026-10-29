@@ -1,0 +1,17 @@
+# Straitjacket Archipelago
+
+**9 explainers** — curated from `../sources/`
+
+| # | Title | Date | Categories | Tags | Link |
+|---|-------|------|------------|------|------|
+| 1 | [How did Japan end up controlling China’s gateway to the Pacific?](https://torinrussell.com/explainers/how-did-japan-end-up-controlling-chinas-gateway-to-the-pacific) | 2026-10-26 | Asia | Military & Defense, Great Power Competition, Borders & Territory, Maritime | [../sources/how-did-japan-end-up-controlling-chinas-gateway-to-the-pacific.md](../sources/how-did-japan-end-up-controlling-chinas-gateway-to-the-pacific.md) |
+| 2 | [Why is the Yellow Sea so important?](https://torinrussell.com/explainers/why-is-the-yellow-sea-so-important) | 2026-08-04 | Asia | Maritime, Military & Defense, Great Power Competition | [../sources/why-is-the-yellow-sea-so-important.md](../sources/why-is-the-yellow-sea-so-important.md) |
+| 3 | [How long can the US and Canada keep sharing the Great Lakes?](https://torinrussell.com/explainers/how-long-can-the-us-and-canada-keep-sharing-the-great-lakes) | 2026-08-07 | North America | Natural Resources, Borders & Territory | [../sources/how-long-can-the-us-and-canada-keep-sharing-the-great-lakes.md](../sources/how-long-can-the-us-and-canada-keep-sharing-the-great-lakes.md) |
+| 4 | [Why is Sri Lanka so important?](https://torinrussell.com/explainers/why-is-sri-lanka-so-important) | 2026-08-12 | Asia | Maritime, Great Power Competition, Conflict | [../sources/why-is-sri-lanka-so-important.md](../sources/why-is-sri-lanka-so-important.md) |
+| 5 | [Why do the US and China want control over Micronesia?](https://torinrussell.com/explainers/why-do-the-us-and-china-want-control-over-micronesia) | 2026-07-29 | Oceania & Pacific | Great Power Competition, Small States | [../sources/why-do-the-us-and-china-want-control-over-micronesia.md](../sources/why-do-the-us-and-china-want-control-over-micronesia.md) |
+| 6 | [Why is Guam critical to the US?](https://torinrussell.com/explainers/why-is-guam-critical-to-the-us) | 2026-08-24 | Oceania & Pacific, North America | Military & Defense, Great Power Competition | [../sources/why-is-guam-critical-to-the-us.md](../sources/why-is-guam-critical-to-the-us.md) |
+| 7 | [Why are the Falkland Islands disproportionately important to geopolitics?](https://torinrussell.com/explainers/why-are-the-falkland-islands-disproportionately-important-to-geopolitics) | 2026-06-22 | Latin America, Europe | Borders & Territory, Conflict, Colonial Legacy | [../sources/why-are-the-falkland-islands-disproportionately-important-to-geopolitics.md](../sources/why-are-the-falkland-islands-disproportionately-important-to-geopolitics.md) |
+| 8 | [Why is Denmark so powerful when it’s so small?](https://torinrussell.com/explainers/why-is-denmark-so-powerful-when-its-so-small) | 2026-08-25 | Europe | Diplomacy & Alliances, Economy & Trade, Small States | [../sources/why-is-denmark-so-powerful-when-its-so-small.md](../sources/why-is-denmark-so-powerful-when-its-so-small.md) |
+| 9 | [How does Russia’s Kaliningrad survive surrounded by NATO?](https://torinrussell.com/explainers/how-does-russias-kaliningrad-survive-surrounded-by-nato) | 2026-09-09 | Russia & Eurasia, Europe | Military & Defense, Borders & Territory | [../sources/how-does-russias-kaliningrad-survive-surrounded-by-nato.md](../sources/how-does-russias-kaliningrad-survive-surrounded-by-nato.md) |
+
+See also story: `../stories/`

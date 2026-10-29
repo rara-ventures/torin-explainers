@@ -1,106 +1,88 @@
 # Torin Russell — Explainers Archive
 
-Downloaded 100 explainers from https://torinrussell.com/explainers on 2026-10-29. Each file is the full script as published on the site, stored as Markdown.
+> Every script from former intelligence analyst Torin Russell's geopolitics videos, now a research lab.
+> Source: https://torinrussell.com/explainers — Downloaded 100 explainers (2026-05-07 to 2026-10-26) as Markdown via Squarespace JSON API.
 
-| # | Title | Date | Categories | File |
-|---|-------|------|------------|------|
-| 1 | [How did Japan end up controlling China’s gateway to the Pacific?](https://torinrussell.com/explainers/how-did-japan-end-up-controlling-chinas-gateway-to-the-pacific) | 2026-10-26 | Asia | [how-did-japan-end-up-controlling-chinas-gateway-to-the-pacific.md](./how-did-japan-end-up-controlling-chinas-gateway-to-the-pacific.md) |
-| 2 | [Why does North India have the votes while South India has the money?](https://torinrussell.com/explainers/why-does-north-india-have-the-votes-while-south-india-has-the-money) | 2026-10-23 | Asia | [why-does-north-india-have-the-votes-while-south-india-has-the-money.md](./why-does-north-india-have-the-votes-while-south-india-has-the-money.md) |
-| 3 | [How does war risk insurance shape geopolitics?](https://torinrussell.com/explainers/how-does-war-risk-insurance-shape-geopolitics) | 2026-10-22 | Global | [how-does-war-risk-insurance-shape-geopolitics.md](./how-does-war-risk-insurance-shape-geopolitics.md) |
-| 4 | [Why couldn’t Ukraine keep its nuclear weapons?](https://torinrussell.com/explainers/why-couldnt-ukraine-keep-its-nuclear-weapons) | 2026-10-21 | Russia & Eurasia, Europe | [why-couldnt-ukraine-keep-its-nuclear-weapons.md](./why-couldnt-ukraine-keep-its-nuclear-weapons.md) |
-| 5 | [How does France riot so much without collapsing?](https://torinrussell.com/explainers/how-does-france-riot-so-much-without-collapsing) | 2026-10-19 | Europe | [how-does-france-riot-so-much-without-collapsing.md](./how-does-france-riot-so-much-without-collapsing.md) |
-| 6 | [Why does Hungary speak a language from western Siberia?](https://torinrussell.com/explainers/why-does-hungary-speak-a-language-from-western-siberia) | 2026-10-16 | Europe | [why-does-hungary-speak-a-language-from-western-siberia.md](./why-does-hungary-speak-a-language-from-western-siberia.md) |
-| 7 | [Why does Uganda’s military decide who rules the country?](https://torinrussell.com/explainers/why-does-ugandas-military-decide-who-rules-the-country) | 2026-10-15 | Africa | [why-does-ugandas-military-decide-who-rules-the-country.md](./why-does-ugandas-military-decide-who-rules-the-country.md) |
-| 8 | [Why is Iceland a NATO member if it lacks a military?](https://torinrussell.com/explainers/why-is-iceland-a-nato-member-if-it-lacks-a-military) | 2026-10-14 | Europe | [why-is-iceland-a-nato-member-if-it-lacks-a-military.md](./why-is-iceland-a-nato-member-if-it-lacks-a-military.md) |
-| 9 | [Why does Russia use satellites in strange orbits to watch for nuclear launches?](https://torinrussell.com/explainers/why-does-russia-use-satellites-in-strange-orbits-to-watch-for-nuclear-launches) | 2026-10-12 | Russia & Eurasia | [why-does-russia-use-satellites-in-strange-orbits-to-watch-for-nuclear-launches.md](./why-does-russia-use-satellites-in-strange-orbits-to-watch-for-nuclear-launches.md) |
-| 10 | [Why is New Zealand evolving geopolitically?](https://torinrussell.com/explainers/why-is-new-zealand-evolving-geopolitically) | 2026-10-09 | Oceania & Pacific | [why-is-new-zealand-evolving-geopolitically.md](./why-is-new-zealand-evolving-geopolitically.md) |
-| 11 | [How does small, landlocked Paraguay get geopolitical leverage?](https://torinrussell.com/explainers/how-does-small-landlocked-paraguay-get-geopolitical-leverage) | 2026-10-08 | Latin America | [how-does-small-landlocked-paraguay-get-geopolitical-leverage.md](./how-does-small-landlocked-paraguay-get-geopolitical-leverage.md) |
-| 12 | [Why does Estonia run a “data embassy” in Luxembourg?](https://torinrussell.com/explainers/why-does-estonia-run-a-data-embassy-in-luxembourg) | 2026-10-07 | Europe | [why-does-estonia-run-a-data-embassy-in-luxembourg.md](./why-does-estonia-run-a-data-embassy-in-luxembourg.md) |
-| 13 | [Why does Guatemala claim half of Belize?](https://torinrussell.com/explainers/why-does-guatemala-claim-half-of-belize) | 2026-10-05 | Latin America | [why-does-guatemala-claim-half-of-belize.md](./why-does-guatemala-claim-half-of-belize.md) |
-| 14 | [Why is Andorra ruled by the French president and a Catholic bishop?](https://torinrussell.com/explainers/why-is-andorra-ruled-by-the-french-president-and-a-catholic-bishop) | 2026-10-02 | Europe | [why-is-andorra-ruled-by-the-french-president-and-a-catholic-bishop.md](./why-is-andorra-ruled-by-the-french-president-and-a-catholic-bishop.md) |
-| 15 | [How did Thailand survive being caught between Britain and France?](https://torinrussell.com/explainers/how-did-thailand-survive-being-caught-between-britain-and-france) | 2026-10-01 | Asia | [how-did-thailand-survive-being-caught-between-britain-and-france.md](./how-did-thailand-survive-being-caught-between-britain-and-france.md) |
-| 16 | [Why does the US still need nuclear command aircraft?](https://torinrussell.com/explainers/why-does-the-us-still-need-nuclear-command-aircraft) | 2026-09-30 | North America | [why-does-the-us-still-need-nuclear-command-aircraft.md](./why-does-the-us-still-need-nuclear-command-aircraft.md) |
-| 17 | [Why is New York City the unofficial capital of the world?](https://torinrussell.com/explainers/why-is-new-york-city-the-unofficial-capital-of-the-world) | 2026-09-28 | North America | [why-is-new-york-city-the-unofficial-capital-of-the-world.md](./why-is-new-york-city-the-unofficial-capital-of-the-world.md) |
-| 18 | [Why isn’t Italy a global power?](https://torinrussell.com/explainers/why-isnt-italy-a-global-power) | 2026-09-25 | Europe | [why-isnt-italy-a-global-power.md](./why-isnt-italy-a-global-power.md) |
-| 19 | [Why is Christianity’s geopolitical center of gravity shifting to Africa?](https://torinrussell.com/explainers/why-is-christianitys-geopolitical-center-of-gravity-shifting-to-africa) | 2026-09-23 | Africa | [why-is-christianitys-geopolitical-center-of-gravity-shifting-to-africa.md](./why-is-christianitys-geopolitical-center-of-gravity-shifting-to-africa.md) |
-| 20 | [How do nuclear powers decide to end the world?](https://torinrussell.com/explainers/how-do-nuclear-powers-decide-to-end-the-world) | 2026-09-21 | Global | [how-do-nuclear-powers-decide-to-end-the-world.md](./how-do-nuclear-powers-decide-to-end-the-world.md) |
-| 21 | [Why is Russia occupying Georgian territory?](https://torinrussell.com/explainers/why-is-russia-occupying-georgian-territory) | 2026-09-18 | Russia & Eurasia | [why-is-russia-occupying-georgian-territory.md](./why-is-russia-occupying-georgian-territory.md) |
-| 22 | [Why does the Pope have one of the best intelligence networks on Earth?](https://torinrussell.com/explainers/why-does-the-pope-have-one-of-the-best-intelligence-networks-on-earth) | 2026-09-17 | Europe | [why-does-the-pope-have-one-of-the-best-intelligence-networks-on-earth.md](./why-does-the-pope-have-one-of-the-best-intelligence-networks-on-earth.md) |
-| 23 | [How do Europe’s nobles still shape countries they no longer rule?](https://torinrussell.com/explainers/how-do-europes-nobles-still-shape-countries-they-no-longer-rule) | 2026-09-16 | Europe | [how-do-europes-nobles-still-shape-countries-they-no-longer-rule.md](./how-do-europes-nobles-still-shape-countries-they-no-longer-rule.md) |
-| 24 | [Why does Wales still speak Welsh when Ireland stopped speaking Irish?](https://torinrussell.com/explainers/why-does-wales-still-speak-welsh-when-ireland-stopped-speaking-irish) | 2026-09-14 | Europe | [why-does-wales-still-speak-welsh-when-ireland-stopped-speaking-irish.md](./why-does-wales-still-speak-welsh-when-ireland-stopped-speaking-irish.md) |
-| 25 | [Why can’t Ghana afford its own democracy?](https://torinrussell.com/explainers/why-cant-ghana-afford-its-own-democracy) | 2026-09-11 | Africa | [why-cant-ghana-afford-its-own-democracy.md](./why-cant-ghana-afford-its-own-democracy.md) |
-| 26 | [Why is resource-rich Papua New Guinea so poor?](https://torinrussell.com/explainers/why-is-resource-rich-papua-new-guinea-so-poor) | 2026-09-10 | Oceania & Pacific | [why-is-resource-rich-papua-new-guinea-so-poor.md](./why-is-resource-rich-papua-new-guinea-so-poor.md) |
-| 27 | [How does Russia’s Kaliningrad survive surrounded by NATO?](https://torinrussell.com/explainers/how-does-russias-kaliningrad-survive-surrounded-by-nato) | 2026-09-09 | Russia & Eurasia, Europe | [how-does-russias-kaliningrad-survive-surrounded-by-nato.md](./how-does-russias-kaliningrad-survive-surrounded-by-nato.md) |
-| 28 | [Why is the border between India and Bangladesh such a mess?](https://torinrussell.com/explainers/why-is-the-border-between-india-and-bangladesh-such-a-mess) | 2026-09-07 | Asia | [why-is-the-border-between-india-and-bangladesh-such-a-mess.md](./why-is-the-border-between-india-and-bangladesh-such-a-mess.md) |
-| 29 | [Why is diamond-rich Botswana going broke?](https://torinrussell.com/explainers/why-is-diamond-rich-botswana-going-broke) | 2026-09-04 | Africa | [why-is-diamond-rich-botswana-going-broke.md](./why-is-diamond-rich-botswana-going-broke.md) |
-| 30 | [Why can’t Finland defend its most strategic islands?](https://torinrussell.com/explainers/why-cant-finland-defend-its-most-strategic-islands) | 2026-09-03 | Europe | [why-cant-finland-defend-its-most-strategic-islands.md](./why-cant-finland-defend-its-most-strategic-islands.md) |
-| 31 | [Why do nuclear weapons expire?](https://torinrussell.com/explainers/why-do-nuclear-weapons-expire) | 2026-09-02 | Global | [why-do-nuclear-weapons-expire.md](./why-do-nuclear-weapons-expire.md) |
-| 32 | [Why are Iran and Iraq geopolitically entangled?](https://torinrussell.com/explainers/why-are-iran-and-iraq-geopolitically-entangled) | 2026-08-31 | Middle East | [why-are-iran-and-iraq-geopolitically-entangled.md](./why-are-iran-and-iraq-geopolitically-entangled.md) |
-| 33 | [Why does Russia want Crimea so badly?](https://torinrussell.com/explainers/why-does-russia-want-crimea-so-badly) | 2026-08-27 | Russia & Eurasia | [why-does-russia-want-crimea-so-badly.md](./why-does-russia-want-crimea-so-badly.md) |
-| 34 | [Why is Macau so different from nearby Hong Kong?](https://torinrussell.com/explainers/why-is-macau-so-different-from-nearby-hong-kong) | 2026-08-26 | Asia | [why-is-macau-so-different-from-nearby-hong-kong.md](./why-is-macau-so-different-from-nearby-hong-kong.md) |
-| 35 | [Why is Denmark so powerful when it’s so small?](https://torinrussell.com/explainers/why-is-denmark-so-powerful-when-its-so-small) | 2026-08-25 | Europe | [why-is-denmark-so-powerful-when-its-so-small.md](./why-is-denmark-so-powerful-when-its-so-small.md) |
-| 36 | [Why is Guam critical to the US?](https://torinrussell.com/explainers/why-is-guam-critical-to-the-us) | 2026-08-24 | Oceania & Pacific, North America | [why-is-guam-critical-to-the-us.md](./why-is-guam-critical-to-the-us.md) |
-| 37 | [Why does Tasmania have so much power?](https://torinrussell.com/explainers/why-does-tasmania-have-so-much-power) | 2026-08-21 | Oceania & Pacific | [why-does-tasmania-have-so-much-power.md](./why-does-tasmania-have-so-much-power.md) |
-| 38 | [Why isn’t Eswatini part of South Africa?](https://torinrussell.com/explainers/why-isnt-eswatini-part-of-south-africa) | 2026-08-20 | Africa | [why-isnt-eswatini-part-of-south-africa.md](./why-isnt-eswatini-part-of-south-africa.md) |
-| 39 | [Is Russia weaponizing Russians in the Baltics?](https://torinrussell.com/explainers/is-russia-weaponizing-russians-in-the-baltics) | 2026-08-19 | Europe, Russia & Eurasia | [is-russia-weaponizing-russians-in-the-baltics.md](./is-russia-weaponizing-russians-in-the-baltics.md) |
-| 40 | [Why are the United Arab Emirates united?](https://torinrussell.com/explainers/why-are-the-united-arab-emirates-united) | 2026-08-17 | Middle East | [why-are-the-united-arab-emirates-united.md](./why-are-the-united-arab-emirates-united.md) |
-| 41 | [Why do US defense companies influence geopolitics so much?](https://torinrussell.com/explainers/why-do-us-defense-companies-influence-geopolitics-so-much) | 2026-08-14 | North America | [why-do-us-defense-companies-influence-geopolitics-so-much.md](./why-do-us-defense-companies-influence-geopolitics-so-much.md) |
-| 42 | [Why is Sri Lanka so important?](https://torinrussell.com/explainers/why-is-sri-lanka-so-important) | 2026-08-12 | Asia | [why-is-sri-lanka-so-important.md](./why-is-sri-lanka-so-important.md) |
-| 43 | [Why is Corsica fighting for autonomy from France?](https://torinrussell.com/explainers/why-is-corsica-fighting-for-autonomy-from-france) | 2026-08-11 | Europe | [why-is-corsica-fighting-for-autonomy-from-france.md](./why-is-corsica-fighting-for-autonomy-from-france.md) |
-| 44 | [Why is Cameroon structurally broken?](https://torinrussell.com/explainers/why-is-cameroon-structurally-broken) | 2026-08-10 | Africa | [why-is-cameroon-structurally-broken.md](./why-is-cameroon-structurally-broken.md) |
-| 45 | [How long can the US and Canada keep sharing the Great Lakes?](https://torinrussell.com/explainers/how-long-can-the-us-and-canada-keep-sharing-the-great-lakes) | 2026-08-07 | North America | [how-long-can-the-us-and-canada-keep-sharing-the-great-lakes.md](./how-long-can-the-us-and-canada-keep-sharing-the-great-lakes.md) |
-| 46 | [How does Mongolia stay free between China and Russia?](https://torinrussell.com/explainers/how-does-mongolia-stay-free-between-china-and-russia) | 2026-08-06 | Asia | [how-does-mongolia-stay-free-between-china-and-russia.md](./how-does-mongolia-stay-free-between-china-and-russia.md) |
-| 47 | [Why is the Yellow Sea so important?](https://torinrussell.com/explainers/why-is-the-yellow-sea-so-important) | 2026-08-04 | Asia | [why-is-the-yellow-sea-so-important.md](./why-is-the-yellow-sea-so-important.md) |
-| 48 | [Why is Liberia so poor when so many ships carry its flag?](https://torinrussell.com/explainers/why-is-liberia-so-poor-when-so-many-ships-carry-its-flag) | 2026-08-03 | Africa | [why-is-liberia-so-poor-when-so-many-ships-carry-its-flag.md](./why-is-liberia-so-poor-when-so-many-ships-carry-its-flag.md) |
-| 49 | [Why has Javier Milei changed things for Argentina?](https://torinrussell.com/explainers/why-has-javier-milei-changed-things-for-argentina) | 2026-07-30 | Latin America | [why-has-javier-milei-changed-things-for-argentina.md](./why-has-javier-milei-changed-things-for-argentina.md) |
-| 50 | [Why do the US and China want control over Micronesia?](https://torinrussell.com/explainers/why-do-the-us-and-china-want-control-over-micronesia) | 2026-07-29 | Oceania & Pacific | [why-do-the-us-and-china-want-control-over-micronesia.md](./why-do-the-us-and-china-want-control-over-micronesia.md) |
-| 51 | [Why does Colombia’s geography dictate its dynamics?](https://torinrussell.com/explainers/why-does-colombias-geography-dictate-its-dynamics) | 2026-07-27 | Latin America | [why-does-colombias-geography-dictate-its-dynamics.md](./why-does-colombias-geography-dictate-its-dynamics.md) |
-| 52 | [Why is Siberia Russia’s greatest strength and weakness?](https://torinrussell.com/explainers/why-is-siberia-russias-greatest-strength-and-weakness) | 2026-07-24 | Russia & Eurasia | [why-is-siberia-russias-greatest-strength-and-weakness.md](./why-is-siberia-russias-greatest-strength-and-weakness.md) |
-| 53 | [Why is Madagascar so unstable?](https://torinrussell.com/explainers/why-is-madagascar-so-unstable) | 2026-07-23 | Africa | [why-is-madagascar-so-unstable.md](./why-is-madagascar-so-unstable.md) |
-| 54 | [Why is tiny Luxembourg so important to Europe?](https://torinrussell.com/explainers/why-is-tiny-luxembourg-so-important-to-europe) | 2026-07-22 | Europe | [why-is-tiny-luxembourg-so-important-to-europe.md](./why-is-tiny-luxembourg-so-important-to-europe.md) |
-| 55 | [Who actually fights America’s wars?](https://torinrussell.com/explainers/who-actually-fights-americas-wars) | 2026-07-20 | North America | [who-actually-fights-americas-wars.md](./who-actually-fights-americas-wars.md) |
-| 56 | [How do Native Americans influence the US?](https://torinrussell.com/explainers/how-do-native-americans-influence-the-us) | 2026-07-17 | North America | [how-do-native-americans-influence-the-us.md](./how-do-native-americans-influence-the-us.md) |
-| 57 | [Why isn’t modern Egypt powerful like Ancient Egypt was?](https://torinrussell.com/explainers/why-isnt-modern-egypt-powerful-like-ancient-egypt-was) | 2026-07-16 | Middle East, Africa | [why-isnt-modern-egypt-powerful-like-ancient-egypt-was.md](./why-isnt-modern-egypt-powerful-like-ancient-egypt-was.md) |
-| 58 | [How does South Africa’s history feed into its geopolitical dynamics?](https://torinrussell.com/explainers/how-does-south-africas-history-feed-into-its-geopolitical-dynamics) | 2026-07-15 | Africa | [how-does-south-africas-history-feed-into-its-geopolitical-dynamics.md](./how-does-south-africas-history-feed-into-its-geopolitical-dynamics.md) |
-| 59 | [Why does the EU exist?](https://torinrussell.com/explainers/why-does-the-eu-exist) | 2026-07-14 | Europe | [why-does-the-eu-exist.md](./why-does-the-eu-exist.md) |
-| 60 | [Why are the tiny Cayman Islands a center for global finance?](https://torinrussell.com/explainers/why-are-the-tiny-cayman-islands-a-center-for-global-finance) | 2026-07-13 | Caribbean | [why-are-the-tiny-cayman-islands-a-center-for-global-finance.md](./why-are-the-tiny-cayman-islands-a-center-for-global-finance.md) |
-| 61 | [Why is uber-wealthy Brunei at risk of crisis?](https://torinrussell.com/explainers/why-is-uber-wealthy-brunei-at-risk-of-crisis) | 2026-07-10 | Asia | [why-is-uber-wealthy-brunei-at-risk-of-crisis.md](./why-is-uber-wealthy-brunei-at-risk-of-crisis.md) |
-| 62 | [Why hasn’t Scotland gained independence from the UK?](https://torinrussell.com/explainers/why-hasnt-scotland-gained-independence-from-the-uk) | 2026-07-09 | Europe | [why-hasnt-scotland-gained-independence-from-the-uk.md](./why-hasnt-scotland-gained-independence-from-the-uk.md) |
-| 63 | [How has Afghanistan changed since the US left?](https://torinrussell.com/explainers/how-has-afghanistan-changed-since-the-us-left) | 2026-07-08 | Asia | [how-has-afghanistan-changed-since-the-us-left.md](./how-has-afghanistan-changed-since-the-us-left.md) |
-| 64 | [Why does Jamaica help explain geopolitics?](https://torinrussell.com/explainers/why-does-jamaica-help-explain-geopolitics) | 2026-07-07 | Caribbean | [why-does-jamaica-help-explain-geopolitics.md](./why-does-jamaica-help-explain-geopolitics.md) |
-| 65 | [How does Malawi survive?](https://torinrussell.com/explainers/how-does-malawi-survive) | 2026-07-06 | Africa | [how-does-malawi-survive.md](./how-does-malawi-survive.md) |
-| 66 | [Why hasn’t Ireland reunified?](https://torinrussell.com/explainers/why-hasnt-ireland-reunified) | 2026-07-03 | Europe | [why-hasnt-ireland-reunified.md](./why-hasnt-ireland-reunified.md) |
-| 67 | [Why hasn’t Russia’s economy collapsed yet?](https://torinrussell.com/explainers/why-hasnt-russias-economy-collapsed-yet) | 2026-07-02 | Russia & Eurasia | [why-hasnt-russias-economy-collapsed-yet.md](./why-hasnt-russias-economy-collapsed-yet.md) |
-| 68 | [Why is The Gambia surrounded by Senegal?](https://torinrussell.com/explainers/why-is-the-gambia-surrounded-by-senegal) | 2026-07-01 | Africa | [why-is-the-gambia-surrounded-by-senegal.md](./why-is-the-gambia-surrounded-by-senegal.md) |
-| 69 | [Why is South Sudan on the verge of collapse?](https://torinrussell.com/explainers/why-is-south-sudan-on-the-verge-of-collapse) | 2026-06-29 | Africa | [why-is-south-sudan-on-the-verge-of-collapse.md](./why-is-south-sudan-on-the-verge-of-collapse.md) |
-| 70 | [Why would the US want to take Greenland when it already operates freely there?](https://torinrussell.com/explainers/why-would-the-us-want-to-take-greenland-when-it-already-operates-freely-there) | 2026-06-24 | Europe, North America | [why-would-the-us-want-to-take-greenland-when-it-already-operates-freely-there.md](./why-would-the-us-want-to-take-greenland-when-it-already-operates-freely-there.md) |
-| 71 | [Why is Guangxi’s fate different from places like Tibet and Xinjiang?](https://torinrussell.com/explainers/why-is-guangxis-fate-different-from-places-like-tibet-and-xinjiang) | 2026-06-23 | Asia | [why-is-guangxis-fate-different-from-places-like-tibet-and-xinjiang.md](./why-is-guangxis-fate-different-from-places-like-tibet-and-xinjiang.md) |
-| 72 | [Why are the Falkland Islands disproportionately important to geopolitics?](https://torinrussell.com/explainers/why-are-the-falkland-islands-disproportionately-important-to-geopolitics) | 2026-06-22 | Latin America, Europe | [why-are-the-falkland-islands-disproportionately-important-to-geopolitics.md](./why-are-the-falkland-islands-disproportionately-important-to-geopolitics.md) |
-| 73 | [Why does Myanmar (Burma) have two names?](https://torinrussell.com/explainers/why-does-myanmar-burma-have-two-names) | 2026-06-19 | Asia | [why-does-myanmar-burma-have-two-names.md](./why-does-myanmar-burma-have-two-names.md) |
-| 74 | [Why are some of North Korea’s most dangerous nuclear facilities so close to China?](https://torinrussell.com/explainers/why-are-some-of-north-koreas-most-dangerous-nuclear-facilities-so-close-to-china) | 2026-06-18 | Asia | [why-are-some-of-north-koreas-most-dangerous-nuclear-facilities-so-close-to-china.md](./why-are-some-of-north-koreas-most-dangerous-nuclear-facilities-so-close-to-china.md) |
-| 75 | [How have Saudi Arabia’s geopolitical dynamics changed under Mohammed bin Salman?](https://torinrussell.com/explainers/how-have-saudi-arabias-geopolitical-dynamics-changed-under-mohammed-bin-salman) | 2026-06-17 | Middle East | [how-have-saudi-arabias-geopolitical-dynamics-changed-under-mohammed-bin-salman.md](./how-have-saudi-arabias-geopolitical-dynamics-changed-under-mohammed-bin-salman.md) |
-| 76 | [Why is Buddhism one of Asia’s greatest geopolitical forces?](https://torinrussell.com/explainers/why-is-buddhism-one-of-asias-greatest-geopolitical-forces) | 2026-06-15 | Asia | [why-is-buddhism-one-of-asias-greatest-geopolitical-forces.md](./why-is-buddhism-one-of-asias-greatest-geopolitical-forces.md) |
-| 77 | [How has tiny San Marino survived for 1700 years?](https://torinrussell.com/explainers/how-has-tiny-san-marino-survived-for-1700-years) | 2026-06-12 | Europe | [how-has-tiny-san-marino-survived-for-1700-years.md](./how-has-tiny-san-marino-survived-for-1700-years.md) |
-| 78 | [How does Tanzania’s political upheaval affect its role in geopolitics?](https://torinrussell.com/explainers/how-does-tanzanias-political-upheaval-affect-its-role-in-geopolitics) | 2026-06-11 | Africa | [how-does-tanzanias-political-upheaval-affect-its-role-in-geopolitics.md](./how-does-tanzanias-political-upheaval-affect-its-role-in-geopolitics.md) |
-| 79 | [Why has Ecuador become the most dangerous country in Latin America?](https://torinrussell.com/explainers/why-has-ecuador-become-the-most-dangerous-country-in-latin-america) | 2026-06-10 | Latin America | [why-has-ecuador-become-the-most-dangerous-country-in-latin-america.md](./why-has-ecuador-become-the-most-dangerous-country-in-latin-america.md) |
-| 80 | [How do Vatican City and Italy coexist?](https://torinrussell.com/explainers/how-do-vatican-city-and-italy-coexist) | 2026-06-08 | Europe | [how-do-vatican-city-and-italy-coexist.md](./how-do-vatican-city-and-italy-coexist.md) |
-| 81 | [Why has tiny Bhutan managed to stay independent between India and China?](https://torinrussell.com/explainers/why-has-tiny-bhutan-managed-to-stay-independent-between-india-and-china) | 2026-06-05 | Asia | [why-has-tiny-bhutan-managed-to-stay-independent-between-india-and-china.md](./why-has-tiny-bhutan-managed-to-stay-independent-between-india-and-china.md) |
-| 82 | [Why has the DRC experienced Africa’s deadliest conflicts?](https://torinrussell.com/explainers/why-has-the-drc-experienced-africas-deadliest-conflicts) | 2026-06-04 | Africa | [why-has-the-drc-experienced-africas-deadliest-conflicts.md](./why-has-the-drc-experienced-africas-deadliest-conflicts.md) |
-| 83 | [How has Venezuela changed since Maduro was captured?](https://torinrussell.com/explainers/how-has-venezuela-changed-since-maduro-was-captured) | 2026-06-03 | Latin America | [how-has-venezuela-changed-since-maduro-was-captured.md](./how-has-venezuela-changed-since-maduro-was-captured.md) |
-| 84 | [How has Mexico changed under its first woman president?](https://torinrussell.com/explainers/how-has-mexico-changed-under-its-first-woman-president) | 2026-06-01 | Latin America | [how-has-mexico-changed-under-its-first-woman-president.md](./how-has-mexico-changed-under-its-first-woman-president.md) |
-| 85 | [Why did Armenia rapidly turn away from Russia and ally with the West?](https://torinrussell.com/explainers/why-did-armenia-rapidly-turn-away-from-russia-and-ally-with-the-west) | 2026-05-29 | Russia & Eurasia | [why-did-armenia-rapidly-turn-away-from-russia-and-ally-with-the-west.md](./why-did-armenia-rapidly-turn-away-from-russia-and-ally-with-the-west.md) |
-| 86 | [How and why would the US invade Cuba?](https://torinrussell.com/explainers/how-and-why-would-the-us-invade-cuba) | 2026-05-28 | Caribbean, North America | [how-and-why-would-the-us-invade-cuba.md](./how-and-why-would-the-us-invade-cuba.md) |
-| 87 | [Why are Rwanda and Burundi small, separate, and surrounded by far larger countries?](https://torinrussell.com/explainers/why-are-rwanda-and-burundi-small-separate-and-surrounded-by-far-larger-countries) | 2026-05-27 | Africa | [why-are-rwanda-and-burundi-small-separate-and-surrounded-by-far-larger-countries.md](./why-are-rwanda-and-burundi-small-separate-and-surrounded-by-far-larger-countries.md) |
-| 88 | [How has Syria changed since the Assad regime collapsed?](https://torinrussell.com/explainers/how-has-syria-changed-since-the-assad-regime-collapsed) | 2026-05-26 | Middle East | [how-has-syria-changed-since-the-assad-regime-collapsed.md](./how-has-syria-changed-since-the-assad-regime-collapsed.md) |
-| 89 | [Is Pakistan now Saudi Arabia’s nuclear shield?](https://torinrussell.com/explainers/is-pakistan-now-saudi-arabias-nuclear-shield) | 2026-05-25 | Middle East, Asia | [is-pakistan-now-saudi-arabias-nuclear-shield.md](./is-pakistan-now-saudi-arabias-nuclear-shield.md) |
-| 90 | [Why do Asia’s powerful countries care about Timor-Leste?](https://torinrussell.com/explainers/why-do-asias-powerful-countries-care-about-timor-leste) | 2026-05-22 | Asia | [why-do-asias-powerful-countries-care-about-timor-leste.md](./why-do-asias-powerful-countries-care-about-timor-leste.md) |
-| 91 | [How has Russia’s relationship with Cuba changed since the Cold War?](https://torinrussell.com/explainers/how-has-russias-relationship-with-cuba-changed-since-the-cold-war) | 2026-05-21 | Caribbean, Russia & Eurasia | [how-has-russias-relationship-with-cuba-changed-since-the-cold-war.md](./how-has-russias-relationship-with-cuba-changed-since-the-cold-war.md) |
-| 92 | [How did the Basques beat Spain without leaving it?](https://torinrussell.com/explainers/how-did-the-basques-beat-spain-without-leaving-it) | 2026-05-20 | Europe | [how-did-the-basques-beat-spain-without-leaving-it.md](./how-did-the-basques-beat-spain-without-leaving-it.md) |
-| 93 | [How did Vietnam become friends with everyone?](https://torinrussell.com/explainers/how-did-vietnam-become-friends-with-everyone) | 2026-05-18 | Asia | [how-did-vietnam-become-friends-with-everyone.md](./how-did-vietnam-become-friends-with-everyone.md) |
-| 94 | [Why is Spain an African country?](https://torinrussell.com/explainers/why-is-spain-an-african-country) | 2026-05-15 | Europe, Africa | [why-is-spain-an-african-country.md](./why-is-spain-an-african-country.md) |
-| 95 | [How does Vladimir Putin outsource Russia’s dirty work to the Kadyrovs?](https://torinrussell.com/explainers/how-does-vladimir-putin-outsource-russias-dirty-work-to-the-kadyrovs) | 2026-05-14 | Russia & Eurasia | [how-does-vladimir-putin-outsource-russias-dirty-work-to-the-kadyrovs.md](./how-does-vladimir-putin-outsource-russias-dirty-work-to-the-kadyrovs.md) |
-| 96 | [What makes Eritrea the North Korea of Africa?](https://torinrussell.com/explainers/what-makes-eritrea-the-north-korea-of-africa) | 2026-05-13 | Africa | [what-makes-eritrea-the-north-korea-of-africa.md](./what-makes-eritrea-the-north-korea-of-africa.md) |
-| 97 | [Why is Belarus dominated by Russia?](https://torinrussell.com/explainers/why-is-belarus-dominated-by-russia) | 2026-05-12 | Russia & Eurasia | [why-is-belarus-dominated-by-russia.md](./why-is-belarus-dominated-by-russia.md) |
-| 98 | [How does Quebec influence Canada’s geopolitical dynamics?](https://torinrussell.com/explainers/how-does-quebec-influence-canadas-geopolitical-dynamics) | 2026-05-11 | North America | [how-does-quebec-influence-canadas-geopolitical-dynamics.md](./how-does-quebec-influence-canadas-geopolitical-dynamics.md) |
-| 99 | [Why is Suriname one of South America’s strangest countries?](https://torinrussell.com/explainers/why-is-suriname-one-of-south-americas-strangest-countries) | 2026-05-08 | Latin America | [why-is-suriname-one-of-south-americas-strangest-countries.md](./why-is-suriname-one-of-south-americas-strangest-countries.md) |
-| 100 | [Why is Nigeria’s security so fragmented?](https://torinrussell.com/explainers/why-is-nigerias-security-so-fragmented) | 2026-05-07 | Africa | [why-is-nigerias-security-so-fragmented.md](./why-is-nigerias-security-so-fragmented.md) |
+## Structure
+
+```
+torin-explainers/
+├── sources/          — 100 original scripts as .md (YAML frontmatter + Markdown body)
+├── stories/          — 6 curated crazy stories that connect the dots
+├── categories/       — 7 thematic clusters (beyond site categories)
+├── connections/      — knowledge graph (Mermaid) linking all 100
+├── verification/     — internet-checked facts + added details
+└── README.md         — you are here
+```
+
+## Originals → Sources
+
+All 100 originals are preserved verbatim in `sources/` (git `R` history from root). Each has:
+- YAML: `title`, `date`, `url`, `categories`, `tags`, `slug`, `author`
+- Body: HTML → Markdown via BeautifulSoup (links absolutized, `*em*`, `**strong**`, `###` / lists)
+
+See `sources/how-did-japan-end-up-controlling-chinas-gateway-to-the-pacific.md` for example. Site pagination: 5×20 (`?format=json&offset=...`), verified no HTML leaks, byte-identical to remote.
+
+## The Six Crazy Stories (Start Here)
+
+| # | Story | Explainers | Hook |
+|---|-------|------------|------|
+| 1 | [The Immortals](./stories/01-the-immortals.md) | 12 | Why San Marino (1.6 cars/person) & Guam (DF-26 target) both cheat death — 4 cheat codes of microstates |
+| 2 | [The Nuclear Heartbeat](./stories/02-the-nuclear-heartbeat.md) | 8 | Warheads rot (12.32y tritium), satellites loop (63.4° Molniya), presidents get 6 minutes |
+| 3 | [The Map That Eats Its People](./stories/03-the-map-that-eats-its-people.md) | 11 | How Berlin's pencil (Gambia 10km) → cobalt → coups — Africa's engineered chaos |
+| 4 | [The Language Ghosts](./stories/04-the-language-ghosts.md) | 8 | Hungarian 3,000km from Siberia, Wales vs Ireland, Basque fiscal sovereignty |
+| 5 | [The Straitjacket Archipelago](./stories/05-the-straitjacket-archipelago.md) | 14 | Ryukyu 1,200km wall, Kaliningrad, India-Bangladesh counter-counter-enclave, Ceuta |
+| 6 | [The Shadow Sovereigns](./stories/06-the-shadow-sovereigns.md) | 9 | Popes, nobles, Lloyd's 72h, Liberia's Virginia flag factory, contractors |
+
+Each story weaves 8-14 explainers into a narrative arc, cites `sources/...md:line` and adds external verification.
+
+## Categories (Original vs Curated)
+
+**Original site categories:** Europe 25, Africa 19, Asia 18, Russia & Eurasia 12, North America 10, Latin America 9, Middle East 6, Oceania & Pacific 5, Caribbean 4, Global 3
+
+**Curated thematic clusters** in `categories/`:
+
+- [The Immortals](./categories/the-immortals.md) — 12 microstates/buffers
+- [Nuclear Shadow](./categories/nuclear-shadow.md) — 8
+- [Engineered Borders & Enclaves](./categories/engineered-borders-and-enclaves.md) — 9
+- [Straitjacket Archipelago](./categories/straitjacket-archipelago.md) — 9
+- [Africa Engineered Chaos](./categories/africa-engineered-chaos.md) — 11
+- [Language Ghosts](./categories/language-ghosts.md) — 8
+- [Shadow Sovereigns](./categories/shadow-sovereigns.md) — 9
+
+Full index: [`categories/README.md`](./categories/README.md). Tags: Democracy & Governance 24, Economy & Trade 22, Conflict 20, Colonial Legacy 17, Military & Defense 16…
+
+## Connections Graph
+
+[`connections/GRAPH.md`](./connections/GRAPH.md) — Mermaid graph with 100 nodes, 6 clusters, and 5 surprise bridges:
+- San Marino cars ↔ Liberia flags (registration arbitrage)
+- Bhutan villages ↔ tritium decay (satellite-measured)
+- Molniya 63.4° ↔ Danish Straits 1857 (latitude math)
+- Eritrea 10% Bab el-Mandeb ↔ Lloyd's 10% Hormuz
+- Paraguay Itaipú ↔ Bhutan hydro (identical must-sell clause)
+
+## Verification
+
+[`verification/VERIFICATION.md`](./verification/VERIFICATION.md) — 8 internet-checked claims with sources:
+
+- San Marino 1,606/1k vehicles (WHO 2018, WorldPopulationReview 2024) ✅
+- Molniya 63.4° frozen orbit ( `4-5 sin²i=0` ) ✅
+- Tritium 12.323 y (DOE-STD-1129-2015, EPA, NRC) ✅
+- Andorra + San Marino **signed 19 Oct 2026** (EU IP_26_2182, Diari d'Andorra) ✅ — joint signing updates Torin's earlier "scheduled" language
+- Bhutan 22 villages, 2,200 homes, 2% annexed (NYT 2024, Reuters 2022, CNN 2024, Diplomat 2024) ✅
+- India-Bangladesh counter-counter-enclave Dahala Khagrabari ✅
+- etc. — methodology and remaining flags documented.
+
+## GitHub
+
+Public mirror: **https://github.com/rara-ventures/torin-explainers** — `main` branch, initial 100 + reorg.
+
+## How to Use
+
+- **Research:** Start with a story (e.g., `stories/01-the-immortals.md`), follow `sources/` links, check `verification/` for external receipts.
+- **Browse by theme:** `categories/the-immortals.md` gives a table with dates/tags.
+- **Visual:** `connections/GRAPH.md` renders in GitHub.
+
+---
+
+*Built 29 Oct 2026 — all scripts © Torin Russell, archived for research.*

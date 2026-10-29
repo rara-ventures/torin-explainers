@@ -1,0 +1,17 @@
+# Shadow Sovereigns
+
+**9 explainers** — curated from `../sources/`
+
+| # | Title | Date | Categories | Tags | Link |
+|---|-------|------|------------|------|------|
+| 1 | [Why does the Pope have one of the best intelligence networks on Earth?](https://torinrussell.com/explainers/why-does-the-pope-have-one-of-the-best-intelligence-networks-on-earth) | 2026-09-17 | Europe | Religion, Intelligence, Diplomacy & Alliances | [../sources/why-does-the-pope-have-one-of-the-best-intelligence-networks-on-earth.md](../sources/why-does-the-pope-have-one-of-the-best-intelligence-networks-on-earth.md) |
+| 2 | [How do Europe’s nobles still shape countries they no longer rule?](https://torinrussell.com/explainers/how-do-europes-nobles-still-shape-countries-they-no-longer-rule) | 2026-09-16 | Europe | Democracy & Governance | [../sources/how-do-europes-nobles-still-shape-countries-they-no-longer-rule.md](../sources/how-do-europes-nobles-still-shape-countries-they-no-longer-rule.md) |
+| 3 | [How do Native Americans influence the US?](https://torinrussell.com/explainers/how-do-native-americans-influence-the-us) | 2026-07-17 | North America | Independence & Autonomy, Democracy & Governance | [../sources/how-do-native-americans-influence-the-us.md](../sources/how-do-native-americans-influence-the-us.md) |
+| 4 | [How does war risk insurance shape geopolitics?](https://torinrussell.com/explainers/how-does-war-risk-insurance-shape-geopolitics) | 2026-10-22 | Global | Economy & Trade, Maritime, Conflict | [../sources/how-does-war-risk-insurance-shape-geopolitics.md](../sources/how-does-war-risk-insurance-shape-geopolitics.md) |
+| 5 | [Why is Liberia so poor when so many ships carry its flag?](https://torinrussell.com/explainers/why-is-liberia-so-poor-when-so-many-ships-carry-its-flag) | 2026-08-03 | Africa | Maritime, Economy & Trade | [../sources/why-is-liberia-so-poor-when-so-many-ships-carry-its-flag.md](../sources/why-is-liberia-so-poor-when-so-many-ships-carry-its-flag.md) |
+| 6 | [Why are the tiny Cayman Islands a center for global finance?](https://torinrussell.com/explainers/why-are-the-tiny-cayman-islands-a-center-for-global-finance) | 2026-07-13 | Caribbean | Economy & Trade, Small States, Colonial Legacy | [../sources/why-are-the-tiny-cayman-islands-a-center-for-global-finance.md](../sources/why-are-the-tiny-cayman-islands-a-center-for-global-finance.md) |
+| 7 | [Who actually fights America’s wars?](https://torinrussell.com/explainers/who-actually-fights-americas-wars) | 2026-07-20 | North America | Military & Defense | [../sources/who-actually-fights-americas-wars.md](../sources/who-actually-fights-americas-wars.md) |
+| 8 | [How does Vladimir Putin outsource Russia’s dirty work to the Kadyrovs?](https://torinrussell.com/explainers/how-does-vladimir-putin-outsource-russias-dirty-work-to-the-kadyrovs) | 2026-05-14 | Russia & Eurasia | Conflict, Democracy & Governance | [../sources/how-does-vladimir-putin-outsource-russias-dirty-work-to-the-kadyrovs.md](../sources/how-does-vladimir-putin-outsource-russias-dirty-work-to-the-kadyrovs.md) |
+| 9 | [Why do US defense companies influence geopolitics so much?](https://torinrussell.com/explainers/why-do-us-defense-companies-influence-geopolitics-so-much) | 2026-08-14 | North America | Military & Defense, Economy & Trade | [../sources/why-do-us-defense-companies-influence-geopolitics-so-much.md](../sources/why-do-us-defense-companies-influence-geopolitics-so-much.md) |
+
+See also story: `../stories/`
