@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "March 22, 1471: the day a country was deleted in 4 days."
+hook: "In 4 days, a 1,200-year kingdom vanished. The king's head hung under a ship."
 duration: "80s"
 region: ["Champa"]
 century: "15th"
@@ -10,17 +10,17 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# A country was deleted in 4 days. Here's the receipt.
+# Vietnam deleted a 1,200-year kingdom in 4 days
 
-> **HOOK 1 — Cat 09 Specificity (085):** March 22, 1471: the day a country was deleted in 4 days.
+> **HOOK 1 — DeepSeek Pick (cold best):** In 4 days, a 1,200-year kingdom vanished. The king's head hung under a ship.
 >
-> **TEXT 1:** `MARCH 22, 1471` — Specific date = credibility, when everything changed
+> **TEXT 1:** `KING'S HEAD UNDER SHIP` — DeepSeek: All three failed. Lead with head (best image in 70 hooks), drop date-first. Worst story needs rebuild from head down.
 >
-> **HOOK 2 — Cat 01 Curiosity (006):** The truth about a 4-day deletion no one talks about.
+> **HOOK 2 — March 22, 1471: the day a country was deleted in 4 days.:** Cat09 Specificity — DeepSeek alt
 >
-> **TEXT 2:** `NOBODY TALKS ABOUT THIS` — Scarce emotional hook drives shares
+> **TEXT 2:** `MARCH`
 >
-> **HOOK 3 — Cat 03 Authority (022):** After analyzing 1,200 years of a kingdom, here's how it ended in 4 days
+> **HOOK 3 — Stop calling 1471 a war. Wars last years. This took 4 days.:** Cat02 Contrarian
 >
 > **TEXT 3:** `1,200YRS → 4 DAYS` — Authority + contrast
 

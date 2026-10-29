@@ -10,17 +10,17 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# They built the biggest temple on Earth, then walked away
+# Why did Cambodia abandon the biggest temple on Earth?
 
-> **HOOK 1 — Cat 07 Story (061):** They finished the biggest temple on Earth. Then they just... left.
+> **HOOK 1 — DeepSeek Pick (cold best):** They finished the biggest temple on Earth. Then they just... left.
 >
-> **TEXT 1:** `THEY JUST LEFT` — Mid-story with ellipsis = must resolve
+> **TEXT 1:** `THEY JUST LEFT` — DeepSeek: H1 best in folder (8.6) but body contradicts. Fix body: 'Kings left. Monks didn't.'
 >
-> **HOOK 2 — Cat 08 Negation (071):** It's not abandoned. Monks never left.
+> **HOOK 2 — After analyzing the world's biggest temple, one number explains why they left: water.:** Cat03 Authority — DeepSeek alt
 >
-> **TEXT 2:** `NOT ABANDONED` — Negation of abandoned assumption
+> **TEXT 2:** `AFTER`
 >
-> **HOOK 3 — Cat 04 Emotional (040):** If you've ever finished something huge then walked away, watch this
+> **HOOK 3 — It's not abandoned. Monks never left.:** Cat08 Negation
 >
 > **TEXT 3:** `IF YOU EVER FINISHED...` — Mirrors viewer's quit-project pain
 

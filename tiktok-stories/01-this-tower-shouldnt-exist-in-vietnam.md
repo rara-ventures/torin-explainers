@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Not Buddhist. Not Vietnamese. Prayed to daily."
+hook: "This tower shouldn't exist in Vietnam."
 duration: "85s"
 region: ["Champa"]
 century: "8th"
@@ -10,17 +10,17 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# This tower shouldn't exist in Vietnam
+# Why is there a 1,200-year-old Hindu temple in Vietnam?
 
-> **HOOK 1 — Cat 08 Negation (071):** Not Buddhist. Not Vietnamese. Prayed to daily.
+> **HOOK 1 — DeepSeek Pick (cold best):** This tower shouldn't exist in Vietnam.
 >
-> **TEXT 1:** `NOT BUDDHIST` — Stop-scroll: 2-word negation in 0.3s, contradicts Vietnam=Buddhist
+> **TEXT 1:** `TOWER SHOULDN'T EXIST` — DeepSeek: filename title beats all 3 hooks. Use it as spoken hook. Ban 'Nobody tells you'.
 >
-> **HOOK 2 — Cat 01 Curiosity (001):** Nobody tells you Vietnam has a Hindu temple that never closed.
+> **HOOK 2 — Not Buddhist. Not Vietnamese. Prayed to daily.:** Cat08 Negation — DeepSeek alt
 >
-> **TEXT 2:** `NOBODY TELLS YOU` — Open loop: why Hindu in Vietnam?
+> **TEXT 2:** `NOT BUDDHIST` — Negation
 >
-> **HOOK 3 — Cat 09 Specificity:** 1,200 years. 2 thefts. 1 goddess still getting flowers.
+> **HOOK 3 — 1,200 years. 2 thefts. 1 goddess still getting flowers.:** Cat09 Specificity
 >
 > **TEXT 3:** `1,200 YEARS STILL FLOWERS` — Odd numbers = credibility
 

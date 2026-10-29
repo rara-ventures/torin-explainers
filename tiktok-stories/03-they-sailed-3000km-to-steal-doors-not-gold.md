@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Stop stealing gold. In 1025 they stole doors."
+hook: "What would you do if invaders stole your front door, not your vault?"
 duration: "80s"
 region: ["Kedah Srivijaya"]
 century: "11th"
@@ -10,17 +10,17 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# They sailed 3,000km to steal doors, not gold
+# Why did an empire sail 3,000km to steal doors, not gold?
 
-> **HOOK 1 — Cat 02 Contrarian (011):** Stop stealing gold. In 1025 they stole doors.
+> **HOOK 1 — DeepSeek Pick (cold best):** What would you do if invaders stole your front door, not your vault?
 >
-> **TEXT 1:** `STOP STEALING GOLD` — Contradicts raid=gold assumption
+> **TEXT 1:** `STEAL DOORS, NOT GOLD?` — DeepSeek: H1 shouted at nobody. 'What would you do' second-person with concrete nouns wins cold. Also need raider face.
 >
-> **HOOK 2 — Cat 07 Story (065):** Last week I found a receipt for a 1025 burglary — they took the front door.
+> **HOOK 2 — Stop stealing gold. In 1025 they stole doors.:** Cat02 Contrarian — DeepSeek alt
 >
-> **TEXT 2:** `RECEIPT: 1025 BURGLARY` — Mid-story needs resolution
+> **TEXT 2:** `STOP`
 >
-> **HOOK 3 — Cat 09 Specificity:** 3,000km. 14 cities. 1 front door. Invoice: jewelled gate.
+> **HOOK 3 — 3,000km. 14 cities. 1 front door.:** Cat09 Specificity
 >
 > **TEXT 3:** `3,000KM. 1 DOOR.` — Odd specificity = credibility
 

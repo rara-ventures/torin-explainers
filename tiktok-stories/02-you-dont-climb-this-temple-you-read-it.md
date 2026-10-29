@@ -10,17 +10,17 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# You don't climb this temple. You read it.
+# The biggest temple on Earth is a book you walk through
 
-> **HOOK 1 — Cat 02 Contrarian (011):** Stop climbing temples. This one you read.
+> **HOOK 1 — DeepSeek Pick (cold best):** Stop climbing temples. This one you read.
 >
-> **TEXT 1:** `STOP CLIMBING` — Pattern interrupt: climbing is wrong
+> **TEXT 1:** `STOP CLIMBING` — DeepSeek: H1 is only hook needing zero geography — keep. Don't touch H1. Fix body contradiction later.
 >
-> **HOOK 2 — Cat 09 Specificity:** 2,672 carvings. Zero words. 5km walk to finish the sentence.
+> **HOOK 2 — It's not a temple. It's a 60,000-ton book.:** Cat08 Negation — DeepSeek alt
 >
-> **TEXT 2:** `2,672 CARVINGS. 0 WORDS.` — Specificity = proves book claim
+> **TEXT 2:** `IT'S`
 >
-> **HOOK 3 — Cat 10 Confession (005):** I've been climbing temples wrong my entire life
+> **HOOK 3 — 2,672 carvings. Zero words. 5km walk to finish.:** Cat09 Specificity
 >
 > **TEXT 3:** `WRONG MY WHOLE LIFE` — Confession + relatability
 

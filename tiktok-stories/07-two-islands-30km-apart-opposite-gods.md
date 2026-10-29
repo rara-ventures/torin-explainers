@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "What if your neighbor's god was opposite yours — 30km away, same passport?"
+hook: "Bali isn't Hindu because it's holy. It's Hindu because of rice fields."
 duration: "75s"
 region: ["Bali"]
 century: "16th"
@@ -10,17 +10,17 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Two islands, 30km apart, opposite gods — same country
+# Why is Bali Hindu when the rest of Indonesia is Muslim?
 
-> **HOOK 1 — Cat 06 Question (052):** What if your neighbor's god was opposite yours — 30km away, same passport?
+> **HOOK 1 — DeepSeek Pick (cold best):** Bali isn't Hindu because it's holy. It's Hindu because of rice fields.
 >
-> **TEXT 1:** `WHAT IF NEIGHBOR...?` — Shocking premise forces answer
+> **TEXT 1:** `RICE, NOT HOLY` — DeepSeek: Promote H3 to H1, delete 'Unpopular opinion'. Best Torin clone. H1 question was riddle.
 >
-> **HOOK 2 — Cat 08 Negation (073):** It's not about religion. It's about rice vs pepper.
+> **HOOK 2 — 30km. Same country. Opposite gods. The difference is rice.:** Cat09 Specificity — DeepSeek alt
 >
-> **TEXT 2:** `NOT RELIGION. RICE.` — Myth buster: religion excuse → trade reason
+> **TEXT 2:** `30KM.`
 >
-> **HOOK 3 — Cat 02 Contrarian (013):** Unpopular opinion: Bali isn't Hindu because it's holy. It's Hindu because of rice fields.
+> **HOOK 3 — It's not about religion. It's about rice vs pepper.:** Cat08 Negation
 >
 > **TEXT 3:** `RICE, NOT HOLY` — Contrarian of holy assumption
 

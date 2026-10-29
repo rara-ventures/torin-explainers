@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "I'll admit it: I thought Tibetan Buddhism came from Tibet. It didn't."
+hook: "Tibetan Buddhism didn't come from Tibet. It came through Indonesia."
 duration: "85s"
 region: ["Srivijaya"]
 century: "7th"
@@ -10,17 +10,17 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Tibet's Buddhism has a 671 receipt from Indonesia
+# Tibetan Buddhism didn't come from Tibet. It came through Indonesia.
 
-> **HOOK 1 — Cat 10 Confession (092):** I'll admit it: I thought Tibetan Buddhism came from Tibet. It didn't.
+> **HOOK 1 — DeepSeek Pick (cold best):** Tibetan Buddhism didn't come from Tibet. It came through Indonesia.
 >
-> **TEXT 1:** `NOT FROM TIBET` — Vulnerability + myth crack
+> **TEXT 1:** `NOT FROM TIBET` — DeepSeek: Delete receipt prop (fake document). Use through, not from. No year as ticket number.
 >
-> **HOOK 2 — Cat 01 Curiosity (009):** The monk who taught Tibet left a boat ticket in Sumatra — 671.
+> **HOOK 2 — The monk who taught Tibet left a boat ticket in Sumatra — 671.:** Cat01 Curiosity — DeepSeek alt
 >
-> **TEXT 2:** `BOAT TICKET: 671` — Curiosity gap + proof
+> **TEXT 2:** `THE`
 >
-> **HOOK 3 — Cat 06 Question (059):** Did your meditation app ever tell you it was copied in Indonesia?
+> **HOOK 3 — Did your meditation app ever tell you it was copied in Indonesia?:** Cat06 Question
 >
 > **TEXT 3:** `DID YOUR APP TELL YOU?` — Direct address forces answer
 
