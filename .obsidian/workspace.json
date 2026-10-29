@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indianization/visualizations/spread-map.md",
+                "file": "indianization/sources/00-bce-prelude/timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spread-map"
+              "title": "timeline"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indianization/visualizations/spread-map.md",
+                "file": "indianization/sources/00-bce-prelude/timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "indianization/visualizations/spread-map.md",
+                "file": "indianization/sources/00-bce-prelude/timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "indianization/visualizations/spread-map.md",
+                "file": "indianization/sources/00-bce-prelude/timeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,14 +190,26 @@
   },
   "active": "7f13a60678b21726",
   "lastOpenFiles": [
-    "indianization/visualizations/influence-matrix.md",
-    "indianization/visualizations/spread-map.md",
-    "indianization/Dashboard.md",
+    "indianization/sources/00-bce-prelude/README.md",
+    "indianization/vectors/art-architecture/timeline.md",
+    "tiktok-stories/README.md",
+    "tiktok-stories/07-why-does-bali-still-pray-to-shiva.md",
+    "tiktok-stories/06-why-did-vietnam-erase-a-kingdom-in-4-days.md",
+    "tiktok-stories/05-why-did-cambodia-build-then-abandon-the-worlds-biggest-temple.md",
+    "tiktok-stories/04-how-did-indonesia-teach-tibet-to-meditate.md",
+    "tiktok-stories/03-why-did-tamil-kings-burn-kedah.md",
+    "tiktok-stories/02-how-did-a-mountain-become-a-book.md",
+    "tiktok-stories/01-why-does-vietnam-pray-to-a-hindu-war-goddess.md",
+    "Templates/Bases/TikTok.base",
+    "Categories/TikTok Stories.md",
+    "indianization/vectors/art-architecture/README.md",
     "indianization/README.md",
+    "indianization/visualizations/spread-map.md",
+    "tiktok-stories",
+    "indianization/visualizations/influence-matrix.md",
+    "indianization/Dashboard.md",
     "indianization/vectors/brahmin-royal/README.md",
     "indianization/vectors/brahmin-royal/timeline.md",
-    "indianization/vectors/art-architecture/timeline.md",
-    "indianization/vectors/art-architecture/README.md",
     "indianization/regions/angkor/README.md",
     "Categories/Angkor.md",
     "Templates/Bases/Buddhism.base"

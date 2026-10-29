@@ -1,0 +1,35 @@
+filters:
+  and:
+    - categories.contains(link("TikTok Stories"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Story
+  note.hook:
+    displayName: Hook
+  note.duration:
+    displayName: Duration
+  note.region:
+    displayName: Region
+  note.status:
+    displayName: Status
+  note.created:
+    displayName: Created
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - hook
+      - duration
+      - region
+      - status
+    sort:
+      - property: created
+        direction: DESC
+  - type: cards
+    name: Cards
+    order: []
+    sort:
+      - property: created
+        direction: DESC
