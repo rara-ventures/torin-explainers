@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Wu Envoys Shocked** — Kang Tai & Zhu Ying note 'naked except pull-over' and map Tun-sun market 10k | Funan | Trade Maritime | ⬜ TODO |
+| 2 | **Sanskrit Goes South** — Ikshvaku switch Prakrit→Sanskrit, Panini grammar for export | Amaravati→SE Asia | Pallava Script | ⬜ TODO |
+| 3 | **City of Canals** — 1.5×2km moat + axial canal to Gulf dug — port engineering | Oc Eo | Trade Maritime | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

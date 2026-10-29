@@ -20,9 +20,10 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Borobudur Complete** — Hidden Karmavibhanga encased, 504 Buddhas, pradaksina 5km | Java | Art Architecture | ⬜ TODO |
+| 2 | **Prambanan Answer** — Pikatan's 47m Shiva tower 30km away — Hindu counterpoint | Java | Art Architecture | ⬜ TODO |
+| 3 | **Nalanda Connection** — Balaputra exiled to Suvarnadvipa grants 5 villages at Nalanda 860 | Bengal→Sumatra | Buddhism | ⬜ TODO |
+| 4 | **Dong Duong Enclave** — Indravarman II's Laksmindralokesvara — Buddhist island in Shaiva sea | Champa 875 | Buddhism | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

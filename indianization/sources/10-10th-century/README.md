@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Yasodharapura** — Yasovarman I's hydraulic mandala — East Baray 7.5km, Bakheng Meru | Angkor | Art Architecture | ⬜ TODO |
+| 2 | **Chola Fleet Building** — Rajaraja I's naval yards — prelude to 1025 | Tamil Nadu | Trade Maritime | ⬜ TODO |
+| 3 | **Nalanda→Tibet via Srivijaya** — Atisha studies under Dharmakirti at Palembang before Tibet | Srivijaya | Buddhism | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

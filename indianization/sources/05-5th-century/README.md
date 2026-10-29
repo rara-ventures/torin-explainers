@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Kutai Yupa** — Mulavarman Vedic sacrifice — rival oldest Sanskrit, buffalo + Brahmana gifts | Borneo | Pallava Script | ⬜ TODO |
+| 2 | **Chenla Rising** — Funan fades, Zhenla Bhavavarman takes over — Isanapura | Mekong | Brahmin Royal | ⬜ TODO |
+| 3 | **Dharma Wheels Turn** — Mon Dharma wheels at Nakhon Pathom — Pali Theravada arrives | Dvaravati | Buddhism | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

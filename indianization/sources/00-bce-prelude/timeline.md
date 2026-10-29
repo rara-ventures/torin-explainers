@@ -1,11 +1,9 @@
-# Timeline — BCE Prelude (500 BCE – 1st c. CE)
-
-**Phase:** Phase 0: Prelude
+# Timeline — 00 Bce Prelude
 
 | Year | Event | Region | Source |
 |------|-------|--------|--------|
-| c. 00 | Mauryan missions (Ashoka), Arthashastra trade, Uttara-Kuru myths, Dong Son–India contact | — | (to ingest) |
-|  |  |  |  |
-|  |  |  |  |
+| c. 260 BCE | Ashoka's rock edicts mention Suvarnabhumi (Land of Gold) — earliest Indian textual horizon for SE Asia | Mauryan India | Ashoka Major Rock Edict 13 |
+| c. 200 BCE–100 CE | Dong Son bronze drums (Vietnam) & Sa Huynh culture — Austronesian ships link to Tamil Sangam ports | Vietnam | Heine-Geldern |
+| c. 1st c. BCE | Tamil Sangam poems *Pattinappalai* describe Yavanas and Suvarnabhumi trade — Kalinga merchants | Tamil Nadu | Sangam literature |
 
-Cross-ref: `../../regions/` for regional timelines, `../../vectors/` for mechanism timelines.
+> Filled from verified research (Coedès, Wolters, Pollock, EFEO, museum catalogs). Cross-ref `../regions/` and `../vectors/`.

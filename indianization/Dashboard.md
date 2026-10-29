@@ -3,7 +3,7 @@ categories: "[[Indianization Sources]]"
 created: 2026-10-29
 ---
 
-# Indianization Dashboard — Champa → Buddhism in Indonesia
+# The Sanskrit Cosmopolis — Indianization of Southeast Asia (500 BCE–1500 CE)
 
 > **Start here for Obsidian.** This note embeds live Bases. Change a `century:` or `region:` frontmatter and tables resort instantly.
 

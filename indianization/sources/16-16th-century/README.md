@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Malacca Lost** — Albuquerque takes Malacca — Sanskrit cosmopolis ends | 1511 Portuguese | Trade Maritime | ⬜ TODO |
+| 2 | **Demak Takes Java** — Islamic Demak vs Majapahit — Borobudur jungle, Bali Hindu refuge | 1527 | Art Architecture | ⬜ TODO |
+| 3 | **Panduranga End** — Minh Mang dissolves last Champa — Ahiér Hindu survives Phan Rang | 1832 | Brahmin Royal | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

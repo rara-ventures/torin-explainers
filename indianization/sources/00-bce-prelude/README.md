@@ -20,9 +20,8 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Ashoka's Whisper** — How edicts mentioning Suvarnabhumi sent the first monks east | Mauryan India | Buddhism | ⬜ TODO |
+| 2 | **Monsoon Guessing** — Dong Son drums meet Tamil beads — before Sanskrit | Tamil–Austronesian | Trade Maritime | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

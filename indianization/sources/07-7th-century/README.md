@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Yijing's Classroom** — Yijing finds 1000 monks 'as in Madhyadesa', learns Sanskrit 6 months | Srivijaya Palembang | Buddhism | ⬜ TODO |
+| 2 | **Dapunta's Siddhayatra** — Kedukan Bukit — 20k troops, 1312 foot, Old Malay/Pallava, vanua founded | Srivijaya 683 | Trade Maritime | ⬜ TODO |
+| 3 | **Po Nagar's Mother** — Early towers on Cu Lao hill, Mukhalinga + Bhagavati duality | Champa Kauthara | Art Architecture | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

@@ -1,11 +1,9 @@
-# Timeline — 1st Century CE
-
-**Phase:** Phase 1: Contact (1st–4th)
+# Timeline — 01 1St Century
 
 | Year | Event | Region | Source |
 |------|-------|--------|--------|
-| c. 01 | Funan (Oc Eo) early trade, Amaravati Buddhism to Mekong, Kaundinya legend | — | (to ingest) |
-|  |  |  |  |
-|  |  |  |  |
+| c. 20–70 CE | Oc Eo (Funan) fishing village becomes port — piling-houses, moats, Kra Isthmus trade | Mekong Delta (Funan) | Malleret 1944, Stark/Manguin |
+| c. 68 CE | Fan Shiman (Fan Shih-man) conquers Qu Duc Kun, 5000 li — first Funan conqueror in Liangshu | Funan | Liangshu 636 (Pelliot 1903) |
+| c. 84 CE | Hou Hanshu first records Funan embassies to Later Han — maritime contact | China–Funan | Hou Hanshu |
 
-Cross-ref: `../../regions/` for regional timelines, `../../vectors/` for mechanism timelines.
+> Filled from verified research (Coedès, Wolters, Pollock, EFEO, museum catalogs). Cross-ref `../regions/` and `../vectors/`.

@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **My Son A1 Linga** — Bhadreshvara linga, Dvaravati-style dancers on pedestal E1 | Champa | Art Architecture | ⬜ TODO |
+| 2 | **Kalah Entrepôt** — Proto-city at Merbok, Persian glass, Arab prelude | Kedah | Trade Maritime | ⬜ TODO |
+| 3 | **Chan Patriarch in Vietnam** — Vinitaruci 580 — Indian Chan via China to Vietnam | Luy Lau | Buddhism | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

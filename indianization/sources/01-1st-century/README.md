@@ -20,9 +20,8 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **The Fishing Village Boom Town** — Malay family builds warehouses as Kra trade booms | Funan (Oc Eo) | Trade Maritime | ⬜ TODO |
+| 2 | **Fan Shiman's 5,000 Li** — Conqueror builds ships, attacks Qu-du-kun — Liangshu | Funan | Brahmin Royal | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

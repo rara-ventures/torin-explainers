@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Samudragupta to Kanchi** — Allahabad pillar — Vishnugopa reinstated, tribute from SE Asia | Gupta→Pallava | Brahmin Royal | ⬜ TODO |
+| 2 | **Bhadravarman's Valley** — Bhadreśvara linga, 4 boundaries, karma curse, wooden tower | Champa My Son | Brahmin Royal | ⬜ TODO |
+| 3 | **Scribe from Kanchi** — Pallava scribe teaches Old Cham in Pallava letters — Dong Yen Chau | Pallava→Champa | Pallava Script | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

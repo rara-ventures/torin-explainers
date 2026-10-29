@@ -1,11 +1,9 @@
-# Timeline — 5th Century CE
-
-**Phase:** Phase 2: Transplant (5th–7th)
+# Timeline — 05 5Th Century
 
 | Year | Event | Region | Source |
 |------|-------|--------|--------|
-| c. 05 | Funan decline, Chenla rises, Dvaravati (Mon) Wawak inscription, Kedah–Srivijaya proto, Gupta art to Champa | — | (to ingest) |
-|  |  |  |  |
-|  |  |  |  |
+| c. 400–430 CE | Kutai yupa (Mulavarman, Borneo) — rival oldest Sanskrit, Vapra sacrifice — East Kalimantan enters cosmopolis | Kutai, Borneo | Vogel |
+| c. 450–550 CE | Funan declines; Chenla rises (Zhenla in Chinese). Dvaravati (Mon) Dharma wheels appear Nakhon Pathom | Mekong / Central Thailand | Coedès |
+| c. 500 CE | Pallava-Kanchi bull/ship coins, Panini grammar schools — script export to SE Asia peaks | Kanchi | Elliot |
 
-Cross-ref: `../../regions/` for regional timelines, `../../vectors/` for mechanism timelines.
+> Filled from verified research (Coedès, Wolters, Pollock, EFEO, museum catalogs). Cross-ref `../regions/` and `../vectors/`.

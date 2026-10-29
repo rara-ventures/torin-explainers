@@ -1,4 +1,4 @@
-# Indianization of Southeast Asia — South Asian History Lab
+# The Sanskrit Cosmopolis — How India Traveled Without Conquering (500 BCE–1500 CE)
 
 > From Kaundinya's Naga bride in Funan to Borobudur's 2,672 reliefs and Bali's living Hinduism — how India traveled without conquering.
 

@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Willow Leaf & Divine Bow** — Queen Liu Ye vs Kaundinya aux bow — foundation myth performed | Funan | Brahmin Royal | ⬜ TODO |
+| 2 | **Vo Canh Afterlife** — Śrī Māra's grandsons hire Amaravati scribe for 2.5m stele | Champa (Nha Trang) | Pallava Script | ⬜ TODO |
+| 3 | **Antoninus Pius in the Mekong** — Gold bracteate of 152 CE hammered locally — Roman coin becomes amulet | Oc Eo | Trade Maritime | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

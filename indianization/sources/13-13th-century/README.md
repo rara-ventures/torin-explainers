@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Sukhothai Script** — Ramkhamhaeng invents Thai script from Khmer/Sanskrit | Siam 1283 | Pallava Script | ⬜ TODO |
+| 2 | **Yuan Fails at Java** — Kublai's 20k troops betrayed at Majapahit — Raden Wijaya's bitter fruit | Java 1293 | Trade Maritime | ⬜ TODO |
+| 3 | **Mongol Sack Vijaya** — Yuan vs Champa — prelude to Dai Viet | Champa 1283 | Trade Maritime | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

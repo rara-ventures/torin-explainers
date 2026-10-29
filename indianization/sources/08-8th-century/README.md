@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Kalasan's Bengal Monk** — Kumaraghosa from Gaudi builds Tara temple for Panangkaran | Java Kalasan | Buddhism | ⬜ TODO |
+| 2 | **Mountain of Mandala** — Gunadharma's 2672 panels — walkable sutra begins | Borobudur start | Art Architecture | ⬜ TODO |
+| 3 | **God-King on Kulen** — Jayavarman II devaraja, 'came from Java' mystery | Angkor 802 | Brahmin Royal | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

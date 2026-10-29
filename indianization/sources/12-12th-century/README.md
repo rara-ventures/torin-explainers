@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Lanka Purified** — Parakramabahu unifies Mahavihara — Theravada orthodoxy for export | Sri Lanka 1153 | Buddhism | ⬜ TODO |
+| 2 | **Bayon's 216 Faces** — Jayavarman VII Mahayana Hevajra? 59 towers, Muchalinda | Angkor 1181 | Buddhism | ⬜ TODO |
+| 3 | **Sihala Sangha at Pagan** — Chapata returns from Lanka with 4 monks — Sinhalese lineage | Pagan 1181 | Buddhism | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

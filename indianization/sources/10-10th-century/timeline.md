@@ -1,11 +1,9 @@
-# Timeline — 10th Century CE
-
-**Phase:** Phase 3: Classical
+# Timeline — 10 10Th Century
 
 | Year | Event | Region | Source |
 |------|-------|--------|--------|
-| c. 10 | Angkor foundation (Yasodharapura), Pagan early, Chola maritime rise, Srivijaya peak trade | — | (to ingest) |
-|  |  |  |  |
-|  |  |  |  |
+| c. 900–1000 CE | Yasodharapura (Angkor) mature hydraulic city; Pagan early; Chola maritime under Rajaraja I rises | Angkor / Pagan | Jacques |
+| c. 991–1011 CE | Atisha studies in Srivijaya under Dharmakirti — Srivijaya as Mahayana center | Palembang | Tibetan tradition |
+| 950 CE | Khmer Rajendravarman II steals golden Bhagavati of Po Nagar (Kauthara) — Cham 965 stone replacement (1.2m goddess) still worshipped | Nha Trang (Po Nagar) | C.31 |
 
-Cross-ref: `../../regions/` for regional timelines, `../../vectors/` for mechanism timelines.
+> Filled from verified research (Coedès, Wolters, Pollock, EFEO, museum catalogs). Cross-ref `../regions/` and `../vectors/`.

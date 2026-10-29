@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Malacca Sultanate** — Parameswara's Islam — Strait from Buddhist to Muslim | Malay Peninsula 1402 | Trade Maritime | ⬜ TODO |
+| 2 | **Angkor Abandoned** — Ayutthaya sack — capital to Phnom Penh, Theravada persists | Cambodia 1431 | Art Architecture | ⬜ TODO |
+| 3 | **Vijaya Falls** — Le Thanh Tong's catapults — 40k dead, Tra Toan beheaded, Ahiér/Bani split | Champa 1471 | Brahmin Royal | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 

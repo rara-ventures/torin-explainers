@@ -20,9 +20,9 @@ status: todo
 
 | # | Story | Region | Vector | Status |
 |---|-------|--------|--------|--------|
-| 1 | *(pending: field to fill after source ingestion)* | — | — | ⬜ TODO |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 1 | **Chola Surprise** — Rajendra's 14 ports via Sunda Strait — jewelled gates taken | Kedah/Palembang 1025 | Trade Maritime | ⬜ TODO |
+| 2 | **Mon Canon Taken** — Anawrahta sacks Thaton — 30 sets Pali on 32 white elephants | Pagan 1057 | Buddhism | ⬜ TODO |
+| 3 | **Angkor Wat Rising** — Suryavarman II's 162ha Vishnu Meru — west-facing, 65m | Angkor 1113 | Art Architecture | ⬜ TODO |
 
 Add stories here linking to `../../regions/` and `../../vectors/`. Example: for Champa → see `../../regions/champa/README.md`.
 
