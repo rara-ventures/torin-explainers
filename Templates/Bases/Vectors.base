@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.path.contains("vectors")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Vector
+  note.vector:
+    displayName: Mechanism
+views:
+  - type: table
+    name: All Vectors
+    order:
+      - file.name
+      - vector

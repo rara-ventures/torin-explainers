@@ -1,0 +1,34 @@
+filters:
+  and:
+    - or:
+        - categories.contains(link("Champa"))
+        - note.region.contains("Champa")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Source
+  note.century:
+    displayName: Century
+  note.vector:
+    displayName: Vector
+  note.religion:
+    displayName: Religion
+views:
+  - type: table
+    name: All Champa
+    order:
+      - file.name
+      - century
+      - vector
+      - religion
+    sort:
+      - property: century
+        direction: ASC
+  - type: table
+    name: By Vector
+    filters:
+      and:
+        - list(vector).contains(this)
+    order:
+      - file.name
+      - century

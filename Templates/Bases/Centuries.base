@@ -1,0 +1,22 @@
+filters:
+  and:
+    - categories.contains(link("Indianization Sources"))
+    - note.century
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Century Folder
+  note.phase:
+    displayName: Phase
+  note.century:
+    displayName: Century
+views:
+  - type: table
+    name: Timeline
+    order:
+      - file.name
+      - century
+      - phase
+    sort:
+      - property: century
+        direction: ASC

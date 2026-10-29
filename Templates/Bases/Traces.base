@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.path.contains("traces")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Trace
+  note.region:
+    displayName: Regions
+  note.vector:
+    displayName: Vector
+views:
+  - type: table
+    name: All Traces
+    order:
+      - file.name
+      - region
+      - vector

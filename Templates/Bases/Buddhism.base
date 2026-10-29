@@ -1,0 +1,34 @@
+filters:
+  and:
+    - or:
+        - categories.contains(link("Buddhism Vector"))
+        - note.vector.contains("Buddhism")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Source
+  note.century:
+    displayName: Century
+  note.region:
+    displayName: Region
+  note.polity:
+    displayName: Polity
+views:
+  - type: table
+    name: All Buddhist
+    order:
+      - file.name
+      - century
+      - region
+      - polity
+    sort:
+      - property: century
+        direction: ASC
+  - type: table
+    name: Theravada vs Mahayana
+    filters:
+      and:
+        - list(religion).contains(this)
+    order:
+      - file.name
+      - century

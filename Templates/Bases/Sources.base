@@ -1,0 +1,48 @@
+filters:
+  and:
+    - categories.contains(link("Indianization Sources"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Source
+  note.century:
+    displayName: Century
+  note.phase:
+    displayName: Phase
+  note.region:
+    displayName: Region
+  note.vector:
+    displayName: Vector
+  note.created:
+    displayName: Added
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: By Century
+    order:
+      - file.name
+      - century
+      - phase
+      - region
+      - vector
+      - status
+    sort:
+      - property: century
+        direction: ASC
+  - type: table
+    name: Champa → Indonesia
+    filters:
+      and:
+        - or:
+            - note.region.contains("Champa")
+            - note.region.contains("Sailendra")
+            - note.region.contains("Srivijaya")
+        - note.vector.containsAny("Buddhism")
+    order:
+      - file.name
+      - century
+      - region
+  - type: cards
+    name: Cards
+    order: []

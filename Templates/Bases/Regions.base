@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.path.contains("regions")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Region
+  file.path:
+    displayName: Path
+views:
+  - type: table
+    name: All Regions
+    order:
+      - file.name
+  - type: cards
+    name: Map
+    order: []

@@ -1,0 +1,62 @@
+filters:
+  and:
+    - categories.contains(link("Indianization Sources"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Note
+  note.century:
+    displayName: Century
+  note.phase:
+    displayName: Phase
+  note.region:
+    displayName: Region
+  note.vector:
+    displayName: Vector
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: All Indianization
+    order:
+      - file.name
+      - century
+      - phase
+      - region
+      - vector
+      - status
+    sort:
+      - property: century
+        direction: ASC
+  - type: table
+    name: Champa Focus
+    filters:
+      and:
+        - note.region.containsAny("Champa")
+    order:
+      - file.name
+      - century
+      - vector
+  - type: table
+    name: Buddhism in Indonesia
+    filters:
+      and:
+        - note.region.containsAny("Sailendra", "Srivijaya", "Bali", "Majapahit")
+        - note.vector.containsAny("Buddhism")
+    order:
+      - file.name
+      - century
+      - region
+  - type: table
+    name: Champa → Java Trace
+    filters:
+      and:
+        - or:
+            - note.region.containsAny("Champa")
+            - note.region.containsAny("Sailendra")
+            - note.region.containsAny("Srivijaya")
+        - note.vector.containsAny("Buddhism", "Pallava Script")
+    order:
+      - file.name
+      - century
+      - region
