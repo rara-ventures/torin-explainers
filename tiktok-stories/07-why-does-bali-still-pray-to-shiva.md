@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "In 1478 Demak's cannons took Majapahit. The priests didn't fight. They sailed to Bali with their palm leaves."
+hook: "Java chose Allah for pepper. Bali chose Shiva for rice."
 duration: "75s"
 region: ["Bali"]
 century: "16th"
@@ -12,7 +12,15 @@ author: "Torin-style • Indianization Lab"
 
 # Why does Bali still pray to Shiva while Java prays to Allah?
 
-> **HOOK (first 3s):** In 1478 Demak's cannons took Majapahit. The priests didn't fight. They sailed to Bali with their palm leaves.
+> **HOOK (first 3s):** Java chose Allah for pepper. Bali chose Shiva for rice.
+>
+> **TEXT OVERLAY (3-7w):** `PEPPER vs RICE`
+>
+> **ALT HOOK:** Stop asking why Bali is Hindu. Ask why Java stopped being.
+>
+> **FORMULA:** Opposites/Contrasting Hook + Diagnosis (why your X fails) — Opposites hook creates tension (Java vs Bali, pepper vs rice, Allah vs Shiva) — viewer wants bridge. Short 3-word text overlay works sound-off. Diagnosis reframes question (not why Bali Hindu, why Java not).
+>
+> **VISUAL:** Split screen: Demak mosque left / Besakih temple right — before/after contrast (+5% VTR product+human, here religion+human).
 
 **Length:** 75s • **Region:** Bali • **Century:** 16th • **For:** TikTok / Reels / Shorts
 

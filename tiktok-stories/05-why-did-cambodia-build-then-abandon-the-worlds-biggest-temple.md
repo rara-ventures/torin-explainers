@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "162 hectares. 65 meters. Aligned to the equinox. And they just left it."
+hook: "Angkor Wat was built to be abandoned — and that's why monks never left."
 duration: "90s"
 region: ["Angkor"]
 century: "12th"
@@ -12,7 +12,15 @@ author: "Torin-style • Indianization Lab"
 
 # Why did Cambodia build then abandon the world's biggest temple?
 
-> **HOOK (first 3s):** 162 hectares. 65 meters. Aligned to the equinox. And they just left it.
+> **HOOK (first 3s):** Angkor Wat was built to be abandoned — and that's why monks never left.
+>
+> **TEXT OVERLAY (3-7w):** `BUILT TO BE ABANDONED`
+>
+> **ALT HOOK:** The world's biggest temple was a calendar, a tomb, and a trick — all at once.
+>
+> **FORMULA:** Contrarian / Narrative Foreshadowing (promise payoff at end) — Paradox (built to be abandoned) creates open loop — how? Forces completion to resolve. 'Monks never left' hints loop ending → rewatch. Contradiction drives shares.
+>
+> **VISUAL:** Equinox timelapse: sun rises behind central tower from western causeway (tease payoff first, then explain) — escalation method.
 
 **Length:** 90s • **Region:** Angkor • **Century:** 12th • **For:** TikTok / Reels / Shorts
 

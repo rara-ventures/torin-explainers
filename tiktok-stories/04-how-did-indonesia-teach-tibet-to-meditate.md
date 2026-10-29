@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "A monk from Nalanda went the wrong way to Tibet — via Sumatra."
+hook: "Tibet learned to meditate from Indonesia. I can prove it with a boat ticket from 671."
 duration: "85s"
 region: ["Srivijaya"]
 century: "7th"
@@ -12,7 +12,15 @@ author: "Torin-style • Indianization Lab"
 
 # How did Indonesia teach Tibet to meditate?
 
-> **HOOK (first 3s):** A monk from Nalanda went the wrong way to Tibet — via Sumatra.
+> **HOOK (first 3s):** Tibet learned to meditate from Indonesia. I can prove it with a boat ticket from 671.
+>
+> **TEXT OVERLAY (3-7w):** `TIBET'S TEACHER LIVED IN SUMATRA`
+>
+> **ALT HOOK:** POV: you sail to India to learn Sanskrit and your teacher says 'first, stay in Sumatra 2 years'
+>
+> **FORMULA:** Stat Shock + POV/Identity + Authority (671 = specificity = credibility) — Stat shock (671) + geography violation (Tibet via Indonesia) creates curiosity gap. POV puts viewer as Yijing. Authority (boat ticket) = proof. Second-person + year beats vague 'a monk'.
+>
+> **VISUAL:** Persian ship deck POV, then Yijing's 400 manuscripts pile (500k verses) — product interaction (+5% VTR) human+manuscript in first 6s.
 
 **Length:** 85s • **Region:** Srivijaya • **Century:** 7th • **For:** TikTok / Reels / Shorts
 

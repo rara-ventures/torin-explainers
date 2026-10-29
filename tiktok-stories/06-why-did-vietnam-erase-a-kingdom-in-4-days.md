@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "In March 1471, Vietnamese catapults fired for 72 hours. When they stopped, Champa was gone."
+hook: "In 4 days, Vietnam erased a 1,200-year kingdom. The last king's head hung under a ship."
 duration: "80s"
 region: ["Champa"]
 century: "15th"
@@ -12,7 +12,15 @@ author: "Torin-style • Indianization Lab"
 
 # Why did Vietnam erase a kingdom in 4 days?
 
-> **HOOK (first 3s):** In March 1471, Vietnamese catapults fired for 72 hours. When they stopped, Champa was gone.
+> **HOOK (first 3s):** In 4 days, Vietnam erased a 1,200-year kingdom. The last king's head hung under a ship.
+>
+> **TEXT OVERLAY (3-7w):** `4 DAYS. 40,000 DEAD. 1 HEAD UNDER A SHIP.`
+>
+> **ALT HOOK:** The most Hindu kingdom in Vietnam didn't become Muslim — it became this.
+>
+> **FORMULA:** Stat Shock + Emotional Trigger (fear/outrage) + Specific Number (odd: 4 days) — Stat shock triple (4/40k/1) in 7 words = maximal. 'Head under a ship' is visual shock (ancient threat detection). Emotional trigger drives comments/shares (3.2% of hooks but highest share rate).
+>
+> **VISUAL:** Wall breach CGI + white flag under bow — closeup face of captured king's family — human face +14% VTR, outdoor avoided (towers interior).
 
 **Length:** 80s • **Region:** Champa • **Century:** 15th • **For:** TikTok / Reels / Shorts
 

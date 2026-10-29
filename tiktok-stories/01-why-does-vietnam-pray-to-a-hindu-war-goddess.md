@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "This tower in Nha Trang has been active for 1,200 years — and the goddess inside has had her head stolen twice."
+hook: "Stop calling Po Nagar Vietnamese. She isn't."
 duration: "85s"
 region: ["Champa"]
 century: "8th"
@@ -12,7 +12,15 @@ author: "Torin-style • Indianization Lab"
 
 # Why does Vietnam pray to a Hindu war goddess?
 
-> **HOOK (first 3s):** This tower in Nha Trang has been active for 1,200 years — and the goddess inside has had her head stolen twice.
+> **HOOK (first 3s):** Stop calling Po Nagar Vietnamese. She isn't.
+>
+> **TEXT OVERLAY (3-7w):** `VIETNAM'S HINDU GODDESS`
+>
+> **ALT HOOK:** This goddess survived 2 thefts, 1 sacking, and 1 empire — and she still gets flowers today.
+>
+> **FORMULA:** Contrarian / Pattern Interrupt (negation + identity correction, 1.3-1.8x) — Negation ('Stop calling') creates argument in comments (Vietnamese vs Cham identity), forces watch to decide. Identity hooks filter in history nerds + travelers, filter out generic tourists.
+>
+> **VISUAL:** Closeup 10-armed black granite goddess face, then smash cut to Vietnamese incense + Cham Ahiér priest — pattern interrupt: Hindu goddess in communist Vietnam.
 
 **Length:** 85s • **Region:** Champa • **Century:** 8th • **For:** TikTok / Reels / Shorts
 

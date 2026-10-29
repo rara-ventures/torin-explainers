@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "This hill in Java has 2,672 carvings. Buddhists don't read it — they walk it."
+hook: "Borobudur isn't a temple. That's why 2,672 carvings make sense."
 duration: "90s"
 region: ["Sailendra Mataram"]
 century: "8th"
@@ -12,7 +12,15 @@ author: "Torin-style • Indianization Lab"
 
 # How did a mountain become a book you walk?
 
-> **HOOK (first 3s):** This hill in Java has 2,672 carvings. Buddhists don't read it — they walk it.
+> **HOOK (first 3s):** Borobudur isn't a temple. That's why 2,672 carvings make sense.
+>
+> **TEXT OVERLAY (3-7w):** `2,672 PANELS. 0 WORDS TO READ.`
+>
+> **ALT HOOK:** I walked 5km to read a book with no pages.
+>
+> **FORMULA:** Contrarian + Stat Shock (odd specific number + negation) — Stat shock 2,672 signals credibility and 'wait, what?' Contrarian 'isn't a temple' creates cognitive dissonance (requires resolution — then it's a mandala you walk). 3-7 word text overlay max.
+>
+> **VISUAL:** Drone spiral from top stupa down to hidden Karmavibhangga foot — movement + before/after (hidden vs revealed).
 
 **Length:** 90s • **Region:** Sailendra Mataram • **Century:** 8th • **For:** TikTok / Reels / Shorts
 

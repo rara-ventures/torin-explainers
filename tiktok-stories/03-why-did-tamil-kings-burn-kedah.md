@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "In 1025, Tamil ships sailed 3,000 km to steal a jewelled gate. The excuse was trade."
+hook: "Unpopular opinion: the Cholas didn't raid Kedah for gold. They raided it for a gate."
 duration: "80s"
 region: ["Kedah Srivijaya"]
 century: "11th"
@@ -12,7 +12,15 @@ author: "Torin-style • Indianization Lab"
 
 # Why did Tamil kings burn Kedah in 1025?
 
-> **HOOK (first 3s):** In 1025, Tamil ships sailed 3,000 km to steal a jewelled gate. The excuse was trade.
+> **HOOK (first 3s):** Unpopular opinion: the Cholas didn't raid Kedah for gold. They raided it for a gate.
+>
+> **TEXT OVERLAY (3-7w):** `STEAL THE GATE, NOT THE CITY`
+>
+> **ALT HOOK:** 3,000 km. 14 ports. 1 jewelled gate. The 1025 raid that wasn't about gold.
+>
+> **FORMULA:** Unpopular Opinion / Specific Outcome (42-52% hook rate) — Unpopular Opinion is #1 hook on TikTok. Challenges assumption (raids = gold) → viewers argue, drives comments. Specific outcome (14 ports via Sunda Strait surprise) creates 'how?' gap.
+>
+> **VISUAL:** Sunda Strait map animation: expected Malacca route crossed out, red line via Sunda from behind — visual pattern interrupt (map + misdirection).
 
 **Length:** 80s • **Region:** Kedah Srivijaya • **Century:** 11th • **For:** TikTok / Reels / Shorts
 
