@@ -1,0 +1,26 @@
+filters:
+  and:
+    - categories.contains(link("YouTube Long Form"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Video
+  note.duration_str:
+    displayName: Duration
+  note.view_count:
+    displayName: Views
+  note.youtube_id:
+    displayName: ID
+views:
+  - type: table
+    name: All Long Form
+    order:
+      - file.name
+      - duration_str
+      - view_count
+    sort:
+      - property: view_count
+        direction: DESC
+  - type: cards
+    name: Cards
+    order: []

@@ -1,0 +1,31 @@
+filters:
+  and:
+    - categories.contains(link("TikTok All"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Video
+  note.view_count:
+    displayName: Views
+  note.duration:
+    displayName: Duration
+  note.tiktok_id:
+    displayName: ID
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - view_count
+      - duration
+    sort:
+      - property: view_count
+        direction: DESC
+  - type: table
+    name: By Views
+    order:
+      - file.name
+      - view_count
+    sort:
+      - property: view_count
+        direction: DESC

@@ -7,13 +7,15 @@
 ```
 torin-explainers/  ← Open this folder as Obsidian Vault
 ├── .obsidian/          ← types.json (+century/region/vector), templates.json
-├── Categories/         ← [[Indianization Sources]], [[Champa]], etc. (filter targets)
+├── Categories/         ← [[Indianization Sources]], [[Champa]], [[YouTube Long Form]], etc.
 ├── Templates/
 │   ├── Inscription Template.md
 │   ├── Temple Template.md
-│   └── Bases/         ← 8 Bases: Sources, Champa, Buddhism, Centuries, Indianization...
+│   └── Bases/         ← 9 Bases: Sources, Champa, Buddhism, Centuries, Indianization, YouTube, TikTok...
 ├── original/          ← 100 Torin Russell explainers (100 sources + 6 stories)
-└── indianization/     ← South Asian history: Champa → Buddhism in Indonesia
+├── indianization/     ← South Asian history: Champa → Buddhism in Indonesia
+├── tiktok-stories/    ← 7 cold hooks (70 variations, rated)
+└── youtube/           ← YouTube long-form (7 videos, 6–24 min)
     ├── Dashboard.md   ← START HERE (embeds all Bases)
     ├── sources/       ← 17 century folders (BCE–16th), each README+timeline with frontmatter
     ├── regions/       ← 10 polities (Champa, Srivijaya, Sailendra...)
