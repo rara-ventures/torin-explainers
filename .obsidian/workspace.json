@@ -190,6 +190,7 @@
   },
   "active": "7f13a60678b21726",
   "lastOpenFiles": [
+    "original/COMPARISON.md",
     "Templates/Bases/TikTokScripts.base",
     "Categories/TikTok Scripts.md",
     "original/script/README.md",
@@ -224,7 +225,6 @@
     "Templates/Bases/YouTube.base",
     "youtube/long-form",
     "youtube",
-    "Templates/Bases/TikTok.base",
-    "tiktok-stories"
+    "Templates/Bases/TikTok.base"
   ]
 }
