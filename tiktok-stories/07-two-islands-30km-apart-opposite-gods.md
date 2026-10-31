@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Bali isn't Hindu because it's holy. It's Hindu because of rice fields."
+hook: "Why does Bali pray to Shiva while Java prays to Allah — 30km apart?"
 duration: "75s"
 region: ["Bali"]
 century: "16th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Why is Bali Hindu when the rest of Indonesia is Muslim?
+# Why does Bali pray to Shiva while Java prays to Allah — 30km apart?
 
-> **HOOK 1 — DeepSeek Pick (cold best):** Bali isn't Hindu because it's holy. It's Hindu because of rice fields.
+> **HOOK 1 — Torin sentence (stat) / Question mix:** Why does Bali pray to Shiva while Java prays to Allah — 30km apart?
 >
-> **TEXT 1:** `RICE, NOT HOLY` — DeepSeek: Promote H3 to H1, delete 'Unpopular opinion'. Best Torin clone. H1 question was riddle.
+> **TEXT 1:** `WHY BALI SHIVA, JAVA ALLAH?` — Question — Torin Why does... Keeps known anchors + contrast.
 >
 > **HOOK 2 — 30km. Same country. Opposite gods. The difference is rice.:** Cat09 Specificity — DeepSeek alt
 >

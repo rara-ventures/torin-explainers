@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "This tower shouldn't exist in Vietnam."
+hook: "Vietnam has a Hindu tower that has never closed — 1,200 years on the same hill."
 duration: "85s"
 region: ["Champa"]
 century: "8th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Why is there a 1,200-year-old Hindu temple in Vietnam?
+# Vietnam has a Hindu temple that has never closed — 1,200 years
 
-> **HOOK 1 — DeepSeek Pick (cold best):** This tower shouldn't exist in Vietnam.
+> **HOOK 1 — Torin sentence (stat) / Question mix:** Vietnam has a Hindu tower that has never closed — 1,200 years on the same hill.
 >
-> **TEXT 1:** `TOWER SHOULDN'T EXIST` — DeepSeek: filename title beats all 3 hooks. Use it as spoken hook. Ban 'Nobody tells you'.
+> **TEXT 1:** `VIETNAM HAS A HINDU TOWER` — Torin sentence with stat (1,200y) — like Japan controls 1,200km. Cold: Vietnam + Hindu (known) + never closed (paradox).
 >
 > **HOOK 2 — Not Buddhist. Not Vietnamese. Prayed to daily.:** Cat08 Negation — DeepSeek alt
 >

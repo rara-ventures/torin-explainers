@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "In 4 days, a 1,200-year kingdom vanished. The king's head hung under a ship."
+hook: "Vietnam deleted a 1,200-year kingdom in 4 days — 40,000 dead, king's head under a ship."
 duration: "80s"
 region: ["Champa"]
 century: "15th"
@@ -12,9 +12,9 @@ author: "Torin-style • Indianization Lab"
 
 # Vietnam deleted a 1,200-year kingdom in 4 days
 
-> **HOOK 1 — DeepSeek Pick (cold best):** In 4 days, a 1,200-year kingdom vanished. The king's head hung under a ship.
+> **HOOK 1 — Torin sentence (stat) / Question mix:** Vietnam deleted a 1,200-year kingdom in 4 days — 40,000 dead, king's head under a ship.
 >
-> **TEXT 1:** `KING'S HEAD UNDER SHIP` — DeepSeek: All three failed. Lead with head (best image in 70 hooks), drop date-first. Worst story needs rebuild from head down.
+> **TEXT 1:** `VIETNAM DELETED KINGDOM` — Torin sentence with double stat (1,200y + 4 days + 40k) — like Japan 1,200km chain.
 >
 > **HOOK 2 — March 22, 1471: the day a country was deleted in 4 days.:** Cat09 Specificity — DeepSeek alt
 >

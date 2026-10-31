@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Tibetan Buddhism didn't come from Tibet. It came through Indonesia."
+hook: "Tibetan Buddhism spent 12 years in Indonesia before it reached Tibet."
 duration: "85s"
 region: ["Srivijaya"]
 century: "7th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Tibetan Buddhism didn't come from Tibet. It came through Indonesia.
+# Tibetan Buddhism spent 12 years in Indonesia before Tibet
 
-> **HOOK 1 — DeepSeek Pick (cold best):** Tibetan Buddhism didn't come from Tibet. It came through Indonesia.
+> **HOOK 1 — Torin sentence (stat) / Question mix:** Tibetan Buddhism spent 12 years in Indonesia before it reached Tibet.
 >
-> **TEXT 1:** `NOT FROM TIBET` — DeepSeek: Delete receipt prop (fake document). Use through, not from. No year as ticket number.
+> **TEXT 1:** `12 YEARS IN INDONESIA` — Torin sentence with stat (12y) — Tibet + Indonesia + before (temporal paradox).
 >
 > **HOOK 2 — The monk who taught Tibet left a boat ticket in Sumatra — 671.:** Cat01 Curiosity — DeepSeek alt
 >

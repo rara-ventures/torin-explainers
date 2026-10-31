@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Stop climbing temples. This one you read."
+hook: "Indonesia built a temple you don't climb — you read it, 2,672 panels over 5km."
 duration: "90s"
 region: ["Sailendra Mataram"]
 century: "8th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# The biggest temple on Earth is a book you walk through
+# Indonesia built a temple you read, not climb — 2,672 panels
 
-> **HOOK 1 — DeepSeek Pick (cold best):** Stop climbing temples. This one you read.
+> **HOOK 1 — Torin sentence (stat) / Question mix:** Indonesia built a temple you don't climb — you read it, 2,672 panels over 5km.
 >
-> **TEXT 1:** `STOP CLIMBING` — DeepSeek: H1 is only hook needing zero geography — keep. Don't touch H1. Fix body contradiction later.
+> **TEXT 1:** `TEMPLE YOU READ` — Torin sentence with stat — Indonesia + built + 2,672. Mix: sentence, not question.
 >
 > **HOOK 2 — It's not a temple. It's a 60,000-ton book.:** Cat08 Negation — DeepSeek alt
 >

@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "They finished the biggest temple on Earth. Then they just... left."
+hook: "Why did Cambodia abandon the biggest temple on Earth?"
 duration: "90s"
 region: ["Angkor"]
 century: "12th"
@@ -12,9 +12,9 @@ author: "Torin-style • Indianization Lab"
 
 # Why did Cambodia abandon the biggest temple on Earth?
 
-> **HOOK 1 — DeepSeek Pick (cold best):** They finished the biggest temple on Earth. Then they just... left.
+> **HOOK 1 — Torin sentence (stat) / Question mix:** Why did Cambodia abandon the biggest temple on Earth?
 >
-> **TEXT 1:** `THEY JUST LEFT` — DeepSeek: H1 best in folder (8.6) but body contradicts. Fix body: 'Kings left. Monks didn't.'
+> **TEXT 1:** `WHY ABANDON BIGGEST?` — Question — Torin Why did... Keep mix.
 >
 > **HOOK 2 — After analyzing the world's biggest temple, one number explains why they left: water.:** Cat03 Authority — DeepSeek alt
 >

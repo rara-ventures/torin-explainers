@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "What would you do if invaders stole your front door, not your vault?"
+hook: "Why did an empire sail 3,000km to steal doors, not gold?"
 duration: "80s"
 region: ["Kedah Srivijaya"]
 century: "11th"
@@ -12,9 +12,9 @@ author: "Torin-style • Indianization Lab"
 
 # Why did an empire sail 3,000km to steal doors, not gold?
 
-> **HOOK 1 — DeepSeek Pick (cold best):** What would you do if invaders stole your front door, not your vault?
+> **HOOK 1 — Torin sentence (stat) / Question mix:** Why did an empire sail 3,000km to steal doors, not gold?
 >
-> **TEXT 1:** `STEAL DOORS, NOT GOLD?` — DeepSeek: H1 shouted at nobody. 'What would you do' second-person with concrete nouns wins cold. Also need raider face.
+> **TEXT 1:** `WHY STEAL DOORS?` — Question — Torin Why did... Keep one question per mix (Torin title = question).
 >
 > **HOOK 2 — Stop stealing gold. In 1025 they stole doors.:** Cat02 Contrarian — DeepSeek alt
 >
