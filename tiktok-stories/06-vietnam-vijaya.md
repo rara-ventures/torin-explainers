@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "A 1,200-year kingdom vanished in 4 days — and no one talks about it."
+hook: "In 4 days, a 1,200-year kingdom vanished. The king's head hung under a ship."
 duration: "80s"
 region: ["Champa"]
 century: "15th"
@@ -10,19 +10,19 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# A 1,200-year kingdom vanished in 4 days — no one talks about it
+# In 4 days, a 1,200-year kingdom vanished — the king's head hung under a ship
 
-> **HOOK 1 — User/Torin:** A 1,200-year kingdom vanished in 4 days — and no one talks about it.
+> **HOOK 1 — DeepSeek top (8.4):** In 4 days, a 1,200-year kingdom vanished. The king's head hung under a ship.
 >
-> **TEXT 1:** `VANISHED IN 4 DAYS` — Fix per user 'fix it' — new cold: duration contrast 1,200y vs 4 days + curiosity gap (why no one talks), no graphic head for cold safety.
+> **TEXT 1:** `KING'S HEAD UNDER SHIP` — DeepSeek 8.4 — best image in 70 hooks, triple stat shock (4 days/1,200y/head), highest retention (9) + share (8). Previous 'and no one talks about it' rated 5.8 (filler, decayed phrase). Head needs forgiveness line at 4s: capital fell in 4 days, country took 350 years.
 >
 > **HOOK 2 — March 22, 1471: the day a country was deleted in 4 days.:** Cat09 Specificity — DeepSeek alt
 >
-> **TEXT 2:** `MARCH`
+> **TEXT 2:** `MARCH 22, 1471` — Specific date
 >
 > **HOOK 3 — Stop calling 1471 a war. Wars last years. This took 4 days.:** Cat02 Contrarian
 >
-> **TEXT 3:** `1,200YRS → 4 DAYS` — Authority + contrast
+> **TEXT 3:** `STOP CALLING WAR` — Contrarian — Authority + contrast
 
 ---
 

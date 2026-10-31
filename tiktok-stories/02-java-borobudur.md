@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "An Indonesian hill became a book — 2,672 panels, zero words, 5km walk."
+hook: "Stop climbing temples. This one you read."
 duration: "90s"
 region: ["Sailendra Mataram"]
 century: "8th"
@@ -10,19 +10,19 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# An Indonesian hill became a book — 2,672 panels, no words
+# You don't climb this Indonesian temple — you read it
 
-> **HOOK 1 — User/Torin:** An Indonesian hill became a book — 2,672 panels, zero words, 5km walk.
+> **HOOK 1 — DeepSeek top (8.4):** Stop climbing temples. This one you read.
 >
-> **TEXT 1:** `HILL BECAME A BOOK` — Fix per user 'this is bad' — new Torin sentence with double stat 2,672 + 5km, no 'you don't climb' command.
+> **TEXT 1:** `STOP CLIMBING TEMPLES` — DeepSeek 8.4 top — pattern interrupt (you've been doing X wrong), zero geography, 7 words, Text STOP CLIMBING. Previous 'An Indonesian hill...' had double stat overload (2,672 + 5km) and hill≠temple confusion.
 >
 > **HOOK 2 — It's not a temple. It's a 60,000-ton book.:** Cat08 Negation — DeepSeek alt
 >
-> **TEXT 2:** `IT'S`
+> **TEXT 2:** `NOT A TEMPLE` — Negation
 >
 > **HOOK 3 — 2,672 carvings. Zero words. 5km walk to finish.:** Cat09 Specificity
 >
-> **TEXT 3:** `WRONG MY WHOLE LIFE` — Confession + relatability
+> **TEXT 3:** `2,672 CARVINGS. 0 WORDS.` — Stat Shock — Confession + relatability
 
 ---
 
