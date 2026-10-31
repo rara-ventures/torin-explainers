@@ -1,6 +1,6 @@
 ---
 categories: ["[[Indianization Sources]]"]
-status: stub
+status: draft
 region: ["Bali"]
 topics: ['Bali']
 created: 2026-10-29
@@ -30,4 +30,4 @@ Since 10th c. to present — only Hindu island, *subak* irrigation + Agama Hindu
 - Downstream: Neighbor region — see `../` sibling folders
 - Vector: `../../vectors/`
 
-> ⚠️ **Audit note 2026-10-30:** Empty stub — matrix `●●●` was hypothesis. Marked `status: stub`, not for citation until `timeline.md` filled.
+> ⚠️ **Audit note 2026-10-30:** Empty stub — matrix `●●●` was hypothesis. Marked `status: draft`, not for citation until `timeline.md` filled.

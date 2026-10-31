@@ -4,6 +4,8 @@ region: ["Kedah-Srivijaya"]
 status: verified
 ---
 
+> ⚠️ **Draft — Buddhism gap filled 2026-10-31.**
+
 # Timeline — Kedah–Srivijaya (Malay Peninsula & Sumatra)
 
 | Year | Event | Indianization Link |
@@ -18,3 +20,4 @@ status: verified
 | 1025 | Chola raid — Rajendra sacks Kedah + Palembang (14 ports), jewelled gates taken | Tamil geostrategy |
 | 1090 | Chudamani Vihara at Nagapattinam — Sailendra king Maravijayottunga builds under Chola patronage | Tamil–Malay Buddhist |
 | 13th c. | Srivijaya declines — Majapahit & Thai take strait | Transition |
+| c. 1011–1023 CE | Atisha (Dipamkara) studies 12y under Dharmakirti of Suvarnadvipa in Srivijaya → returns to Vikramashila → Tibet 1042 Kadam | Srivijaya → Tibet (Vajrayana relay: Bengal → Sumatra → Tibet) | Biography of Atisha (Tibetan); Decleer | medium |

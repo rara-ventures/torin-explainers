@@ -13,3 +13,4 @@ status: draft
 | c. 550–802 CE | Chenla → Angkor via Vat Phou — Shrestapura kings Mahendravarman/Citrasena, Jayavarman II 802 devaraja | Shaiva Siddhanta, Prospeous Lord legitimizes chakravartin | Vickery 1998; Higham 2001 | draft |
 
 > Split from `timeline.md` per audit — ancient polity view to avoid merging Champa vs Dai Viet combatants.
+| c. 400–500 CE | Nakhon Pathom Dharma-wheel + Pali ye dhammā | Amaravati → Mon | Dupont | medium |

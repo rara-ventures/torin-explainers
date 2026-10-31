@@ -15,3 +15,4 @@ status: draft
 | c. 500–515 CE | Langkasuka — Liangshu embassy to Liang China, Bhogavarman, Brahmanical | Brahmins welcome Chinese envoys | Wheatley; Coedès 1968 | draft |
 
 > Part of `straits-archipelago/timeline.md` — split per audit #2/#7 to avoid Kedah vs Timor 1700y conflation.
+| c. 800–1100 CE | Sungai Mas Buddhist votive tablets + Site 16 Shaiva candi — parallel cults | Tamil + Mahayana circuits via Srivijaya | Lamb 1961; Wales | medium |

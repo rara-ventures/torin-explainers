@@ -14,3 +14,5 @@ status: draft
 | 1025 & 1068 CE | Chola raids on Kadaram — Rajendra Thanjavur, captures Sangrama Vijayottunggavarman | Tamil naval breaks Srivijaya toll, guild Ayyavole spreads | Thanjavur; Hall 1985 | draft |
 
 > Part of `straits-archipelago/timeline.md` — split per audit #2/#7 to avoid Kedah vs Timor 1700y conflation.
+| 684 CE | Talang Tuwo — Śrīkṣetra garden, diamond-body prayer — Mahayana state cult confirmed | Nalanda Abhayagiri → Palembang | D.145 | high |
+| c. 1011–1023 CE | Atisha (Dipamkara) studies 12y under Dharmakirti of Suvarnadvipa in Srivijaya → returns to Vikramashila → Tibet 1042 Kadam | Srivijaya → Tibet (Vajrayana relay: Bengal → Sumatra → Tibet) | Biography of Atisha (Tibetan); Decleer | medium |

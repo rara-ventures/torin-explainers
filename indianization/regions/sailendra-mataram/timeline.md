@@ -4,6 +4,8 @@ region: ["Sailendra-Mataram"]
 status: verified
 ---
 
+> ⚠️ **Draft — Buddhism gap filled 2026-10-31.**
+
 # Timeline — Sailendra–Mataram (Java)
 
 | Year | Event | Indianization Link |
@@ -18,3 +20,5 @@ status: verified
 | 850 | Prambanan Shivagrha begun by Rakai Pikatan after defeating Balaputra — Hindu revival | Sanjaya vs Sailendra |
 | 856 | Battle — Pikatan wins, Balaputra exiled to Sumatra → Nalanda 860 donation | Java→Srivijaya |
 | 928 | Mpu Sindok moves capital to East Java (Isyana) — ash/la war, Borobudur abandoned | Volcanic |
+| c. 770 CE | Gaudi monks (Kumaraghosa) at Kalasan/Kelurak — Pre-Nagari, Tara from Bengal | Nalanda/Gauda → Java via Srivijaya | Sarkar CC | medium |
+| 856 CE | Balaputra exiled Suvarnadvipa grants 5 villages to Nalanda (Devapala year 39) — Java→Bengal feedback loop | Java → India | Epigraphia Indica XVII | high |

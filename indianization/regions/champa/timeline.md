@@ -23,3 +23,7 @@ status: verified
 | 1471 | Fall of Vijaya — Le Thanh Tong, 40–60k dead, Tra Toan beheaded, north annexed | End of Amaravati/Vijaya |
 | 1471–1832 | Panduranga rump — Ahiér (Shaiva) + Bani (localized Islam) persist, Po Nagar living temple | Hindu survival |
 | 1832 | Minh Mang dissolves Panduranga | End |
+| c. 350–400 CE | Early Mahayana at Tra Kieu/Thu Bon — votive tablets, Sanskrit dharma inscriptions | Amaravati → Cham via Funan/Oc Eo | Schweyer 2011 | medium |
+| 605 CE | Sui Yangdi sacks Linyi, captures 1350 Buddhist sutras in Sanskrit/Pali — proves pre-600 Cham library | Cham royal archive (captured) | Suishu 64 | medium |
+| 875 CE | Indravarman II founds Dong Duong Laksmindralokesvara — Paramabuddhaloka syncretism (Mahayana) | Bengali Pala/Nalanda Gaudidvipa monks → Indrapura | C.66; Griffiths | high |
+| 982 CE | Lê Hoàn (Le Hoan) destroys Indrapura — elite Buddhism extinguished, Shaiva south persists | Champa elite Buddhism collapse | Maspero 1928 | medium |

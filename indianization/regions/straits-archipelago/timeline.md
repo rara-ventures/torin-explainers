@@ -22,3 +22,5 @@ status: verified
 | 1398–1402 CE | Fall of Singapura → Melaka founded by Parameswara (Paramesvara = Shiva) c.1400-02 | Retains Hindu title, Sanskrit court, shahbandar | Sejarah Melayu; Wade & Sun | medium |
 | 1414–1446 CE | Islamization of Melaka — Parameswara/Megat Iskandar converts c.1414 via Pasai | Qadi replaces Brahmin but Sanskrit undang-undang persists | Wake 1964; Winstedt | medium |
 | 1490s–1511 CE | Height & Portuguese capture — Melaka stock holds 1000 bahar sandalwood (Gujaratis), direct Macao-Timor after 1550s | Gujarati/Tamil/Chinese Hui institutionalize law, Sanskrit Malay | Barbosa; Ptak 1983 | medium |
+| 684 CE | Talang Tuwo — Śrīkṣetra garden, diamond-body prayer — Mahayana state cult confirmed | Nalanda Abhayagiri → Palembang | D.145 | high |
+| c. 1011–1023 CE | Atisha (Dipamkara) studies 12y under Dharmakirti of Suvarnadvipa in Srivijaya → returns to Vikramashila → Tibet 1042 Kadam | Srivijaya → Tibet (Vajrayana relay: Bengal → Sumatra → Tibet) | Biography of Atisha (Tibetan); Decleer | medium |

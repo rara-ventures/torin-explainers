@@ -21,7 +21,8 @@ Vat Phou Lingaparvata → Angkor Bhadreshvara; Dvaravati Mon Theravada → Sukho
 - `champa-linyi.md` — Champa Linyi 192, Vo Canh 350
 - `chenla-vatphou.md` — Vat Phou Lingaparvata 440 (Laos), pre-Angkor
 - `dvaravati-mon.md` — Dvaravati florescence 550-1000 (Thailand)
-- `champa-dongduong.md` — Dong Duong 875 vs Dai Viet 1010 (Vietnam combatants separated)
+- `champa-dongduong.md` — Dong Duong 875 (Indic) vs Dai Viet pressure 982
+- `dai-viet-buddhism.md` — **NEW** Dai Viet Thiền via China: Mâu Tử 2nd c., Kang Senghui 247, Vinitaruci 580, Vô Ngôn Thông 820, Lý 1010 (China-filtered vs Champa India-direct)
 - `sukhothai-ayutthaya.md` — Sukhothai 1238→Ayutthaya 1351
 - `vijaya-fall.md` — Vijaya 1471 fall
 

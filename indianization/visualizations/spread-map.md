@@ -25,6 +25,8 @@ flowchart LR
     China["China<br/>Chang'an/Nalanda<br/>Xuanzang 629<br/>Yijing 671"]
     Pagan["Pagan 1057<br/>Theravada via Lanka"]
     Malacca["Melaka 1402<br/>Timor Sandalwood 1225†"]
+    Luy Lau["Luy Lâu (Giao Chỉ)<br/>Mâu Tử 2nd c.<br/>Vinitaruci 580"]
+    Dai Viet["Đại Việt<br/>Thang Long 1010<br/>One-Pillar 1049"]
     Timor["Timor 1225 Zhufan Zhi<br/>Ti-wu? disputed<br/>sandalwood via Javanese"]
     Bali["Bali Hindu refuge<br/>subak"]
 
@@ -41,8 +43,10 @@ flowchart LR
     OcEo --> Kedah
     Lanka -->|Mahinda 246BCE<br/>Faxian 410| Lanka
     Lanka -->|Parakramabahu 1153<br/>Lankavamsa| Pagan
-    Pagan -->|Theravada via Lanka<br/>Ramkhamhaeng 1283| Pagan
-    Lanka -.->|Lankavamsa 13th c.<br/>Sumana 20 monks| China
+    Pagan -->|Lankavamsa via Martaban 1331| Sukhothai
+    Lanka -.->|Lankavamsa 13th c.<br/>Sumana 20 monks| Sukhothai
+    China -.->|Vinitaruci 580 Chan via Jiankang| Luy Lau (Giao Chỉ/Dai Viet)
+    Luy Lau -.->|Thiền + One-Pillar 1049| Dai Viet
     Srivijaya -->|Yijing 671 maritime| China
     Kedah --> Srivijaya
     Srivijaya --> Champa

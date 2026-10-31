@@ -19,6 +19,8 @@ From Amaravati → Dvaravati Theravada, Nalanda → Srivijaya Mahayana, Pala →
 
 | Century | Evidence | Region |
 |---------|----------|--------|
-|  |  |  |
+| 7th c. | Yijing 671 Palembang + Dharmakirti | Nalanda → Srivijaya | high |
+| 11th c. | Atisha 1011 Srivijaya → Tibet | Srivijaya → Tibet | medium |
+| 6th c. | Vinitaruci 580 China → Luy Lâu | China → Dai Viet | medium |
 
 See also `../../sources/by-century/` for chronological placement.

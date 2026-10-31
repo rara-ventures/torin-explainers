@@ -21,3 +21,5 @@ status: verified
 | 671–695 CE | Yijing maritime — 6mo Srivijaya (Palembang), 11y Nalanda, 4y Srivijaya translating | Sea route via Malay Archipelago, Nanhai Jigui | Takakusu 1896 | medium |
 | 720–751 CE | Persian/Arab + Tamil shippers at Guangzhou/Quanzhou, Turfan customs (pepper, brass) | Indian commodities via Sogdian hands | Turfan; de la Vaissière | medium |
 | 686 CE | Kaiyuan Temple Quanzhou founded — later Tamil Hindu temple network (Ainnurruvar) | Maritime Hindu network Song-Yuan | Guy 2001; Clark | medium |
+| late 2nd c. CE | Mâu Tử at Luy Lâu (Giao Chỉ) — Lý Hoặc Luận — first Buddhist apologetics from Vietnamese Giao Chỉ | China → Giao Chỉ (Luy Lâu) — Buddhism via Han bureaucracy | Maspero; Zürcher | medium |
+| 580 CE | Vinitaruci settles Luy Lâu (Phap Van) — 3rd patriarch → Vietnamese Thiền begins | China (Jianzhi Sengcan) → Luy Lâu (Dai Viet) | Đại Việt Sử Ký | medium |

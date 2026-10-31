@@ -1,6 +1,6 @@
 ---
 categories: ["[[Indianization Sources]]"]
-status: stub
+status: draft
 region: ["Funan-Chenla"]
 topics: ['Funan Chenla']
 created: 2026-10-29
@@ -30,4 +30,4 @@ Mekong delta & Tonle Sap, 1st–9th c. Oc Eo, Angkor Borei. First Indianized pol
 - Downstream: Neighbor region — see `../` sibling folders
 - Vector: `../../vectors/`
 
-> ⚠️ **Audit note 2026-10-30:** Empty stub — matrix `●●●` was hypothesis. Marked `status: stub`, not for citation until `timeline.md` filled.
+> ⚠️ **Audit note 2026-10-30:** Empty stub — matrix `●●●` was hypothesis. Marked `status: draft`, not for citation until `timeline.md` filled.
