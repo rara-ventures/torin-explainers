@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Stop climbing temples. This one you read."
+hook: "This Indonesian king went broke writing a book."
 duration: "90s"
 region: ["Sailendra Mataram"]
 century: "8th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# You don't climb this Indonesian temple — you read it
+# This Indonesian king went broke writing a book
 
-> **HOOK 1 — DeepSeek top (8.4):** Stop climbing temples. This one you read.
+> **HOOK 1 — User pick:** This Indonesian king went broke writing a book.
 >
-> **TEXT 1:** `STOP CLIMBING TEMPLES` — DeepSeek 8.4 top — pattern interrupt (you've been doing X wrong), zero geography, 7 words, Text STOP CLIMBING. Previous 'An Indonesian hill...' had double stat overload (2,672 + 5km) and hill≠temple confusion.
+> **TEXT 1:** `KING WENT BROKE WRITING` — User pick from 10 ideas #3 — personal angle (king) + odd cost (broke writing), no temple assumption, stat implied (book = 2,672 panels).
 >
 > **HOOK 2 — It's not a temple. It's a 60,000-ton book.:** Cat08 Negation — DeepSeek alt
 >

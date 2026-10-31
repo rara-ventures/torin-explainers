@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "In 4 days, a 1,200-year kingdom vanished. The king's head hung under a ship."
+hook: "Vietnam's most important battle lasted 4 days. No one outside Vietnam knows it."
 duration: "80s"
 region: ["Champa"]
 century: "15th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# In 4 days, a 1,200-year kingdom vanished — the king's head hung under a ship
+# Vietnam's most important battle lasted 4 days. No one outside Vietnam knows it.
 
-> **HOOK 1 — DeepSeek top (8.4):** In 4 days, a 1,200-year kingdom vanished. The king's head hung under a ship.
+> **HOOK 1 — User pick:** Vietnam's most important battle lasted 4 days. No one outside Vietnam knows it.
 >
-> **TEXT 1:** `KING'S HEAD UNDER SHIP` — DeepSeek 8.4 — best image in 70 hooks, triple stat shock (4 days/1,200y/head), highest retention (9) + share (8). Previous 'and no one talks about it' rated 5.8 (filler, decayed phrase). Head needs forgiveness line at 4s: capital fell in 4 days, country took 350 years.
+> **TEXT 1:** `NO ONE OUTSIDE VIETNAM KNOWS IT` — User pick from 10 ideas #7 — forgotten-story + geography, cold: Vietnam known, 4-day battle odd, 'no one outside' drives save/share. No date, no graphic head.
 >
 > **HOOK 2 — March 22, 1471: the day a country was deleted in 4 days.:** Cat09 Specificity — DeepSeek alt
 >
