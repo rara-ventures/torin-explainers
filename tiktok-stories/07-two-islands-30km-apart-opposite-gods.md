@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Why does Bali pray to Shiva while Java prays to Allah — 30km apart?"
+hook: "2 islands, 30km apart — one prays to Allah, the other to Shiva."
 duration: "75s"
 region: ["Bali"]
 century: "16th"
@@ -10,19 +10,19 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Why does Bali pray to Shiva while Java prays to Allah — 30km apart?
+# 2 islands, 30km apart — one prays to Allah, the other to Shiva
 
-> **HOOK 1 — Torin sentence (stat) / Question mix:** Why does Bali pray to Shiva while Java prays to Allah — 30km apart?
+> **HOOK 1 — Torin sentence (parallel):** 2 islands, 30km apart — one prays to Allah, the other to Shiva.
 >
-> **TEXT 1:** `WHY BALI SHIVA, JAVA ALLAH?` — Question — Torin Why does... Keeps known anchors + contrast.
+> **TEXT 1:** `2 ISLANDS, 2 GODS, 30KM` — Parallel structure (one / the other), stat 30km, no Bali/Java needed for cold but keeps them for SEO
 >
 > **HOOK 2 — 30km. Same country. Opposite gods. The difference is rice.:** Cat09 Specificity — DeepSeek alt
 >
-> **TEXT 2:** `30KM.`
+> **TEXT 2:** `30KM. SAME COUNTRY. OPPOSITE GODS.` — DeepSeek alt, minimalist specificity
 >
 > **HOOK 3 — It's not about religion. It's about rice vs pepper.:** Cat08 Negation
 >
-> **TEXT 3:** `RICE, NOT HOLY` — Contrarian of holy assumption
+> **TEXT 3:** `RICE, NOT HOLY` — Contrarian
 
 ---
 
@@ -30,7 +30,7 @@ author: "Torin-style • Indianization Lab"
 
 | # | Hook | Formula | Text Overlay |
 |---|------|---------|--------------|
-| 1 | What if your neighbor's god was opposite yours — 30km away, same passport? | Cat06 Question | `WHAT IF NEIGHBOR...?` |
+| 1 | 2 islands, 30km apart — one prays to Allah, the other to Shiva. | Cat06 Question + Parallel | `2 ISLANDS, 2 GODS, 30KM` | Cat06 Question | `WHAT IF NEIGHBOR...?` |
 | 2 | It's not about religion. It's about rice vs pepper. | Cat08 Negation | `NOT RELIGION. RICE.` |
 | 3 | Unpopular opinion: Bali isn't Hindu because it's holy. It's Hindu because of rice fields. | Cat02 Contrarian | `RICE, NOT HOLY` |
 | 4 | Nobody talks about why two islands 30km apart pray opposite — same country. | Cat01 Curiosity | `NOBODY TALKS 30KM` |
