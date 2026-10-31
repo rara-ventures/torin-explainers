@@ -1,6 +1,7 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 region: ["Himalaya"]
+indianized: true
 created: 2026-10-30
 ---
 

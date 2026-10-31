@@ -1,6 +1,7 @@
 ---
-categories: "[[Sukhothai Ayutthaya]]"
-region: ['Sukhothai', 'Ayutthaya']
+categories: ["[[Indianization Sources]]"]
+status: stub
+region: ["Sukhothai-Ayutthaya"]
 topics: ['Sukhothai', 'Ayutthaya']
 created: 2026-10-29
 ---
@@ -28,3 +29,5 @@ created: 2026-10-29
 - Upstream: South Asian donor (Pallava, Gupta, Chola, Pala)
 - Downstream: Neighbor region — see `../` sibling folders
 - Vector: `../../vectors/`
+
+> ⚠️ **Audit note 2026-10-30:** Empty stub — matrix `●●●` was hypothesis. Marked `status: stub`, not for citation until `timeline.md` filled.

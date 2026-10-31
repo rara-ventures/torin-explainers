@@ -5,7 +5,7 @@ created: 2026-10-29
 
 # The Sanskrit Cosmopolis — Indianization of Southeast Asia (500 BCE–1500 CE)
 
-> **Start here for Obsidian.** This note embeds live Bases. Change a `century:` or `region:` frontmatter and tables resort instantly.
+> **Start here for Obsidian.** This note embeds live Bases. Change a `century:` or `region:` frontmatter and tables resort instantly (timelines now have frontmatter per audit #3).
 
 ## Your Path: Vietnam → Java
 
@@ -45,7 +45,7 @@ This dashboard is pre-filtered for your question: *How did Champa's Buddhism lea
 
 ## Structure Reminder
 
-- `sources/by-century/` = when (17 folders, each `README.md` + `timeline.md` with frontmatter `century`/`phase`)
+- `sources/` = when (17 folders, each `README.md` + `timeline.md` with frontmatter `century`/`phase`)
 - `regions/` = where (10 polities, each with `timeline.md`)
 - `vectors/` = how (6 mechanisms)
 - `traces/` = why (narratives stitching where+how+when)

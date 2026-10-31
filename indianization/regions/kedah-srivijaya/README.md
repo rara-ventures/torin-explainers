@@ -1,6 +1,8 @@
 ---
-categories: "[[Srivijaya]]"
-region: ['Srivijaya', 'Kedah']
+categories: ["[[Indianization Sources]]"]
+region: ["Kedah-Srivijaya"]
+status: deprecated
+supersedes: "[[Straits Archipelago]]"
 topics: ['Srivijaya', 'Kedah']
 created: 2026-10-29
 ---
@@ -28,3 +30,5 @@ Kedah (Kalah), Palembang, Kedukan Bukit 683. Srivijayan thalassocracy, Nalanda t
 - Upstream: South Asian donor (Pallava, Gupta, Chola, Pala)
 - Downstream: Neighbor region — see `../` sibling folders
 - Vector: `../../vectors/`
+
+> ⚠️ **Audit note 2026-10-30:** This polity overlaps with a new cluster. Superseded by `../straits-archipelago/` (see `straits-archipelago/kedah-bujang.md` + `langkasuka-srivijaya.md`). Keep for reference; canonical Kedah is now Straits.

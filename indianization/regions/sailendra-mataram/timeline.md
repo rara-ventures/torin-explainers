@@ -1,3 +1,9 @@
+---
+categories: ["[[Indianization Sources]]"]
+region: ["Sailendra-Mataram"]
+status: verified
+---
+
 # Timeline — Sailendra–Mataram (Java)
 
 | Year | Event | Indianization Link |

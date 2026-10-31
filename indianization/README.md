@@ -52,7 +52,7 @@ Or pick an axis:
 
 ## Status
 
-- Scaffolding: ✅ 17 century folders, 10 regions, 6 vectors, 1 trace — all with `timeline.md` placeholders
+- Scaffolding: ✅ 19 century folders (-06,-02,00-16), 18 regions (12 core + 6 relay per thesis.md), 6 vectors (1 verified buddhism + 5 stubs), 2 traces — all with `timeline.md` placeholders
 - Sources ingestion: ⬜ TODO — next step is to fill `sources/*/timeline.md` with dated inscriptions (Vo Canh, My Son, Kedukan Bukit, Kalasan, Borobudur) + Chinese annals (Liangshu on Funan, Songshi on Champa)
 - `original/` is untouched history (git `R` from root), so Torin archive stays citable.
 

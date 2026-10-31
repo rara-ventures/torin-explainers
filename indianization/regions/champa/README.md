@@ -1,6 +1,6 @@
 ---
-categories: "[[Champa]]"
-region: ['Champa']
+categories: ["[[Indianization Sources]]"]
+region: ["Champa"]
 topics: ['Champa']
 created: 2026-10-29
 ---

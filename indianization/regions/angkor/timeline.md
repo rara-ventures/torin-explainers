@@ -1,3 +1,9 @@
+---
+categories: ["[[Indianization Sources]]"]
+region: ["Angkor"]
+status: verified
+---
+
 # Timeline — Angkor (Cambodia)
 
 | Year | Event | Indianization Link |

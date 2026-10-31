@@ -1,6 +1,6 @@
 ---
-categories: "[[Indianization Sources]]"
-region: ["Mainland SE Asia"]
+categories: ["[[Indianization Sources]]"]
+region: ["Mainland"]
 created: 2026-10-30
 ---
 
@@ -15,3 +15,14 @@ Vat Phou Lingaparvata → Angkor Bhadreshvara; Dvaravati Mon Theravada → Sukho
 - Vectors: `../../vectors/` (trade, brahmin-royal, buddhism, sanskrit-pallava, art-architecture)
 - Sources: `../../sources/` (century gantt)
 - Other regions: `../` (e.g., Gandhara → China via Sogdian, Rome → Oc Eo via Periplus)
+
+## Sub-polities (ancient-polity split 2026-10-30)
+
+- `champa-linyi.md` — Champa Linyi 192, Vo Canh 350
+- `chenla-vatphou.md` — Vat Phou Lingaparvata 440 (Laos), pre-Angkor
+- `dvaravati-mon.md` — Dvaravati florescence 550-1000 (Thailand)
+- `champa-dongduong.md` — Dong Duong 875 vs Dai Viet 1010 (Vietnam combatants separated)
+- `sukhothai-ayutthaya.md` — Sukhothai 1238→Ayutthaya 1351
+- `vijaya-fall.md` — Vijaya 1471 fall
+
+> See also `../champa/` (Vietnam coast), `../angkor/` (Cambodia), `../dvaravati/` (Central Thailand) — subfiles are filtered views, consolidated `timeline.md` remains.

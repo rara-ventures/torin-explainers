@@ -3,6 +3,8 @@ filters:
     - file.path.contains("regions")
     - '!file.name.contains("Template")'
 properties:
+  note.region:
+    displayName: Region
   file.name:
     displayName: Region
   file.path:
@@ -11,6 +13,7 @@ views:
   - type: table
     name: All Regions
     order:
+      - note.region
       - file.name
   - type: cards
     name: Map

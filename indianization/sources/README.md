@@ -4,36 +4,21 @@
 
 ## Visualization — 6 Phases as Gantt
 
-```mermaid
-gantt
-    title Indianization of Southeast Asia — Century Overview
-    dateFormat  YYYY
-    axisFormat %Y
-    %% BCE as 0500 for plotting (500 BCE)
-    section Phase 0 Prelude
-    BCE–1st (Ashoka, Dong Son)       :done, 0000, 0100
-    section Phase 1 Contact (1st–4th)
-    1st Funan/Oc Eo                  :active, 0100, 0200
-    2nd Vo Canh                      : 0200, 0300
-    3rd Funan peak                   : 0300, 0400
-    4th Champa My Son E1 / Gupta     : 0400, 0500
-    section Phase 2 Transplant (5th–7th)
-    5th Chenla/Dvaravati             : 0500, 0600
-    6th Chenla/Funan end             : 0600, 0700
-    7th Srivijaya 683                : 0700, 0800
-    section Phase 3 Classical (8th–10th)
-    8th Borobudur start              : 0800, 0900
-    9th Prambanan/Angkor Hariharalaya: 0900, 1000
-    10th Angkor Yasodharapura        : 1000, 1100
-    section Phase 4 Imperial (11th–13th)
-    11th Angkor Wat / Chola 1025     : 1100, 1200
-    12th Bayon / Pagan peak          : 1200, 1300
-    13th Sukhothai/Singhasari        : 1300, 1400
-    section Phase 5 Transition (14th–16th)
-    14th Majapahit peak              : 1400, 1500
-    15th Malacca 1402 / Vijaya 1471  : 1500, 1600
-    16th Bali refuge / Portuguese    : 1600, 1700
-```
+| Century | Polity / Vector | Key Event |
+|---------|-----------------|-----------|
+| **-06 600–501 BCE** | Persia → Gandhara | Darius 518BCE Behistun — Gandara satrapy, Aramaic → Kharosthi* |
+| **-02 200–101 BCE** | Gandhara | Menander 180BCE Milinda — Indo-Greek Buddhism |
+| **00 BCE–1st** | India / Sri Lanka | Ashoka 260BCE, Dong Son, Mahinda 246BCE Lanka |
+| **02 2nd c.** | Champa | Vo Canh late 3rd–early 4th c.* (Bergaigne 2nd, Zakharov 3rd-4th contested) |
+| **05 5th c.** | Funan–Chenla | Oc Eo, Vo Canh? Vat Phou 440 Kurukshetra |
+| **06–07 6th–7th** | Srivijaya / Kedah | Kedah brick 110CE structure* / Kedukan Bukit 683 |
+| **08 8th c.** | Java | Borobudur 782–835, Kalasan 778 |
+| **11 11th c.** | Chola / Angkor | Chola raid 1025, Angkor Wat 1113, Thanjavur |
+| **13–14 13th–14th** | Sukhothai / Majapahit | Ramkhamhaeng 1283 Thai script, Majapahit 1293 |
+| **15–16 15th–16th** | Melaka | Parameswara 1402, Melaka 1414 Islam, Portuguese 1511 |
+
+> *Caveats: `535BCE` = Sungai Batu charcoal (residual) vs brick 110CE; Vo Canh = contested 2nd–4th c.; Bamiyan 507/554 ±30y. See Confidence col in timelines.
+> Mermaid gantt removed (no BCE/year 0 support) — table is canonical. Extended BCE folders `-06` and `-02` now precede Phase 0.
 
 > **Extended gantt:** Rome (Periplus 40CE), Persia (Darius 518BCE), Gandhara (518BCE) now precede Phase 0 — see `regions/rome-byzantium`, `regions/persia`, `regions/gandhara`. China (Xuanzang 629) overlaps Phase 2–3 — see `regions/china`.
 
@@ -41,6 +26,8 @@ gantt
 
 | Folder | Century | Phase | Anchor Event | Trace Link |
 |--------|---------|-------|--------------|------------|
+| [`-06-6th-century-bce/`](./-06-6th-century-bce/) | -06 6th BCE | 0 Prelude BCE | Darius 518BCE Kharosthi | → gandhara |
+| [`-02-2nd-century-bce/`](./-02-2nd-century-bce/) | -02 2nd BCE | 0 Prelude BCE | Menander 180BCE Milinda | → gandhara |
 | [`00-bce-prelude/`](./00-bce-prelude/) | BCE–1st | 0 Prelude | Ashoka rock edicts, Tamil-Bengal ships | → trade-maritime |
 | [`01-1st-century/`](./01-1st-century/) | 1st | 1 Contact | Funan Oc Eo entrepôt, Kaundinya legend | → funan-chenla |
 | [`02-2nd-century/`](./02-2nd-century/) | 2nd | 1 Contact | **Vo Canh** inscription (oldest Sanskrit) | → sanskrit-pallava |

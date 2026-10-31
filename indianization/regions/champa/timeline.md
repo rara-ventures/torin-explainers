@@ -1,3 +1,9 @@
+---
+categories: ["[[Indianization Sources]]"]
+region: ["Champa"]
+status: verified
+---
+
 # Timeline — Champa (Vietnam Coast)
 
 | Year | Event | Indianization Link |

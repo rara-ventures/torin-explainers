@@ -53,6 +53,7 @@
     "acquired": "date",
     "century": "text",
     "phase": "text",
+    "indianized": {"type": "checkbox"},
     "region": "multitext",
     "vector": "multitext",
     "polity": "multitext",

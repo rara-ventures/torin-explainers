@@ -1,3 +1,9 @@
+---
+categories: ["[[Indianization Sources]]"]
+region: ["Kedah-Srivijaya"]
+status: verified
+---
+
 # Timeline — Kedah–Srivijaya (Malay Peninsula & Sumatra)
 
 | Year | Event | Indianization Link |

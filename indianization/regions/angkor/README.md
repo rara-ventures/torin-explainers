@@ -1,6 +1,6 @@
 ---
-categories: "[[Angkor]]"
-region: ['Angkor']
+categories: ["[[Indianization Sources]]"]
+region: ["Angkor"]
 topics: ['Angkor']
 created: 2026-10-29
 ---

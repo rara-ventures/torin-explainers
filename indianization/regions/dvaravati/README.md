@@ -1,6 +1,7 @@
 ---
-categories: "[[Dvaravati]]"
-region: ['Dvaravati']
+categories: ["[[Indianization Sources]]"]
+region: ["Dvaravati"]
+status: stub
 topics: ['Dvaravati']
 created: 2026-10-29
 ---
@@ -28,3 +29,5 @@ Mon, 6th–11th c., Nakhon Pathom, U Thong. Pali Theravada + Sanskrit art, Dharm
 - Upstream: South Asian donor (Pallava, Gupta, Chola, Pala)
 - Downstream: Neighbor region — see `../` sibling folders
 - Vector: `../../vectors/`
+
+> ⚠️ **Audit note 2026-10-30:** This polity overlaps with a new cluster. Content now lives in `../mainland-thailand-laos/dvaravati-mon.md` and this folder is stub. Will merge or keep as alias.

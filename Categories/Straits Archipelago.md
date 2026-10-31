@@ -1,5 +1,7 @@
 # Straits Archipelago
 
-Kedah iron 535BCE, Singapore Temasek, Timor sandalwood
+Kedah iron, Singapore Temasek, Timor sandalwood
+
+> Filtered view: region.contains("Straits Archipelago")
 
 ![[Templates/Bases/Regions.base#All Regions]]
