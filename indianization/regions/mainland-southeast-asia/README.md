@@ -8,7 +8,7 @@ created: 2026-10-30
 
 Vat Phou Lingaparvata → Angkor Bhadreshvara; Dvaravati Mon Theravada → Sukhothai/Ayutthaya Lankavamsa; Champa vs Dai Viet (192–1471) — Indianization vs Sinicization clash.
 
-**Timeline:** `mainland-thailand-laos/timeline.md` — 12 dated rows
+**Timeline:** `mainland-southeast-asia/timeline.md` — 12 dated rows
 
 ## Connections
 

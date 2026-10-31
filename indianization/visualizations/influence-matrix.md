@@ -24,11 +24,11 @@ status: draft
 | **China — RELAY** | ●●○ (Quanzhou) | ○○○ | ●●● (Xuanzang 629, Yijing 671) | ●○○ (Chinese trans) | ●●○ (Mogao 366) | ●○○ | `regions/china/timeline.md:7-15` |
 | **Angkor** | ●○○ | ●●● (devaraja 802) | ●●○ → ●●● (Theravada 13th) | ●●● (Khmer) | ●●● | ●●● | `regions/angkor/timeline.md` |
 | **Pagan** | ●○○ | ●○○ | ●●● (Shin Arahan 1056, Thaton 1057, Chapata 1181) | ●●○ | ●●○ | ●●○ | `regions/pagan/timeline.md:1` draft | — see `vectors/buddhism` + `sri-lanka:14-16` |
-| **Mainland (Thai/Laos) — Sukhothai/Ayutthaya** | ●●○ | ●●○ | ●●○ (via Lanka: Pagan→Sukhothai 1331) | ●●○ | ●●○ | ●○○ (not ●●●) | `regions/mainland-thailand-laos/sukhothai-ayutthaya.md` |
-| **Dai Viet (Giao Chỉ/Luy Lâu)** — RELAY via China | ●○○ | ●○○ | ●●○ (Thiền via China: Mâu Tử 2nd c., Vinitaruci 580, Lý 1010) — China-filtered Mahayana, not Lanka | ●○○ | ●○○ | ●○○ | `regions/mainland-thailand-laos/dai-viet-buddhism.md:1` |
+| **Mainland (Thai/Laos) — Sukhothai/Ayutthaya** | ●●○ | ●●○ | ●●○ (via Lanka: Pagan→Sukhothai 1331) | ●●○ | ●●○ | ●○○ (not ●●●) | `regions/mainland-southeast-asia/sukhothai-ayutthaya.md` |
+| **Dai Viet (Giao Chỉ/Luy Lâu)** — RELAY via China | ●○○ | ●○○ | ●●○ (Thiền via China: Mâu Tử 2nd c., Vinitaruci 580, Lý 1010) — China-filtered Mahayana, not Lanka | ●○○ | ●○○ | ●○○ | `regions/mainland-southeast-asia/dai-viet-buddhism.md:1` |
 | **Bali** | ●○○ | ●○○ | ●○○ (Goa Gajah 800, Gajah Mada 1343 Shaiva-Buddha) | ●○○ | ●●● (subak) | ●○○ | `regions/bali/timeline.md:1` draft | |
 | **Majapahit** | ? (stub) | ? | ? | ? | ? | ? | `regions/majapahit/timeline.md` stub |
-| **Sukhothai-Ayutthaya** | ? (stub — see Mainland) | ? | ? | ? | ? | ? | Superseded by `mainland-thailand-laos/sukhothai-ayutthaya.md` |
+| **Sukhothai-Ayutthaya** | ? (stub — see Mainland) | ? | ? | ? | ? | ? | Superseded by `mainland-southeast-asia/sukhothai-ayutthaya.md` |
 
 > `*` Caveat: Borzuya 540-570 (not fixed 570), Bamiyan ±30y, Vo Canh contested, Sungai Batu charcoal vs brick, Timor Ti-wu? disputed.
 > `†` Relay: Rome trade via India (Periplus/Muziris), sandalwood via Javanese/Gujarati.

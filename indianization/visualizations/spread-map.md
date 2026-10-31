@@ -68,5 +68,5 @@ flowchart LR
 > **Legend:** Solid = attested. Dashed = relay/inferred. `*` charcoal vs structure caveat (`Kedah 535BCE charcoal, brick 110CE; Bamiyan 507/554 ±30y`). `†` legendary/tradition (`Kyichu 649 traditional, fabric 8th c.; Timor Ti-wu? disputed per Ptak 1987`).
 > **Fixes 2026-10-30:** `Persia(Aramaic)→Gandhara` (not India→Gandhara), `Rome→India→Oc Eo` (no direct Rome→Oc Eo), `Himalaya→Tibet` then `Arniko→China` (not Bhrikuti→China), `Srivijaya→China` (not China→Srivijaya), `Timor→Malacca via Javanese` (not Kedah→Malacca). Added `Pagan` correctly after `Lanka`.
 
-> **Sub-polity views:** `regions/straits-archipelago/kedah-bujang.md` etc.; `regions/mainland-thailand-laos/champa-*.md` — bypasses collapsing 1700y gaps.
+> **Sub-polity views:** `regions/straits-archipelago/kedah-bujang.md` etc.; `regions/mainland-southeast-asia/champa-*.md` — bypasses collapsing 1700y gaps.
 > See `regions/gandhara/timeline.md`, `regions/rome-byzantium/timeline.md`, `regions/persia/timeline.md` for dated rows. `status: draft` until audit #4 completes.
