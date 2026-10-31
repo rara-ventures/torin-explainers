@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Vietnam has a Hindu tower that has never closed — 1,200 years on the same hill."
+hook: "Vietnam has a 1,200-year-old Hindu temple that has never closed."
 duration: "85s"
 region: ["Champa"]
 century: "8th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Vietnam has a Hindu temple that has never closed — 1,200 years
+# Vietnam has a 1,200-year-old Hindu temple that has never closed
 
-> **HOOK 1 — Torin sentence (stat) / Question mix:** Vietnam has a Hindu tower that has never closed — 1,200 years on the same hill.
+> **HOOK 1 — User/Torin:** Vietnam has a 1,200-year-old Hindu temple that has never closed.
 >
-> **TEXT 1:** `VIETNAM HAS A HINDU TOWER` — Torin sentence with stat (1,200y) — like Japan controls 1,200km. Cold: Vietnam + Hindu (known) + never closed (paradox).
+> **TEXT 1:** `VIETNAM HAS A HINDU TEMPLE` — User kept — Torin sentence with stat 1,200y, cold: Vietnam + Hindu + never closed.
 >
 > **HOOK 2 — Not Buddhist. Not Vietnamese. Prayed to daily.:** Cat08 Negation — DeepSeek alt
 >

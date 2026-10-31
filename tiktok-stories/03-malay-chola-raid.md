@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Why did an empire sail 3,000km to steal doors, not gold?"
+hook: "Why would an army sail 3,000km to steal doors and not take gold?"
 duration: "80s"
 region: ["Kedah Srivijaya"]
 century: "11th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Why did an empire sail 3,000km to steal doors, not gold?
+# Why would an army sail 3,000km to steal doors and not take gold?
 
-> **HOOK 1 — Torin sentence (stat) / Question mix:** Why did an empire sail 3,000km to steal doors, not gold?
+> **HOOK 1 — User/Torin:** Why would an army sail 3,000km to steal doors and not take gold?
 >
-> **TEXT 1:** `WHY STEAL DOORS?` — Question — Torin Why did... Keep one question per mix (Torin title = question).
+> **TEXT 1:** `WHY STEAL DOORS?` — User verbatim — Torin Why would... Question with specific distance + absurd specific.
 >
 > **HOOK 2 — Stop stealing gold. In 1025 they stole doors.:** Cat02 Contrarian — DeepSeek alt
 >

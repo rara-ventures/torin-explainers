@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Why did Cambodia abandon the biggest temple on Earth?"
+hook: "A king bankrupted his country building temples — 162 hectares that emptied the treasury."
 duration: "90s"
 region: ["Angkor"]
 century: "12th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Why did Cambodia abandon the biggest temple on Earth?
+# A king bankrupted his country building temples
 
-> **HOOK 1 — Torin sentence (stat) / Question mix:** Why did Cambodia abandon the biggest temple on Earth?
+> **HOOK 1 — User/Torin:** A king bankrupted his country building temples — 162 hectares that emptied the treasury.
 >
-> **TEXT 1:** `WHY ABANDON BIGGEST?` — Question — Torin Why did... Keep mix.
+> **TEXT 1:** `KING BANKRUPTED COUNTRY` — User verbatim — Torin sentence with cause-effect, stat 162ha, economics over religion.
 >
 > **HOOK 2 — After analyzing the world's biggest temple, one number explains why they left: water.:** Cat03 Authority — DeepSeek alt
 >

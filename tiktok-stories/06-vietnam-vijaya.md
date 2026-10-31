@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Vietnam deleted a 1,200-year kingdom in 4 days — 40,000 dead, king's head under a ship."
+hook: "A 1,200-year kingdom vanished in 4 days — and no one talks about it."
 duration: "80s"
 region: ["Champa"]
 century: "15th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Vietnam deleted a 1,200-year kingdom in 4 days
+# A 1,200-year kingdom vanished in 4 days — no one talks about it
 
-> **HOOK 1 — Torin sentence (stat) / Question mix:** Vietnam deleted a 1,200-year kingdom in 4 days — 40,000 dead, king's head under a ship.
+> **HOOK 1 — User/Torin:** A 1,200-year kingdom vanished in 4 days — and no one talks about it.
 >
-> **TEXT 1:** `VIETNAM DELETED KINGDOM` — Torin sentence with double stat (1,200y + 4 days + 40k) — like Japan 1,200km chain.
+> **TEXT 1:** `VANISHED IN 4 DAYS` — Fix per user 'fix it' — new cold: duration contrast 1,200y vs 4 days + curiosity gap (why no one talks), no graphic head for cold safety.
 >
 > **HOOK 2 — March 22, 1471: the day a country was deleted in 4 days.:** Cat09 Specificity — DeepSeek alt
 >

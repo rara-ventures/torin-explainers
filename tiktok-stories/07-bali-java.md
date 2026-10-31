@@ -12,9 +12,9 @@ author: "Torin-style • Indianization Lab"
 
 # 2 islands, 30km apart — one prays to Allah, the other to Shiva
 
-> **HOOK 1 — Torin sentence (parallel):** 2 islands, 30km apart — one prays to Allah, the other to Shiva.
+> **HOOK 1 — User/Torin:** 2 islands, 30km apart — one prays to Allah, the other to Shiva.
 >
-> **TEXT 1:** `2 ISLANDS, 2 GODS, 30KM` — Parallel structure (one / the other), stat 30km, no Bali/Java needed for cold but keeps them for SEO
+> **TEXT 1:** `2 ISLANDS, 2 GODS, 30KM` — User kept — parallel structure, stat 30km, cold.
 >
 > **HOOK 2 — 30km. Same country. Opposite gods. The difference is rice.:** Cat09 Specificity — DeepSeek alt
 >

@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Tibetan Buddhism spent 12 years in Indonesia before it reached Tibet."
+hook: "Tibetan Buddhism didn't start in Tibet. It started in Indonesia."
 duration: "85s"
 region: ["Srivijaya"]
 century: "7th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Tibetan Buddhism spent 12 years in Indonesia before Tibet
+# Tibetan Buddhism didn't start in Tibet. It started in Indonesia.
 
-> **HOOK 1 — Torin sentence (stat) / Question mix:** Tibetan Buddhism spent 12 years in Indonesia before it reached Tibet.
+> **HOOK 1 — User/Torin:** Tibetan Buddhism didn't start in Tibet. It started in Indonesia.
 >
-> **TEXT 1:** `12 YEARS IN INDONESIA` — Torin sentence with stat (12y) — Tibet + Indonesia + before (temporal paradox).
+> **TEXT 1:** `NOT TIBET, INDONESIA` — User verbatim — parallel negation, cold: Tibet + Indonesia contrast, no 671 receipt prop.
 >
 > **HOOK 2 — The monk who taught Tibet left a boat ticket in Sumatra — 671.:** Cat01 Curiosity — DeepSeek alt
 >

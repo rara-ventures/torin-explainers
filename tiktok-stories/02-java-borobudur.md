@@ -1,6 +1,6 @@
 ---
 categories: "[[TikTok Stories]]"
-hook: "Indonesia built a temple you don't climb — you read it, 2,672 panels over 5km."
+hook: "An Indonesian hill became a book — 2,672 panels, zero words, 5km walk."
 duration: "90s"
 region: ["Sailendra Mataram"]
 century: "8th"
@@ -10,11 +10,11 @@ status: ready
 author: "Torin-style • Indianization Lab"
 ---
 
-# Indonesia built a temple you read, not climb — 2,672 panels
+# An Indonesian hill became a book — 2,672 panels, no words
 
-> **HOOK 1 — Torin sentence (stat) / Question mix:** Indonesia built a temple you don't climb — you read it, 2,672 panels over 5km.
+> **HOOK 1 — User/Torin:** An Indonesian hill became a book — 2,672 panels, zero words, 5km walk.
 >
-> **TEXT 1:** `TEMPLE YOU READ` — Torin sentence with stat — Indonesia + built + 2,672. Mix: sentence, not question.
+> **TEXT 1:** `HILL BECAME A BOOK` — Fix per user 'this is bad' — new Torin sentence with double stat 2,672 + 5km, no 'you don't climb' command.
 >
 > **HOOK 2 — It's not a temple. It's a 60,000-ton book.:** Cat08 Negation — DeepSeek alt
 >
