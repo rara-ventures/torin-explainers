@@ -35,6 +35,8 @@ gantt
     16th Bali refuge / Portuguese    : 1600, 1700
 ```
 
+> **Extended gantt:** Rome (Periplus 40CE), Persia (Darius 518BCE), Gandhara (518BCE) now precede Phase 0 — see `regions/rome-byzantium`, `regions/persia`, `regions/gandhara`. China (Xuanzang 629) overlaps Phase 2–3 — see `regions/china`.
+
 ## Century Folders
 
 | Folder | Century | Phase | Anchor Event | Trace Link |

@@ -9,7 +9,7 @@
 ```
 indianization/
 ├── sources/          century folders (BCE–16th) — each: README.md (story list) + timeline.md
-├── regions/          10 polities/sites — each: README.md + timeline.md
+├── regions/          18 polities (Gandhara, Himalaya, Lanka, China, Persia, Rome + 10 SE Asia + Straits/Mainland)/sites — each: README.md + timeline.md
 ├── vectors/          6 mechanisms — each: README.md + timeline.md
 ├── traces/           cross-cutting narratives (Champa → Borobudur)
 ├── visualizations/   master timelines & maps (Mermaid)
