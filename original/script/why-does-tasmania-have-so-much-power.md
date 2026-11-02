@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does Tasmania have so much power?"
 tiktok_id: "7676504534436302093"
 slug: why-does-tasmania-have-so-much-power

@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How has Russia’s relationship with Cuba changed since the Cold War?"
 tiktok_id: "7642342762658090254"
 slug: how-has-russias-relationship-with-cuba-changed-since-the-cold-war

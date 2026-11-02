@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why are Rwanda and Burundi small, separate, and surrounded by far larger countries?"
 tiktok_id: "7644592264437681421"
 slug: why-are-rwanda-and-burundi-small-separate-and-surrounded-by-far-larger-countries

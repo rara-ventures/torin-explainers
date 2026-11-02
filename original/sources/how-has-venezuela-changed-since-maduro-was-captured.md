@@ -2,7 +2,7 @@
 title: "How has Venezuela changed since Maduro was captured?"
 date: 2026-06-03
 url: https://torinrussell.com/explainers/how-has-venezuela-changed-since-maduro-was-captured
-categories: [Latin America]
+categories: ["[[Latin America]]"]
 tags: [Conflict, Democracy & Governance]
 slug: how-has-venezuela-changed-since-maduro-was-captured
 author: Torin Russell

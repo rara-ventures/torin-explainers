@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "What makes Eritrea the North Korea of Africa?"
 tiktok_id: "7639387769437015309"
 slug: what-makes-eritrea-the-north-korea-of-africa

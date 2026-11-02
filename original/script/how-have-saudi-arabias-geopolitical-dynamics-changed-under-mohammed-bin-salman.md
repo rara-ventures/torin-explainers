@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How have Saudi Arabia’s geopolitical dynamics changed under Mohammed bin Salman?"
 tiktok_id: "7652405824580586765"
 slug: how-have-saudi-arabias-geopolitical-dynamics-changed-under-mohammed-bin-salman

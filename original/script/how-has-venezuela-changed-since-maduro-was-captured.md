@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How has Venezuela changed since Maduro was captured?"
 tiktok_id: "7647190238053371149"
 slug: how-has-venezuela-changed-since-maduro-was-captured

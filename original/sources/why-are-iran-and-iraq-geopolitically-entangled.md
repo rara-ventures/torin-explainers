@@ -2,7 +2,7 @@
 title: "Why are Iran and Iraq geopolitically entangled?"
 date: 2026-08-31
 url: https://torinrussell.com/explainers/why-are-iran-and-iraq-geopolitically-entangled
-categories: [Middle East]
+categories: ["[[Middle East]]"]
 tags: [Religion, Conflict, Economy & Trade]
 slug: why-are-iran-and-iraq-geopolitically-entangled
 author: Torin Russell

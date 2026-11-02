@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Guam critical to the US?"
 tiktok_id: "7677615123678219534"
 slug: why-is-guam-critical-to-the-us

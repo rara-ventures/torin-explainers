@@ -1,0 +1,51 @@
+filters:
+  and:
+    - list(categories).contains(link("Indianization Sources"))
+    - file.path.contains("regions")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Region
+  note.region:
+    displayName: Region
+  note.indianized:
+    displayName: Indianized
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: Core Indianized
+    filters:
+      and:
+        - 'indianized == true'
+    order:
+      - file.name
+      - region
+      - indianized
+      - status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Relay / Not Indianized
+    filters:
+      and:
+        - 'indianized == false'
+    order:
+      - file.name
+      - region
+      - indianized
+      - status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: All Regions
+    order:
+      - file.name
+      - region
+      - indianized
+      - status
+    sort:
+      - property: file.name
+        direction: ASC

@@ -2,7 +2,7 @@
 title: "Why does Wales still speak Welsh when Ireland stopped speaking Irish?"
 date: 2026-09-14
 url: https://torinrussell.com/explainers/why-does-wales-still-speak-welsh-when-ireland-stopped-speaking-irish
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Language & Identity, Colonial Legacy]
 slug: why-does-wales-still-speak-welsh-when-ireland-stopped-speaking-irish
 author: Torin Russell

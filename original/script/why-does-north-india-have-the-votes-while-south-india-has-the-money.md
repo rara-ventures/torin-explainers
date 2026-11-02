@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does North India have the votes while South India has the money?"
 tiktok_id: "7699913484431133965"
 slug: why-does-north-india-have-the-votes-while-south-india-has-the-money

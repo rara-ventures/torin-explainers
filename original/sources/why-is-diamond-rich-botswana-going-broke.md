@@ -2,7 +2,7 @@
 title: "Why is diamond-rich Botswana going broke?"
 date: 2026-09-04
 url: https://torinrussell.com/explainers/why-is-diamond-rich-botswana-going-broke
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Natural Resources, Economy & Trade]
 slug: why-is-diamond-rich-botswana-going-broke
 author: Torin Russell

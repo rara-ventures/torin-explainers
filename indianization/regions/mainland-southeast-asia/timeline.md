@@ -9,7 +9,7 @@ status: verified
 # Timeline — Mainland SE Asia — Dvaravati to Ayutthaya (192 BCE–1471 CE)
 
 | Year | Event | Indianization Link | Source | Confidence |
-|------|-------|--------------------|--------|
+|------|------|------|------|------|
 | 192 CE | Linyi (Champa) — Khu Lien rebels vs Han at Xianglin | Austronesian Sa Huynh base secondarily Indianized via Oc Eo | Momoki 1996; Coedès | medium |
 | c. 350–400 CE* (Vo Canh late 3rd–early 4th c. per Zakharov; My Son A1 380–413) | Vo Canh Sanskrit 2nd–3rd c. contested → Zakharov late, My Son A1 brick Shiva temples | Kaundinya Brahmins, rajadharma, Pallava script | Filliozat 1969; Schweyer; Zakharov 2010; Griffiths 2025 | medium (contested) |
 | mid-5th c. (440–490) | Vat Phou Shrestapura — Stele K.365 Devanika, titha Kurukshetra at Lingaparvata, Bhadreshvara | Sanskrit Brahmi reframes landscape as Indian tirtha, tutelary | Coedès BEFEO 48; Jacques | medium |

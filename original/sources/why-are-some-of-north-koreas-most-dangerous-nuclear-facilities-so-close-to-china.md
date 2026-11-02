@@ -2,7 +2,7 @@
 title: "Why are some of North Korea’s most dangerous nuclear facilities so close to China?"
 date: 2026-06-18
 url: https://torinrussell.com/explainers/why-are-some-of-north-koreas-most-dangerous-nuclear-facilities-so-close-to-china
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Nuclear, Great Power Competition]
 slug: why-are-some-of-north-koreas-most-dangerous-nuclear-facilities-so-close-to-china
 author: Torin Russell

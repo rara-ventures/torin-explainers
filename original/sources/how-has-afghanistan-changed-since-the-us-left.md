@@ -2,7 +2,7 @@
 title: "How has Afghanistan changed since the US left?"
 date: 2026-07-08
 url: https://torinrussell.com/explainers/how-has-afghanistan-changed-since-the-us-left
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Conflict, Democracy & Governance]
 slug: how-has-afghanistan-changed-since-the-us-left
 author: Torin Russell

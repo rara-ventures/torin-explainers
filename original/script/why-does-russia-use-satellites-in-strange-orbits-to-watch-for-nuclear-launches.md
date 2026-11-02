@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does Russia use satellites in strange orbits to watch for nuclear launches?"
 tiktok_id: "7695805449614019853"
 slug: why-does-russia-use-satellites-in-strange-orbits-to-watch-for-nuclear-launches

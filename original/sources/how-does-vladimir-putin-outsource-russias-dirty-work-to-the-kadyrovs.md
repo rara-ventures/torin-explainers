@@ -2,7 +2,7 @@
 title: "How does Vladimir Putin outsource Russia’s dirty work to the Kadyrovs?"
 date: 2026-05-14
 url: https://torinrussell.com/explainers/how-does-vladimir-putin-outsource-russias-dirty-work-to-the-kadyrovs
-categories: [Russia & Eurasia]
+categories: ["[[Russia & Eurasia]]"]
 tags: [Conflict, Democracy & Governance]
 slug: how-does-vladimir-putin-outsource-russias-dirty-work-to-the-kadyrovs
 author: Torin Russell

@@ -1,6 +1,7 @@
 ---
 categories: ["[[Indianization Sources]]"]
 region: ["Mainland"]
+indianized: true
 created: 2026-10-30
 ---
 

@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How does France riot so much without collapsing?"
 tiktok_id: "7698399840488738062"
 slug: how-does-france-riot-so-much-without-collapsing

@@ -1,5 +1,5 @@
 ---
-categories: "[[YouTube Long Form]]"
+categories: ["[[YouTube Long Form]]"]
 title: "Why is Poland risking Russian sabotage to build offshore power?"
 youtube_id: "8z8fmfNJwEY"
 duration: 1075

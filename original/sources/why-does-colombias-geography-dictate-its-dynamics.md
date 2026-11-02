@@ -2,7 +2,7 @@
 title: "Why does Colombia’s geography dictate its dynamics?"
 date: 2026-07-27
 url: https://torinrussell.com/explainers/why-does-colombias-geography-dictate-its-dynamics
-categories: [Latin America]
+categories: ["[[Latin America]]"]
 tags: [Conflict, Democracy & Governance]
 slug: why-does-colombias-geography-dictate-its-dynamics
 author: Torin Russell

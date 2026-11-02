@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "6th"
+century_num: 600
 phase: "Phase 2 Transplant"
-region: ['Funan Chenla', 'Champa']
-vector: ['Buddhism']
+region: ["Funan Chenla", "Champa"]
+vector: ["Buddhism"]
 topics: ['Funan Chenla', 'Champa', 'Buddhism']
 created: 2026-10-29
 status: todo

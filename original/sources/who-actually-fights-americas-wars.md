@@ -2,7 +2,7 @@
 title: "Who actually fights America’s wars?"
 date: 2026-07-20
 url: https://torinrussell.com/explainers/who-actually-fights-americas-wars
-categories: [North America]
+categories: ["[[North America]]"]
 tags: [Military & Defense]
 slug: who-actually-fights-americas-wars
 author: Torin Russell

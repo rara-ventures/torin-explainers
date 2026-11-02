@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does Estonia run a “data embassy” in Luxembourg?"
 tiktok_id: "7693934809483070734"
 slug: why-does-estonia-run-a-data-embassy-in-luxembourg

@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "2nd"
+century_num: 200
+phase: "Phase 1 Contact"
+status: draft
+---
+
 # Timeline — 02 2Nd Century
 
 | Year | Event | Region | Source |

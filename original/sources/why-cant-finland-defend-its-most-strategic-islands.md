@@ -2,7 +2,7 @@
 title: "Why can’t Finland defend its most strategic islands?"
 date: 2026-09-03
 url: https://torinrussell.com/explainers/why-cant-finland-defend-its-most-strategic-islands
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Military & Defense, Independence & Autonomy]
 slug: why-cant-finland-defend-its-most-strategic-islands
 author: Torin Russell

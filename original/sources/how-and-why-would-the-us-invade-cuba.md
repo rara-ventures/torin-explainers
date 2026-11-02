@@ -2,7 +2,7 @@
 title: "How and why would the US invade Cuba?"
 date: 2026-05-28
 url: https://torinrussell.com/explainers/how-and-why-would-the-us-invade-cuba
-categories: [Caribbean, North America]
+categories: ["[[Caribbean]]", "[[North America]]"]
 tags: [Military & Defense, Conflict]
 slug: how-and-why-would-the-us-invade-cuba
 author: Torin Russell

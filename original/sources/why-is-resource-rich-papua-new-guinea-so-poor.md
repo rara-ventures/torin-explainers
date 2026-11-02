@@ -2,7 +2,7 @@
 title: "Why is resource-rich Papua New Guinea so poor?"
 date: 2026-09-10
 url: https://torinrussell.com/explainers/why-is-resource-rich-papua-new-guinea-so-poor
-categories: [Oceania & Pacific]
+categories: ["[[Oceania & Pacific]]"]
 tags: [Natural Resources, Great Power Competition]
 slug: why-is-resource-rich-papua-new-guinea-so-poor
 author: Torin Russell

@@ -2,7 +2,7 @@
 title: "Why has Javier Milei changed things for Argentina?"
 date: 2026-07-30
 url: https://torinrussell.com/explainers/why-has-javier-milei-changed-things-for-argentina
-categories: [Latin America]
+categories: ["[[Latin America]]"]
 tags: [Economy & Trade, Democracy & Governance]
 slug: why-has-javier-milei-changed-things-for-argentina
 author: Torin Russell

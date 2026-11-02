@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How does Tanzania’s political upheaval affect its role in geopolitics?"
 tiktok_id: "7650179715013020941"
 slug: how-does-tanzanias-political-upheaval-affect-its-role-in-geopolitics

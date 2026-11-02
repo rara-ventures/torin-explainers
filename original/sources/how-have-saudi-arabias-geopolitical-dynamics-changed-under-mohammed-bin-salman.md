@@ -2,7 +2,7 @@
 title: "How have Saudi Arabia’s geopolitical dynamics changed under Mohammed bin Salman?"
 date: 2026-06-17
 url: https://torinrussell.com/explainers/how-have-saudi-arabias-geopolitical-dynamics-changed-under-mohammed-bin-salman
-categories: [Middle East]
+categories: ["[[Middle East]]"]
 tags: [Democracy & Governance, Economy & Trade]
 slug: how-have-saudi-arabias-geopolitical-dynamics-changed-under-mohammed-bin-salman
 author: Torin Russell

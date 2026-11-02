@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why isn’t Italy a global power?"
 tiktok_id: "7689488673896811789"
 slug: why-isnt-italy-a-global-power

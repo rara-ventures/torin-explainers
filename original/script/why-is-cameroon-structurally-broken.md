@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Cameroon structurally broken?"
 tiktok_id: "7672432318237265166"
 slug: why-is-cameroon-structurally-broken

@@ -2,7 +2,7 @@
 title: "Why couldn’t Ukraine keep its nuclear weapons?"
 date: 2026-10-21
 url: https://torinrussell.com/explainers/why-couldnt-ukraine-keep-its-nuclear-weapons
-categories: [Russia & Eurasia, Europe]
+categories: ["[[Russia & Eurasia]]", "[[Europe]]"]
 tags: [Nuclear, Diplomacy & Alliances]
 slug: why-couldnt-ukraine-keep-its-nuclear-weapons
 author: Torin Russell

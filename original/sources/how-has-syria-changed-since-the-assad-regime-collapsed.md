@@ -2,7 +2,7 @@
 title: "How has Syria changed since the Assad regime collapsed?"
 date: 2026-05-26
 url: https://torinrussell.com/explainers/how-has-syria-changed-since-the-assad-regime-collapsed
-categories: [Middle East]
+categories: ["[[Middle East]]"]
 tags: [Conflict, Democracy & Governance]
 slug: how-has-syria-changed-since-the-assad-regime-collapsed
 author: Torin Russell

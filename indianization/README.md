@@ -52,10 +52,11 @@ Or pick an axis:
 
 ## Status
 
-- Scaffolding: ✅ 19 century folders (-06,-02,00-16), 18 regions (12 core + 6 relay per thesis.md), 6 vectors (1 verified buddhism + 5 stubs), 2 traces — all with `timeline.md` placeholders
-- Sources ingestion: ⬜ TODO — next step is to fill `sources/*/timeline.md` with dated inscriptions (Vo Canh, My Son, Kedukan Bukit, Kalasan, Borobudur) + Chinese annals (Liangshu on Funan, Songshi on Champa)
+- Scaffolding: ✅ 19 century folders (-06,-02,00-16), 18 regions (14 core + 4 relay per thesis.md), 6 vectors, 2 traces — all with `timeline.md` frontmatter (`century`/`century_num`/`phase`/`region`/`vector`/`status`)
+- Sources ingestion: ✅ 266 dated rows across all `timeline.md` files (Vo Canh, My Son, Kedukan Bukit, Kalasan, Borobudur, Angkor K.235) + Chinese annals (Liangshu on Funan, Songshi on Champa); every row carries a source and confidence note
+- Status legend: `verified` = anchor checked; `draft` = plausible, needs one more source; `todo` = placeholder; `stub` = <3 rows; `deprecated` = superseded; `complete` = done
 - `original/` is untouched history (git `R` from root), so Torin archive stays citable.
 
 ---
 
-*Next: Fill a century (e.g., 08-8th) with 3 stories and verify via epigraphy?*
+*Next: promote `draft` timelines (Bali, Majapahit, Dvaravati, Funan-Chenla) to `verified` with 3+ cited rows each.*

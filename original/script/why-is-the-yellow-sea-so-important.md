@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is the Yellow Sea so important?"
 tiktok_id: "7670194324612582669"
 slug: why-is-the-yellow-sea-so-important

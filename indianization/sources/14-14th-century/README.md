@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "14th"
+century_num: 1400
 phase: "Phase 5 Transition"
-region: ['Majapahit']
-vector: ['Trade Maritime']
+region: ["Majapahit"]
+vector: ["Trade Maritime"]
 topics: ['Majapahit', 'Trade Maritime']
 created: 2026-10-29
 status: todo

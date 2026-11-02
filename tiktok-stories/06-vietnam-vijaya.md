@@ -1,9 +1,10 @@
 ---
-categories: "[[TikTok Stories]]"
+categories: ["[[TikTok Stories]]"]
 hook: "Vietnam's most important battle lasted 4 days. No one outside Vietnam knows it."
 duration: "80s"
 region: ["Champa"]
 century: "15th"
+century_num: 1500
 topics: ["Champa"]
 created: 2026-10-29
 status: ready

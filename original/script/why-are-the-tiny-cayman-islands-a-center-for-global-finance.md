@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why are the tiny Cayman Islands a center for global finance?"
 tiktok_id: "7662039717130652941"
 slug: why-are-the-tiny-cayman-islands-a-center-for-global-finance

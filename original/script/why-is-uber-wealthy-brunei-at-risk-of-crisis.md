@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is uber-wealthy Brunei at risk of crisis?"
 tiktok_id: "7660912744081673485"
 slug: why-is-uber-wealthy-brunei-at-risk-of-crisis

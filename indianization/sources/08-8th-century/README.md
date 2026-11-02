@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "8th"
+century_num: 800
 phase: "Phase 3 Classical"
-region: ['Sailendra Mataram', 'Champa']
-vector: ['Buddhism', 'Art Architecture']
+region: ["Sailendra Mataram", "Champa"]
+vector: ["Buddhism", "Art Architecture"]
 topics: ['Sailendra Mataram', 'Champa', 'Buddhism', 'Art Architecture']
 created: 2026-10-29
 status: todo

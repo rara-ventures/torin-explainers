@@ -1,5 +1,5 @@
 ---
-categories: "[[YouTube Long Form]]"
+categories: ["[[YouTube Long Form]]"]
 created: 2026-10-29
 ---
 

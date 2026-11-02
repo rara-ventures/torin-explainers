@@ -1,9 +1,10 @@
 ---
-categories: "[[TikTok Stories]]"
+categories: ["[[TikTok Stories]]"]
 hook: "Why would an army sail 3,000km to steal doors and not take gold?"
 duration: "80s"
 region: ["Kedah Srivijaya"]
 century: "11th"
+century_num: 1100
 topics: ["Kedah Srivijaya"]
 created: 2026-10-29
 status: ready

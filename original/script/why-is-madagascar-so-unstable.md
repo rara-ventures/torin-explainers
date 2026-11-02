@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Madagascar so unstable?"
 tiktok_id: "7665758063680310542"
 slug: why-is-madagascar-so-unstable

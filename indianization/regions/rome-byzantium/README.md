@@ -1,6 +1,6 @@
 ---
 categories: ["[[Indianization Sources]]"]
-region: ["Rome-Byzantium"]
+region: ["Rome Byzantium"]
 indianized: false
 created: 2026-10-30
 ---

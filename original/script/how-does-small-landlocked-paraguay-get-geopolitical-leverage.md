@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How does small, landlocked Paraguay get geopolitical leverage?"
 tiktok_id: "7694366407114444045"
 slug: how-does-small-landlocked-paraguay-get-geopolitical-leverage

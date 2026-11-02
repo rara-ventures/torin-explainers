@@ -2,7 +2,7 @@
 title: "Why does the Pope have one of the best intelligence networks on Earth?"
 date: 2026-09-17
 url: https://torinrussell.com/explainers/why-does-the-pope-have-one-of-the-best-intelligence-networks-on-earth
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Religion, Intelligence, Diplomacy & Alliances]
 slug: why-does-the-pope-have-one-of-the-best-intelligence-networks-on-earth
 author: Torin Russell

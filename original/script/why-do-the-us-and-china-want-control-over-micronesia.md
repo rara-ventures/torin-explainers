@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why do the US and China want control over Micronesia?"
 tiktok_id: "7667976689577643277"
 slug: why-do-the-us-and-china-want-control-over-micronesia

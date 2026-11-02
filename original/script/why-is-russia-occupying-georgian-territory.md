@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Russia occupying Georgian territory?"
 tiktok_id: "7686912825251482893"
 slug: why-is-russia-occupying-georgian-territory

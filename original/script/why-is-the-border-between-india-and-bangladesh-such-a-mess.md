@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is the border between India and Bangladesh such a mess?"
 tiktok_id: "7682838272783011086"
 slug: why-is-the-border-between-india-and-bangladesh-such-a-mess

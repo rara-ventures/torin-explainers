@@ -1,7 +1,8 @@
 ---
 categories: ["[[Indianization Sources]]"]
 status: stub
-region: ["Sukhothai-Ayutthaya"]
+region: ["Sukhothai Ayutthaya"]
+indianized: true
 topics: ['Sukhothai', 'Ayutthaya']
 created: 2026-10-29
 ---

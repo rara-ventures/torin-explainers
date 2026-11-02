@@ -12,7 +12,7 @@
 | P4 | 05 Angkor | `They finished the biggest temple on Earth. Then they just... left.` | 8.6 | Highest retention (ellipsis), best overall 8.6 |
 | P5 | 01 Tower | `Not Buddhist. Not Vietnamese. Prayed to daily.` | 8.5 | Fastest 0.3s negation (6 words, 3 contradictions) |
 | P6 | 02 Read-temple | `Stop climbing temples. This one you read.` | 8.4 | Contrarian command, perfect cold |
-| P7 | 07 Bali | `30km. Same country. Opposite gods. The difference is rice.` | 8.3 | Minimalist specificity, coldest, most visual |
+| P7 | 07 Bali | `2 islands, 30km apart — one prays to Allah, the other to Shiva.` | 8.3 | Minimalist specificity, coldest, most visual |
 
 ## Per-Story Top 3 / Bottom 1
 

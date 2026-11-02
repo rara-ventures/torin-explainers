@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "11th"
+century_num: 1100
 phase: "Phase 4 Imperial"
-region: ['Angkor', 'Srivijaya']
-vector: ['Trade Maritime', 'Brahmin Royal']
+region: ["Angkor", "Srivijaya"]
+vector: ["Trade Maritime", "Brahmin Royal"]
 topics: ['Angkor', 'Srivijaya', 'Trade Maritime', 'Brahmin Royal']
 created: 2026-10-29
 status: todo

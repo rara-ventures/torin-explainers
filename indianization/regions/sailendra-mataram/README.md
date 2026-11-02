@@ -1,6 +1,7 @@
 ---
 categories: ["[[Indianization Sources]]"]
-region: ["Sailendra-Mataram"]
+region: ["Sailendra Mataram"]
+indianized: true
 topics: ['Sailendra Mataram', 'Java']
 created: 2026-10-29
 ---

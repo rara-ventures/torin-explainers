@@ -2,6 +2,7 @@
 categories: ["[[Indianization Sources]]"]
 status: draft
 region: ["Pagan"]
+indianized: true
 topics: ['Pagan']
 created: 2026-10-29
 ---

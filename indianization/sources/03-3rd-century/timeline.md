@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "3rd"
+century_num: 300
+phase: "Phase 1 Contact"
+status: draft
+---
+
 # Timeline — 03 3Rd Century
 
 | Year | Event | Region | Source |

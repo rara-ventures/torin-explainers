@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why hasn’t Scotland gained independence from the UK?"
 tiktok_id: "7660535106192346381"
 slug: why-hasnt-scotland-gained-independence-from-the-uk

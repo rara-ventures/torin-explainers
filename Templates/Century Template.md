@@ -1,5 +1,5 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: ""
 phase: ""
 topics: []

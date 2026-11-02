@@ -2,7 +2,7 @@
 title: "Why does the EU exist?"
 date: 2026-07-14
 url: https://torinrussell.com/explainers/why-does-the-eu-exist
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Diplomacy & Alliances, Economy & Trade]
 slug: why-does-the-eu-exist
 author: Torin Russell

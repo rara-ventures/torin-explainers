@@ -2,7 +2,7 @@
 title: "Why does Russia use satellites in strange orbits to watch for nuclear launches?"
 date: 2026-10-12
 url: https://torinrussell.com/explainers/why-does-russia-use-satellites-in-strange-orbits-to-watch-for-nuclear-launches
-categories: [Russia & Eurasia]
+categories: ["[[Russia & Eurasia]]"]
 tags: [Space, Nuclear, Military & Defense]
 slug: why-does-russia-use-satellites-in-strange-orbits-to-watch-for-nuclear-launches
 author: Torin Russell

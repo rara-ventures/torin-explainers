@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How do nuclear powers decide to end the world?"
 tiktok_id: "7688021623508569358"
 slug: how-do-nuclear-powers-decide-to-end-the-world

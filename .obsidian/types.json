@@ -52,6 +52,7 @@
     "pages": "number",
     "acquired": "date",
     "century": "text",
+    "century_num": "number",
     "phase": "text",
     "indianized": {"type": "checkbox"},
     "region": "multitext",
@@ -60,6 +61,21 @@
     "script": "multitext",
     "religion": "multitext",
     "inscription": "text",
-    "period": "text"
+    "period": "text",
+    "hook": "text",
+    "duration": "number",
+    "duration_str": "text",
+    "tiktok_id": "text",
+    "youtube_id": "text",
+    "tiktok_url": "text",
+    "like_count": "number",
+    "view_count": "number",
+    "upload_date": "text",
+    "url": "text",
+    "slug": "text",
+    "trace": "text",
+    "regions": "multitext",
+    "vectors": "multitext",
+    "supersedes": "multitext"
   }
 }

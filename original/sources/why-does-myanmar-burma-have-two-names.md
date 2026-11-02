@@ -2,7 +2,7 @@
 title: "Why does Myanmar (Burma) have two names?"
 date: 2026-06-19
 url: https://torinrussell.com/explainers/why-does-myanmar-burma-have-two-names
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Language & Identity, Democracy & Governance]
 slug: why-does-myanmar-burma-have-two-names
 author: Torin Russell

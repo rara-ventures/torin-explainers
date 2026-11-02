@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "11th"
+century_num: 1100
+phase: "Phase 4 Imperial"
+status: draft
+---
+
 # Timeline — 11 11Th Century
 
 | Year | Event | Region | Source |

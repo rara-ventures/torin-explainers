@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "12th"
+century_num: 1200
+phase: "Phase 4 Imperial"
+status: draft
+---
+
 # Timeline — 12 12Th Century
 
 | Year | Event | Region | Source |

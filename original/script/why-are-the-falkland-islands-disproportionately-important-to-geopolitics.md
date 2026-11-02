@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why are the Falkland Islands disproportionately important to geopolitics?"
 tiktok_id: "7654222890518269198"
 slug: why-are-the-falkland-islands-disproportionately-important-to-geopolitics

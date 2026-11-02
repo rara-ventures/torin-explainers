@@ -2,7 +2,7 @@
 title: "Why would the US want to take Greenland when it already operates freely there?"
 date: 2026-06-24
 url: https://torinrussell.com/explainers/why-would-the-us-want-to-take-greenland-when-it-already-operates-freely-there
-categories: [Europe, North America]
+categories: ["[[Europe]]", "[[North America]]"]
 tags: [Great Power Competition, Independence & Autonomy, Military & Defense]
 slug: why-would-the-us-want-to-take-greenland-when-it-already-operates-freely-there
 author: Torin Russell

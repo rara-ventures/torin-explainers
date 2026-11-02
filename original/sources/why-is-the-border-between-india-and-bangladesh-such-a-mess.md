@@ -2,7 +2,7 @@
 title: "Why is the border between India and Bangladesh such a mess?"
 date: 2026-09-07
 url: https://torinrussell.com/explainers/why-is-the-border-between-india-and-bangladesh-such-a-mess
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Borders & Territory, Colonial Legacy]
 slug: why-is-the-border-between-india-and-bangladesh-such-a-mess
 author: Torin Russell

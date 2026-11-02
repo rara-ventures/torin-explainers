@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does Uganda’s military decide who rules the country?"
 tiktok_id: "7696841256177126669"
 slug: why-does-ugandas-military-decide-who-rules-the-country

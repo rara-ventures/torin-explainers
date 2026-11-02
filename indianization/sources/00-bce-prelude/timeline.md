@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "BCE"
+century_num: -100
+phase: "Phase 0 Prelude"
+status: draft
+---
+
 # Timeline — 00 Bce Prelude
 
 | Year | Event | Region | Source |

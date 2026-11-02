@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is resource-rich Papua New Guinea so poor?"
 tiktok_id: "7683927659075702029"
 slug: why-is-resource-rich-papua-new-guinea-so-poor

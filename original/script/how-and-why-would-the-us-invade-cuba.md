@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How and why would the US invade Cuba?"
 tiktok_id: "7644949906427301134"
 slug: how-and-why-would-the-us-invade-cuba

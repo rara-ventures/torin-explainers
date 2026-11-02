@@ -1,6 +1,7 @@
 ---
 categories: ["[[Indianization Sources]]"]
 region: ["Straits Archipelago"]
+indianized: true
 created: 2026-10-30
 ---
 

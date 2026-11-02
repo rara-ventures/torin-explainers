@@ -1,6 +1,6 @@
 ---
-categories: "[[Majapahit]]"
-region: ['Majapahit']
+categories: ["[[Indianization Sources]]"]
+region: ["Majapahit"]
 topics: ['Majapahit']
 created: 2026-10-29
 ---

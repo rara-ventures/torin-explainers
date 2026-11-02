@@ -2,7 +2,7 @@
 title: "Why is uber-wealthy Brunei at risk of crisis?"
 date: 2026-07-10
 url: https://torinrussell.com/explainers/why-is-uber-wealthy-brunei-at-risk-of-crisis
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Natural Resources, Small States]
 slug: why-is-uber-wealthy-brunei-at-risk-of-crisis
 author: Torin Russell

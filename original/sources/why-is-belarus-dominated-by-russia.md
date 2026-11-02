@@ -2,7 +2,7 @@
 title: "Why is Belarus dominated by Russia?"
 date: 2026-05-12
 url: https://torinrussell.com/explainers/why-is-belarus-dominated-by-russia
-categories: [Russia & Eurasia]
+categories: ["[[Russia & Eurasia]]"]
 tags: [Diplomacy & Alliances]
 slug: why-is-belarus-dominated-by-russia
 author: Torin Russell

@@ -2,7 +2,7 @@
 title: "Why is Siberia Russia’s greatest strength and weakness?"
 date: 2026-07-24
 url: https://torinrussell.com/explainers/why-is-siberia-russias-greatest-strength-and-weakness
-categories: [Russia & Eurasia]
+categories: ["[[Russia & Eurasia]]"]
 tags: [Natural Resources]
 slug: why-is-siberia-russias-greatest-strength-and-weakness
 author: Torin Russell

@@ -2,7 +2,7 @@
 title: "Why does Uganda’s military decide who rules the country?"
 date: 2026-10-15
 url: https://torinrussell.com/explainers/why-does-ugandas-military-decide-who-rules-the-country
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Military & Defense, Democracy & Governance, Colonial Legacy]
 slug: why-does-ugandas-military-decide-who-rules-the-country
 author: Torin Russell

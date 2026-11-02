@@ -2,7 +2,7 @@
 title: "Why is New York City the unofficial capital of the world?"
 date: 2026-09-28
 url: https://torinrussell.com/explainers/why-is-new-york-city-the-unofficial-capital-of-the-world
-categories: [North America]
+categories: ["[[North America]]"]
 tags: [Diplomacy & Alliances, Economy & Trade]
 slug: why-is-new-york-city-the-unofficial-capital-of-the-world
 author: Torin Russell

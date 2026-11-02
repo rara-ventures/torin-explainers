@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How did the Basques beat Spain without leaving it?"
 tiktok_id: "7642003763758238989"
 slug: how-did-the-basques-beat-spain-without-leaving-it

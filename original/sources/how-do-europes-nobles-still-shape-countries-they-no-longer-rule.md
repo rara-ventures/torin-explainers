@@ -2,7 +2,7 @@
 title: "How do Europe’s nobles still shape countries they no longer rule?"
 date: 2026-09-16
 url: https://torinrussell.com/explainers/how-do-europes-nobles-still-shape-countries-they-no-longer-rule
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Democracy & Governance]
 slug: how-do-europes-nobles-still-shape-countries-they-no-longer-rule
 author: Torin Russell

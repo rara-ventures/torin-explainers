@@ -1,6 +1,6 @@
 filters:
   and:
-    - categories.contains(link("Indianization Sources"))
+    - list(categories).contains(link("Indianization Sources"))
     - note.century
     - '!file.name.contains("Template")'
 properties:
@@ -18,5 +18,5 @@ views:
       - century
       - phase
     sort:
-      - property: century
+      - property: century_num
         direction: ASC

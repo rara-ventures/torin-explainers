@@ -2,7 +2,7 @@
 title: "How does small, landlocked Paraguay get geopolitical leverage?"
 date: 2026-10-08
 url: https://torinrussell.com/explainers/how-does-small-landlocked-paraguay-get-geopolitical-leverage
-categories: [Latin America]
+categories: ["[[Latin America]]"]
 tags: [Natural Resources, Economy & Trade]
 slug: how-does-small-landlocked-paraguay-get-geopolitical-leverage
 author: Torin Russell

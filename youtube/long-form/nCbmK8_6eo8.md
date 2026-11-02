@@ -1,5 +1,5 @@
 ---
-categories: "[[YouTube Long Form]]"
+categories: ["[[YouTube Long Form]]"]
 title: "What happens if Russia nukes Ukraine?"
 youtube_id: "nCbmK8_6eo8"
 duration: 808

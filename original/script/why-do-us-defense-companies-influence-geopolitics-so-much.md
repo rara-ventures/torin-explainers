@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why do US defense companies influence geopolitics so much?"
 tiktok_id: "7673902298241731854"
 slug: why-do-us-defense-companies-influence-geopolitics-so-much

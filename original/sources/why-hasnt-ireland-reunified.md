@@ -2,7 +2,7 @@
 title: "Why hasn’t Ireland reunified?"
 date: 2026-07-03
 url: https://torinrussell.com/explainers/why-hasnt-ireland-reunified
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Independence & Autonomy, Conflict]
 slug: why-hasnt-ireland-reunified
 author: Torin Russell

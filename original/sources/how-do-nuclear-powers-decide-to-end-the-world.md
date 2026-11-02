@@ -2,7 +2,7 @@
 title: "How do nuclear powers decide to end the world?"
 date: 2026-09-21
 url: https://torinrussell.com/explainers/how-do-nuclear-powers-decide-to-end-the-world
-categories: [Global]
+categories: ["[[Global]]"]
 tags: [Nuclear, Military & Defense]
 slug: how-do-nuclear-powers-decide-to-end-the-world
 author: Torin Russell

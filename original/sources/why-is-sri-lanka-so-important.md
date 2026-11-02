@@ -2,7 +2,7 @@
 title: "Why is Sri Lanka so important?"
 date: 2026-08-12
 url: https://torinrussell.com/explainers/why-is-sri-lanka-so-important
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Maritime, Great Power Competition, Conflict]
 slug: why-is-sri-lanka-so-important
 author: Torin Russell

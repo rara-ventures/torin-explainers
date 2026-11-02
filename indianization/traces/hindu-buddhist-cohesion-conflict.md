@@ -1,7 +1,7 @@
 ---
 categories: ["[[Indianization Sources]]"]
 trace: ["Hindu-Buddhist Cohesion-Conflict"]
-regions: ["Champa", "Sailendra-Mataram", "Angkor", "Pagan", "Srivijaya", "Sukhothai-Ayutthaya", "Mainland", "Himalaya", "Sri Lanka", "Bali", "Kedah"]
+regions: ["Champa", "Sailendra Mataram", "Angkor", "Pagan", "Srivijaya", "Sukhothai Ayutthaya", "Mainland", "Himalaya", "Sri Lanka", "Bali", "Kedah Srivijaya"]
 vectors: ["Brahmin Royal", "Buddhism"]
 created: 2026-10-31
 status: draft
@@ -13,8 +13,8 @@ status: draft
 
 ## Cohesion — Dyarchy & Syncretism (10 cases)
 
-| Year | Place | Cohesion Form | Evidence | Source | Confidence |
-|------|-------|---------------|----------|--------|------------|
+| Year | Place | Cohesion Form | Evidence & Source | Confidence |
+|------|-------|---------------|-------------------|------------|
 | 464–705 CE | Kathmandu Valley Licchavi | **Royal dyarchy**: Vaishnava Manadeva I (464 Changu Narayan) donates Vihara-Manamadeva; grandson Vrsadeva founds Swayambhu Chaitya; 200 licchavi inscriptions grant fields/revenue to sangha (confiscate criminal house); Sivadeva II 694 becomes monk; Xuanzang 643: 2000 monks + Pasupatas side-by-side | Changu Narayan 464; Licchavi corpus 200+; Gopalarajavamsavali; Beal Si-Yu-Ki | high |
 | c.1200–1769 (Malla 1372–1482) | Kathmandu Valley Malla Newar | **Hereditary dyarchy**: married Vajracharya (Buddhist Brahmin) + Brahman purohit co-serve Hindu king; Swayambhu trilingual 1751 (Nepalbhasa/Tibetan/Devanagari) joint Hindu-Newar+Tibetan; Kumari (Śākya girl) blesses coronation; Prithvi Narayan Shah 1769 funds both | Slusser 1982; von Rospatt 2023; Petech; Levy | high (anchor) |
 | 778 CE Saka 700 | Kalasan, Prambanan Plain | **Dyarchy inscription — debt ritual**: Hindu Maharaja Tejapurnapana Panangkaran builds Tārābhavana + vihara for Sailendra gurus (gurubhih), donates Kalaśa village; guru Kumaraghosa from Gaudidvipa (Bengal) | Kalasan 778 Sarkar CC; Bosch 1928 ✓ high (anchor) | high |
@@ -28,8 +28,8 @@ status: draft
 
 ## Conflict — Purge & Competition (10 cases)
 
-| Year | Place | Conflict Form | Evidence | Source | Confidence |
-|------|-------|---------------|----------|--------|------------|
+| Year | Place | Conflict Form | Evidence & Source | Confidence |
+|------|-------|---------------|-------------------|------------|
 | 185 BCE | Pataliputra / Sanchi | **Brahmin coup — patronage shift**: Pushyamitra Shunga (Brahmin general) assassinates Maurya Brihadratha, ashvamedha; Divyavadana claims 84k stupas destroyed (polemical vs Sanchi continuity) | Divyavadana 434; Marshall Sanchi; Thapar 2006 | low (polemical) |
 | c.606–637 CE | Bodh Gaya / Karnasuvarna | **Iconoclasm — Shaiva vs Buddhism**: Shashanka (Gauda Shaiva) cuts Bodhi Tree, replaces Buddha with linga; Xuanzang reports; restored by Harsha | Xuanzang Si-yu-ki Bk VIII; H.C.Ray 1932 | medium |
 | 89 BCE–1153 ongoing (236, 304, 911) | Anuradhapura | **Sectarian purification — economic competition**: Voharikatissa 209 suppresses Vetulyavada (Kapila); Gothabhaya 253 expels 60 Vetulyakas, burns Vetulla-pitaka Mahavamsa 36.111✓; Mahasena 276 bans Mahavihara offerings 9y → Abhayagiri; Parakramabahu 1153 dissolves Abhayagiri/Jetavana into Mahavihara | Mahavamsa 36.41/36.111/37; Culavamsa 78; Deeg 2024 | medium (Mahavihara partisan, anchor) |

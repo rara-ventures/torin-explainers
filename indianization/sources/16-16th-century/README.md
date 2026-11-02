@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "16th"
-phase: "Phase 5 Afterglow"
-region: ['Bali']
-vector: ['Trade Maritime']
+century_num: 1600
+phase: "Phase 5 Transition"
+region: ["Bali"]
+vector: ["Trade Maritime"]
 topics: ['Bali', 'Trade Maritime']
 created: 2026-10-29
 status: todo

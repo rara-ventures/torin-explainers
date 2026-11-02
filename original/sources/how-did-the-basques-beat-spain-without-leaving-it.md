@@ -2,7 +2,7 @@
 title: "How did the Basques beat Spain without leaving it?"
 date: 2026-05-20
 url: https://torinrussell.com/explainers/how-did-the-basques-beat-spain-without-leaving-it
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Independence & Autonomy, Language & Identity]
 slug: how-did-the-basques-beat-spain-without-leaving-it
 author: Torin Russell

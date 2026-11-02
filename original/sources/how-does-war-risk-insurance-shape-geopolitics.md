@@ -2,7 +2,7 @@
 title: "How does war risk insurance shape geopolitics?"
 date: 2026-10-22
 url: https://torinrussell.com/explainers/how-does-war-risk-insurance-shape-geopolitics
-categories: [Global]
+categories: ["[[Global]]"]
 tags: [Economy & Trade, Maritime, Conflict]
 slug: how-does-war-risk-insurance-shape-geopolitics
 author: Torin Russell

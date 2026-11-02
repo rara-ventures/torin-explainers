@@ -2,7 +2,7 @@
 title: "Why isn’t Italy a global power?"
 date: 2026-09-25
 url: https://torinrussell.com/explainers/why-isnt-italy-a-global-power
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Economy & Trade, Democracy & Governance]
 slug: why-isnt-italy-a-global-power
 author: Torin Russell

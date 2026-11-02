@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does Myanmar (Burma) have two names?"
 tiktok_id: "7653150675089493261"
 slug: why-does-myanmar-burma-have-two-names

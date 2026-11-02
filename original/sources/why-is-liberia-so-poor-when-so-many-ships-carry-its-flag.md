@@ -2,7 +2,7 @@
 title: "Why is Liberia so poor when so many ships carry its flag?"
 date: 2026-08-03
 url: https://torinrussell.com/explainers/why-is-liberia-so-poor-when-so-many-ships-carry-its-flag
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Maritime, Economy & Trade]
 slug: why-is-liberia-so-poor-when-so-many-ships-carry-its-flag
 author: Torin Russell

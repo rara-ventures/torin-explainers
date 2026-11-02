@@ -2,7 +2,7 @@
 title: "Why isn’t modern Egypt powerful like Ancient Egypt was?"
 date: 2026-07-16
 url: https://torinrussell.com/explainers/why-isnt-modern-egypt-powerful-like-ancient-egypt-was
-categories: [Middle East, Africa]
+categories: ["[[Middle East]]", "[[Africa]]"]
 tags: [Natural Resources, Conflict]
 slug: why-isnt-modern-egypt-powerful-like-ancient-egypt-was
 author: Torin Russell

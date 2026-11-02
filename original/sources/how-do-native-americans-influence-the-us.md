@@ -2,7 +2,7 @@
 title: "How do Native Americans influence the US?"
 date: 2026-07-17
 url: https://torinrussell.com/explainers/how-do-native-americans-influence-the-us
-categories: [North America]
+categories: ["[[North America]]"]
 tags: [Independence & Autonomy, Democracy & Governance]
 slug: how-do-native-americans-influence-the-us
 author: Torin Russell

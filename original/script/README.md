@@ -1,5 +1,5 @@
 ---
-categories: "[[TikTok Scripts]]"
+categories: ["[[TikTok Scripts]]"]
 created: 2026-10-29
 ---
 

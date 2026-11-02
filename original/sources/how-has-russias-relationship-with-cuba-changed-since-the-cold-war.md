@@ -2,7 +2,7 @@
 title: "How has Russia’s relationship with Cuba changed since the Cold War?"
 date: 2026-05-21
 url: https://torinrussell.com/explainers/how-has-russias-relationship-with-cuba-changed-since-the-cold-war
-categories: [Caribbean, Russia & Eurasia]
+categories: ["[[Caribbean]]", "[[Russia & Eurasia]]"]
 tags: [Diplomacy & Alliances, Military & Defense]
 slug: how-has-russias-relationship-with-cuba-changed-since-the-cold-war
 author: Torin Russell

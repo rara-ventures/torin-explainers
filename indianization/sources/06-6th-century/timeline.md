@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "6th"
+century_num: 600
+phase: "Phase 2 Transplant"
+status: draft
+---
+
 # Timeline — 06 6Th Century
 
 | Year | Event | Region | Source |

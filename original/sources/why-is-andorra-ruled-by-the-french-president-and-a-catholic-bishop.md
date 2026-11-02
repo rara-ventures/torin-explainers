@@ -2,7 +2,7 @@
 title: "Why is Andorra ruled by the French president and a Catholic bishop?"
 date: 2026-10-02
 url: https://torinrussell.com/explainers/why-is-andorra-ruled-by-the-french-president-and-a-catholic-bishop
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Small States, Democracy & Governance]
 slug: why-is-andorra-ruled-by-the-french-president-and-a-catholic-bishop
 author: Torin Russell

@@ -2,7 +2,7 @@
 title: "Why does Guatemala claim half of Belize?"
 date: 2026-10-05
 url: https://torinrussell.com/explainers/why-does-guatemala-claim-half-of-belize
-categories: [Latin America]
+categories: ["[[Latin America]]"]
 tags: [Borders & Territory, Colonial Legacy]
 slug: why-does-guatemala-claim-half-of-belize
 author: Torin Russell

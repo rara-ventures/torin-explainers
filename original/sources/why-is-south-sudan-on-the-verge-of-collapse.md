@@ -2,7 +2,7 @@
 title: "Why is South Sudan on the verge of collapse?"
 date: 2026-06-29
 url: https://torinrussell.com/explainers/why-is-south-sudan-on-the-verge-of-collapse
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Conflict, Natural Resources]
 slug: why-is-south-sudan-on-the-verge-of-collapse
 author: Torin Russell

@@ -1,5 +1,5 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: ""
 phase: ""
 region: []
@@ -28,4 +28,4 @@ status: todo
 ## Links
 - Region: [[Champa]] / [[Sailendra Mataram]]
 - Vector: [[Buddhism Vector]] / [[Pallava Script]]
-- Century: [[00-bce-prelude]]
+- Century overview: [[indianization/sources/00-bce-prelude/README|BCE Prelude]]

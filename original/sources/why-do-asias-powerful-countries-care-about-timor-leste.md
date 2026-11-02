@@ -2,7 +2,7 @@
 title: "Why do Asia’s powerful countries care about Timor-Leste?"
 date: 2026-05-22
 url: https://torinrussell.com/explainers/why-do-asias-powerful-countries-care-about-timor-leste
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Great Power Competition, Small States, Independence & Autonomy]
 slug: why-do-asias-powerful-countries-care-about-timor-leste
 author: Torin Russell

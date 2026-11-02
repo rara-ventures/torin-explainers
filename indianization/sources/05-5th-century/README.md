@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "5th"
+century_num: 500
 phase: "Phase 2 Transplant"
-region: ['Funan Chenla', 'Dvaravati']
-vector: ['Buddhism']
+region: ["Funan Chenla", "Dvaravati"]
+vector: ["Buddhism"]
 topics: ['Funan Chenla', 'Dvaravati', 'Buddhism']
 created: 2026-10-29
 status: todo

@@ -2,7 +2,7 @@
 title: "Why does Russia want Crimea so badly?"
 date: 2026-08-27
 url: https://torinrussell.com/explainers/why-does-russia-want-crimea-so-badly
-categories: [Russia & Eurasia]
+categories: ["[[Russia & Eurasia]]"]
 tags: [Conflict, Borders & Territory, Maritime]
 slug: why-does-russia-want-crimea-so-badly
 author: Torin Russell

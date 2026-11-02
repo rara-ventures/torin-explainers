@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "15th"
+century_num: 1500
 phase: "Phase 5 Transition"
-region: ['Champa', 'Majapahit', 'Bali']
-vector: ['Trade Maritime']
+region: ["Champa", "Majapahit", "Bali"]
+vector: ["Trade Maritime"]
 topics: ['Champa', 'Majapahit', 'Bali', 'Trade Maritime']
 created: 2026-10-29
 status: todo

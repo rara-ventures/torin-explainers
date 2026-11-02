@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How does war risk insurance shape geopolitics?"
 tiktok_id: "7699505240013278477"
 slug: how-does-war-risk-insurance-shape-geopolitics

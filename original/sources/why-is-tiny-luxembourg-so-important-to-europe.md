@@ -2,7 +2,7 @@
 title: "Why is tiny Luxembourg so important to Europe?"
 date: 2026-07-22
 url: https://torinrussell.com/explainers/why-is-tiny-luxembourg-so-important-to-europe
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Small States, Economy & Trade]
 slug: why-is-tiny-luxembourg-so-important-to-europe
 author: Torin Russell

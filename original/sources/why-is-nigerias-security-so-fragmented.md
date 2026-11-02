@@ -2,7 +2,7 @@
 title: "Why is Nigeria’s security so fragmented?"
 date: 2026-05-07
 url: https://torinrussell.com/explainers/why-is-nigerias-security-so-fragmented
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Conflict, Religion]
 slug: why-is-nigerias-security-so-fragmented
 author: Torin Russell

@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why would the US want to take Greenland when it already operates freely there?"
 tiktok_id: "7654996421682285838"
 slug: why-would-the-us-want-to-take-greenland-when-it-already-operates-freely-there

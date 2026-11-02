@@ -1,5 +1,5 @@
 ---
-categories: "[[YouTube Long Form]]"
+categories: ["[[YouTube Long Form]]"]
 title: "Will China invade Taiwan in 2027? (This Is The Wrong Question)"
 youtube_id: "QqTKQDl10OQ"
 duration: 1373

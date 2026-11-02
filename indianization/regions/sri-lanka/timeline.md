@@ -9,7 +9,7 @@ status: verified
 # Timeline — Sri Lanka — Theravada Conservatory
 
 | Year | Event | Indianization Link | Source | Confidence |
-|------|-------|--------------------|--------|
+|------|------|------|------|------|
 | c. 246 BCE | Mahinda mission converts Devanampiya Tissa at Mihintale — Theravada + Pali | Ashokan dhammaduta, sangha-state | Mahavamsa XII-XIV | medium |
 | 245 BCE | Sanghamitta brings Bodhi sapling to Anuradhapura (Sri Maha Bodhi), bhikkhuni sangha | Sacred geography transplant | Mahavamsa XVIII | medium |
 | c. 250–210 BCE | Mahavihara & Thuparama (1st dagoba) — Pali vinaya center | Stupa/vihara urbanism, Mahavihara orthodoxy | Paranavitana; Coningham | medium |

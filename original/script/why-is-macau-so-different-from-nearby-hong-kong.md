@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Macau so different from nearby Hong Kong?"
 tiktok_id: "7678359793836264734"
 slug: why-is-macau-so-different-from-nearby-hong-kong

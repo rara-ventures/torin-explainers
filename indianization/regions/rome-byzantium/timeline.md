@@ -1,6 +1,6 @@
 ---
 categories: ["[[Indianization Sources]]"]
-region: ["Rome-Byzantium"]
+region: ["Rome Byzantium"]
 status: verified
 ---
 
@@ -9,7 +9,7 @@ status: verified
 # Timeline — Rome & Byzantium — Erythraean Sea to Oc Eo
 
 | Year | Event | Indianization Link | Source | Confidence |
-|------|-------|--------------------|--------|
+|------|------|------|------|------|
 | 30 BCE | Augustus annexes Alexandria — Hippalus wind exploited | Alexandria pepper depot, 50M sesterces drain | Strabo 2.5.12; Pliny NH 6.101 | medium |
 | c. 40–70 CE | Periplus Maris Erythraei — anonymous Greek merchant in Roman Egypt lists Barbaricum, Barygaza, Muziris | Indian ports/monetization: Barbaricum imports/exports, This/Thinae via Ganges | Periplus 53-54; Casson 1989 | medium |
 | c. 50–150 CE | Muziris (Muchiri) & Pattanam/Arikamedu — Tamil Sangam, Muziris Papyrus P.Vindob. G40822 (1154 talents = 7M sesterces) | Tamil Yavanas bring gold, depart pepper; Arretine ware, rouletted ware → hybrid | Muziris Papyrus; Wheeler/Begley; Sangam | medium |

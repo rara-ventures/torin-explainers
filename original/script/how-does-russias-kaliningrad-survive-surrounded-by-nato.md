@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How does Russia’s Kaliningrad survive surrounded by NATO?"
 tiktok_id: "7683579423349689614"
 slug: how-does-russias-kaliningrad-survive-surrounded-by-nato

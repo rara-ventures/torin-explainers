@@ -2,7 +2,7 @@
 title: "Why are the United Arab Emirates united?"
 date: 2026-08-17
 url: https://torinrussell.com/explainers/why-are-the-united-arab-emirates-united
-categories: [Middle East]
+categories: ["[[Middle East]]"]
 tags: [Economy & Trade, Democracy & Governance]
 slug: why-are-the-united-arab-emirates-united
 author: Torin Russell

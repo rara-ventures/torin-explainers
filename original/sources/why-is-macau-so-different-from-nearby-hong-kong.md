@@ -2,7 +2,7 @@
 title: "Why is Macau so different from nearby Hong Kong?"
 date: 2026-08-26
 url: https://torinrussell.com/explainers/why-is-macau-so-different-from-nearby-hong-kong
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Economy & Trade, Independence & Autonomy]
 slug: why-is-macau-so-different-from-nearby-hong-kong
 author: Torin Russell

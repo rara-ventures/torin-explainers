@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "3rd"
+century_num: 300
 phase: "Phase 1 Contact"
-region: ['Champa', 'Funan Chenla']
-vector: ['Pallava Script']
+region: ["Champa", "Funan Chenla"]
+vector: ["Pallava Script"]
 topics: ['Champa', 'Funan Chenla', 'Pallava Script']
 created: 2026-10-29
 status: todo

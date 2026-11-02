@@ -2,7 +2,7 @@
 title: "Why is Russia occupying Georgian territory?"
 date: 2026-09-18
 url: https://torinrussell.com/explainers/why-is-russia-occupying-georgian-territory
-categories: [Russia & Eurasia]
+categories: ["[[Russia & Eurasia]]"]
 tags: [Borders & Territory, Conflict]
 slug: why-is-russia-occupying-georgian-territory
 author: Torin Russell

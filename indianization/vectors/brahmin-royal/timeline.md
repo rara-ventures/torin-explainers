@@ -1,3 +1,9 @@
+---
+categories: ["[[Indianization Sources]]"]
+vector: ["Brahmin Royal"]
+status: draft
+---
+
 # Timeline — Vector: Brahmins, Devaraja & Cakravartin
 
 | Century    | Event                                                                    | Region           | Source | Confidence |

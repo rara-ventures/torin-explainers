@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is New York City the unofficial capital of the world?"
 tiktok_id: "7690631512835837197"
 slug: why-is-new-york-city-the-unofficial-capital-of-the-world

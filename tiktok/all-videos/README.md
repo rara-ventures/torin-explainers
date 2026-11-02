@@ -1,5 +1,5 @@
 ---
-categories: "[[TikTok All]]"
+categories: ["[[TikTok All]]"]
 created: 2026-10-29
 ---
 

@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Guangxi’s fate different from places like Tibet and Xinjiang?"
 tiktok_id: "7654600808494943501"
 slug: why-is-guangxis-fate-different-from-places-like-tibet-and-xinjiang

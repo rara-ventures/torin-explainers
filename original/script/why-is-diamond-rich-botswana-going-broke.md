@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is diamond-rich Botswana going broke?"
 tiktok_id: "7681703650401471757"
 slug: why-is-diamond-rich-botswana-going-broke

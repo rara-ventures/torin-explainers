@@ -1,6 +1,7 @@
 ---
 categories: ["[[Indianization Sources]]"]
-region: ["Kedah-Srivijaya"]
+region: ["Kedah Srivijaya"]
+indianized: true
 status: deprecated
 supersedes: "[[Straits Archipelago]]"
 topics: ['Srivijaya', 'Kedah']

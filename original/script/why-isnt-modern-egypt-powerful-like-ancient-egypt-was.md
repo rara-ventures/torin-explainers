@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why isn’t modern Egypt powerful like Ancient Egypt was?"
 tiktok_id: "7663172678114757901"
 slug: why-isnt-modern-egypt-powerful-like-ancient-egypt-was

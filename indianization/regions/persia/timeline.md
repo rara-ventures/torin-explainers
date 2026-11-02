@@ -9,7 +9,7 @@ status: verified
 # Timeline — Persia — Sasanian Gate (Ctesiphon & Sogdian Network)
 
 | Year | Event | Indianization Link | Source | Confidence |
-|------|-------|--------------------|--------|
+|------|------|------|------|------|
 | 518–331 BCE | Darius Hindush satrapy — Behistun/Persepolis tribute, Kharosthi from Aramaic | Indo-Persian lexic, script transfer | Herodotus 3.91; Behistun | medium |
 | 247 BCE–224 CE | Parthian Empire — Merv/Hecatompylos, An Shigao network | Parthian middlemen muslin/pepper | Sanguo zhi 4.895 | medium |
 | 224–242 CE | Ardashir I founds Sasanian, Ctesiphon — Shahanshah of Sakastan, Turan & India | Indo-Iranian trade re-centered | Shapur SKZ 260 | medium |

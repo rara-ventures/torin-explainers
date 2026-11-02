@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "5th"
+century_num: 500
+phase: "Phase 2 Transplant"
+status: draft
+---
+
 # Timeline — 05 5Th Century
 
 | Year | Event | Region | Source |

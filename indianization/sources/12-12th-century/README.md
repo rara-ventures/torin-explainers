@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "12th"
+century_num: 1200
 phase: "Phase 4 Imperial"
-region: ['Angkor', 'Pagan']
-vector: ['Buddhism']
+region: ["Angkor", "Pagan"]
+vector: ["Buddhism"]
 topics: ['Angkor', 'Pagan', 'Buddhism']
 created: 2026-10-29
 status: todo

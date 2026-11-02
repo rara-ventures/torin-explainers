@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is New Zealand evolving geopolitically?"
 tiktok_id: "7694741467645873421"
 slug: why-is-new-zealand-evolving-geopolitically

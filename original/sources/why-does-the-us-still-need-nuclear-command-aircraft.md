@@ -2,7 +2,7 @@
 title: "Why does the US still need nuclear command aircraft?"
 date: 2026-09-30
 url: https://torinrussell.com/explainers/why-does-the-us-still-need-nuclear-command-aircraft
-categories: [North America]
+categories: ["[[North America]]"]
 tags: [Nuclear, Military & Defense]
 slug: why-does-the-us-still-need-nuclear-command-aircraft
 author: Torin Russell

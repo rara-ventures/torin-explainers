@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Spain an African country?"
 tiktok_id: "7640130262407449869"
 slug: why-is-spain-an-african-country

@@ -2,7 +2,7 @@
 title: "How did Thailand survive being caught between Britain and France?"
 date: 2026-10-01
 url: https://torinrussell.com/explainers/how-did-thailand-survive-being-caught-between-britain-and-france
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Colonial Legacy, Great Power Competition]
 slug: how-did-thailand-survive-being-caught-between-britain-and-france
 author: Torin Russell

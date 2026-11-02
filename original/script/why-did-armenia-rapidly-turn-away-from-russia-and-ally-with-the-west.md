@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why did Armenia rapidly turn away from Russia and ally with the West?"
 tiktok_id: "7645339842888355086"
 slug: why-did-armenia-rapidly-turn-away-from-russia-and-ally-with-the-west

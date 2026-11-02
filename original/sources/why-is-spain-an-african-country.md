@@ -2,7 +2,7 @@
 title: "Why is Spain an African country?"
 date: 2026-05-15
 url: https://torinrussell.com/explainers/why-is-spain-an-african-country
-categories: [Europe, Africa]
+categories: ["[[Europe]]", "[[Africa]]"]
 tags: [Borders & Territory, Colonial Legacy]
 slug: why-is-spain-an-african-country
 author: Torin Russell

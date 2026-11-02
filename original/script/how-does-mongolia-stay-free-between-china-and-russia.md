@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How does Mongolia stay free between China and Russia?"
 tiktok_id: "7670961149302607118"
 slug: how-does-mongolia-stay-free-between-china-and-russia

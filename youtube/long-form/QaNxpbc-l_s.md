@@ -1,5 +1,5 @@
 ---
-categories: "[[YouTube Long Form]]"
+categories: ["[[YouTube Long Form]]"]
 title: "How to be a spy"
 youtube_id: "QaNxpbc-l_s"
 duration: 1432

@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How did Japan end up controlling China’s gateway to the Pacific?"
 tiktok_id: "7701000288257264910"
 slug: how-did-japan-end-up-controlling-chinas-gateway-to-the-pacific

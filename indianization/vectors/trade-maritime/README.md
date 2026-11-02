@@ -1,5 +1,5 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 vector: ["Trade Maritime"]
 topics: ["Trade Maritime"]
 created: 2026-10-29

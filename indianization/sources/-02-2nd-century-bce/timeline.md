@@ -1,6 +1,7 @@
 ---
 categories: ["[[Indianization Sources]]"]
-century: "-02-2nd-century-bce"
+century: "2nd BCE"
+century_num: -200
 status: draft
 ---
 

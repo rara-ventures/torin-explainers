@@ -2,7 +2,7 @@
 title: "How does Malawi survive?"
 date: 2026-07-06
 url: https://torinrussell.com/explainers/how-does-malawi-survive
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Economy & Trade, Colonial Legacy]
 slug: how-does-malawi-survive
 author: Torin Russell

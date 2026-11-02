@@ -2,7 +2,7 @@
 title: "Why did Armenia rapidly turn away from Russia and ally with the West?"
 date: 2026-05-29
 url: https://torinrussell.com/explainers/why-did-armenia-rapidly-turn-away-from-russia-and-ally-with-the-west
-categories: [Russia & Eurasia]
+categories: ["[[Russia & Eurasia]]"]
 tags: [Diplomacy & Alliances]
 slug: why-did-armenia-rapidly-turn-away-from-russia-and-ally-with-the-west
 author: Torin Russell

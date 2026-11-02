@@ -2,7 +2,7 @@
 title: "Why is Christianity’s geopolitical center of gravity shifting to Africa?"
 date: 2026-09-23
 url: https://torinrussell.com/explainers/why-is-christianitys-geopolitical-center-of-gravity-shifting-to-africa
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Religion]
 slug: why-is-christianitys-geopolitical-center-of-gravity-shifting-to-africa
 author: Torin Russell

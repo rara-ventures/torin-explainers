@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "1st"
+century_num: 100
 phase: "Phase 1 Contact"
-region: ['Funan Chenla']
-vector: ['Trade Maritime']
+region: ["Funan Chenla"]
+vector: ["Trade Maritime"]
 topics: ['Funan Chenla', 'Trade Maritime']
 created: 2026-10-29
 status: todo

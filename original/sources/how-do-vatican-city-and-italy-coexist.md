@@ -2,7 +2,7 @@
 title: "How do Vatican City and Italy coexist?"
 date: 2026-06-08
 url: https://torinrussell.com/explainers/how-do-vatican-city-and-italy-coexist
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Religion, Small States]
 slug: how-do-vatican-city-and-italy-coexist
 author: Torin Russell

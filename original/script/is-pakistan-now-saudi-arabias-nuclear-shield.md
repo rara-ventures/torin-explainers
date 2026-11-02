@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Is Pakistan now Saudi Arabia’s nuclear shield?"
 tiktok_id: "7643857215660559629"
 slug: is-pakistan-now-saudi-arabias-nuclear-shield

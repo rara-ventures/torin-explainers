@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How do Vatican City and Italy coexist?"
 tiktok_id: "7649049694902947085"
 slug: how-do-vatican-city-and-italy-coexist

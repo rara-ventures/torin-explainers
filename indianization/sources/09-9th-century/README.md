@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "9th"
+century_num: 900
 phase: "Phase 3 Classical"
-region: ['Sailendra Mataram', 'Angkor']
-vector: ['Art Architecture']
+region: ["Sailendra Mataram", "Angkor"]
+vector: ["Art Architecture"]
 topics: ['Sailendra Mataram', 'Angkor', 'Art Architecture']
 created: 2026-10-29
 status: todo

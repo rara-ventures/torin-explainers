@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why has Ecuador become the most dangerous country in Latin America?"
 tiktok_id: "7649798356822281485"
 slug: why-has-ecuador-become-the-most-dangerous-country-in-latin-america

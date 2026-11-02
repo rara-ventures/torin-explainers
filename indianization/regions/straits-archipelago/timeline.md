@@ -9,7 +9,7 @@ status: verified
 # Timeline — Straits Archipelago — Kedah → Singapore → Timor (500 BCE–1511)
 
 | Year | Event | Indianization Link | Source | Confidence |
-|------|-------|--------------------|--------|
+|------|------|------|------|------|
 | 535 BCE* charcoal / 110 CE brick | Sungai Batu, Bujang Valley — 17 bloomery workshops* — *535BCE = residual charcoal (Mokhtar 2018 contested), earliest brick C14 110 CE (CGAR) | Iron draws Tamil navigators (structure 2nd c. CE) | Mokhtar 2018 *charcoal*; CGAR 2009-2021 *brick 110CE*; Bellwood/Glover critique | low (535BCE) / high (110CE) |
 | c. 100–200 CE | Kadah (Kataha) — Tamil Sangam Pattinappalai & Ptolemy Takola (Kra Isthmus) | Tamil merchants bring Brahmi/Shaivite names | Nilakantha Sastri; Ptolemy | medium |
 | 2nd–3rd c. CE | Sungai Batu SB2A/B — Pallava script ye dharma, earliest brick monument C14 110 CE | Monks/Brahmins arrive with merchandise, Pallava script | CGAR 2009-2021 | medium |

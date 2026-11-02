@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How has Mexico changed under its first woman president?"
 tiktok_id: "7646439938510048525"
 slug: how-has-mexico-changed-under-its-first-woman-president

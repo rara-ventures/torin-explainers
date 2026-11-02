@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Christianity’s geopolitical center of gravity shifting to Africa?"
 tiktok_id: "7688745783276932365"
 slug: why-is-christianitys-geopolitical-center-of-gravity-shifting-to-africa

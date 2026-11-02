@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How has Afghanistan changed since the US left?"
 tiktok_id: "7660179698801970446"
 slug: how-has-afghanistan-changed-since-the-us-left

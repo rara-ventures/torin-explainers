@@ -2,7 +2,7 @@
 title: "How does Quebec influence Canada’s geopolitical dynamics?"
 date: 2026-05-11
 url: https://torinrussell.com/explainers/how-does-quebec-influence-canadas-geopolitical-dynamics
-categories: [North America]
+categories: ["[[North America]]"]
 tags: [Independence & Autonomy, Language & Identity]
 slug: how-does-quebec-influence-canadas-geopolitical-dynamics
 author: Torin Russell

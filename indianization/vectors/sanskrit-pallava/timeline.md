@@ -1,3 +1,9 @@
+---
+categories: ["[[Indianization Sources]]"]
+vector: ["Pallava Script"]
+status: draft
+---
+
 # Timeline — Vector: Sanskrit & Pallava Script
 
 | Century | Event | Region |

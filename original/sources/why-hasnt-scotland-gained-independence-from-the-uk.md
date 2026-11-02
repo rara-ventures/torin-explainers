@@ -2,7 +2,7 @@
 title: "Why hasn’t Scotland gained independence from the UK?"
 date: 2026-07-09
 url: https://torinrussell.com/explainers/why-hasnt-scotland-gained-independence-from-the-uk
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Independence & Autonomy]
 slug: why-hasnt-scotland-gained-independence-from-the-uk
 author: Torin Russell

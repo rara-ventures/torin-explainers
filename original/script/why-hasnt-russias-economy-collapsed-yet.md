@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why hasn’t Russia’s economy collapsed yet?"
 tiktok_id: "7657934080545213709"
 slug: why-hasnt-russias-economy-collapsed-yet

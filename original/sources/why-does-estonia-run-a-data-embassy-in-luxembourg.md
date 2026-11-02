@@ -2,7 +2,7 @@
 title: "Why does Estonia run a “data embassy” in Luxembourg?"
 date: 2026-10-07
 url: https://torinrussell.com/explainers/why-does-estonia-run-a-data-embassy-in-luxembourg
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Cyber & Technology, Small States, Diplomacy & Alliances]
 slug: why-does-estonia-run-a-data-embassy-in-luxembourg
 author: Torin Russell

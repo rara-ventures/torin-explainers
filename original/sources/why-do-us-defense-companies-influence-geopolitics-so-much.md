@@ -2,7 +2,7 @@
 title: "Why do US defense companies influence geopolitics so much?"
 date: 2026-08-14
 url: https://torinrussell.com/explainers/why-do-us-defense-companies-influence-geopolitics-so-much
-categories: [North America]
+categories: ["[[North America]]"]
 tags: [Military & Defense, Economy & Trade]
 slug: why-do-us-defense-companies-influence-geopolitics-so-much
 author: Torin Russell

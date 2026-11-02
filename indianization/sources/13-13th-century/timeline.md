@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "13th"
+century_num: 1300
+phase: "Phase 4 Imperial"
+status: draft
+---
+
 # Timeline — 13 13Th Century
 
 | Year | Event | Region | Source |

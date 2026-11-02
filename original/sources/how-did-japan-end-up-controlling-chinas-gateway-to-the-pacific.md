@@ -2,7 +2,7 @@
 title: "How did Japan end up controlling China’s gateway to the Pacific?"
 date: 2026-10-26
 url: https://torinrussell.com/explainers/how-did-japan-end-up-controlling-chinas-gateway-to-the-pacific
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Military & Defense, Great Power Competition, Borders & Territory, Maritime]
 slug: how-did-japan-end-up-controlling-chinas-gateway-to-the-pacific
 author: Torin Russell

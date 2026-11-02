@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "14th"
+century_num: 1400
+phase: "Phase 5 Transition"
+status: draft
+---
+
 # Timeline — 14 14Th Century
 
 | Year | Event | Region | Source |

@@ -2,7 +2,7 @@
 title: "Why is The Gambia surrounded by Senegal?"
 date: 2026-07-01
 url: https://torinrussell.com/explainers/why-is-the-gambia-surrounded-by-senegal
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Borders & Territory, Colonial Legacy]
 slug: why-is-the-gambia-surrounded-by-senegal
 author: Torin Russell

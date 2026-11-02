@@ -1,9 +1,10 @@
 ---
-categories: "[[TikTok Stories]]"
+categories: ["[[TikTok Stories]]"]
 hook: "Tibetan Buddhism didn't start in Tibet. It started in Indonesia."
 duration: "85s"
 region: ["Srivijaya"]
 century: "7th"
+century_num: 700
 topics: ["Srivijaya"]
 created: 2026-10-29
 status: ready

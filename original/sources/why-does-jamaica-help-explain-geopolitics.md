@@ -2,7 +2,7 @@
 title: "Why does Jamaica help explain geopolitics?"
 date: 2026-07-07
 url: https://torinrussell.com/explainers/why-does-jamaica-help-explain-geopolitics
-categories: [Caribbean]
+categories: ["[[Caribbean]]"]
 tags: [Economy & Trade, Colonial Legacy]
 slug: why-does-jamaica-help-explain-geopolitics
 author: Torin Russell

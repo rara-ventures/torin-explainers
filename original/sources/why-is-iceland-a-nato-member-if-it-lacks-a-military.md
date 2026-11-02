@@ -2,7 +2,7 @@
 title: "Why is Iceland a NATO member if it lacks a military?"
 date: 2026-10-14
 url: https://torinrussell.com/explainers/why-is-iceland-a-nato-member-if-it-lacks-a-military
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Diplomacy & Alliances, Military & Defense, Small States]
 slug: why-is-iceland-a-nato-member-if-it-lacks-a-military
 author: Torin Russell

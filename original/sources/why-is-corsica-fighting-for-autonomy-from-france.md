@@ -2,7 +2,7 @@
 title: "Why is Corsica fighting for autonomy from France?"
 date: 2026-08-11
 url: https://torinrussell.com/explainers/why-is-corsica-fighting-for-autonomy-from-france
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Independence & Autonomy]
 slug: why-is-corsica-fighting-for-autonomy-from-france
 author: Torin Russell

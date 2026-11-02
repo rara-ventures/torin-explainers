@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does Wales still speak Welsh when Ireland stopped speaking Irish?"
 tiktok_id: "7685415560124976398"
 slug: why-does-wales-still-speak-welsh-when-ireland-stopped-speaking-irish

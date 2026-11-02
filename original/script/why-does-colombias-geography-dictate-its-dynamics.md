@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does Colombia’s geography dictate its dynamics?"
 tiktok_id: "7667222070522154253"
 slug: why-does-colombias-geography-dictate-its-dynamics

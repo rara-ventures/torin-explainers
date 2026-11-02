@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Suriname one of South America’s strangest countries?"
 tiktok_id: "7637536123459456270"
 slug: why-is-suriname-one-of-south-americas-strangest-countries

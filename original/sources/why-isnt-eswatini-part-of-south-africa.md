@@ -2,7 +2,7 @@
 title: "Why isn’t Eswatini part of South Africa?"
 date: 2026-08-20
 url: https://torinrussell.com/explainers/why-isnt-eswatini-part-of-south-africa
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Colonial Legacy, Democracy & Governance]
 slug: why-isnt-eswatini-part-of-south-africa
 author: Torin Russell

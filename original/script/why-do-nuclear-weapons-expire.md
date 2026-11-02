@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why do nuclear weapons expire?"
 tiktok_id: "7680950081402440973"
 slug: why-do-nuclear-weapons-expire

@@ -1,6 +1,6 @@
 filters:
   and:
-    - categories.contains(link("TikTok Scripts"))
+    - list(categories).contains(link("TikTok Scripts"))
     - '!file.name.contains("Template")'
 properties:
   file.name:

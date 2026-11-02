@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does Hungary speak a language from western Siberia?"
 tiktok_id: "7697281786128141582"
 slug: why-does-hungary-speak-a-language-from-western-siberia

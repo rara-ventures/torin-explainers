@@ -2,7 +2,7 @@
 title: "Why is the Yellow Sea so important?"
 date: 2026-08-04
 url: https://torinrussell.com/explainers/why-is-the-yellow-sea-so-important
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Maritime, Military & Defense, Great Power Competition]
 slug: why-is-the-yellow-sea-so-important
 author: Torin Russell

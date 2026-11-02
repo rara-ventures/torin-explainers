@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How has Syria changed since the Assad regime collapsed?"
 tiktok_id: "7644242697561181454"
 slug: how-has-syria-changed-since-the-assad-regime-collapsed

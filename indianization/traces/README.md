@@ -1,3 +1,8 @@
+---
+categories: ["[[Indianization Sources]]"]
+status: draft
+---
+
 # Traces — Cross-Regional Narratives
 
 Connects regions + vectors across centuries. Use these to learn the *path*, not just the dots.

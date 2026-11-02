@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does Guatemala claim half of Belize?"
 tiktok_id: "7693205843612847373"
 slug: why-does-guatemala-claim-half-of-belize

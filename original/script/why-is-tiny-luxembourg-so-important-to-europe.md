@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is tiny Luxembourg so important to Europe?"
 tiktok_id: "7665378913375292685"
 slug: why-is-tiny-luxembourg-so-important-to-europe

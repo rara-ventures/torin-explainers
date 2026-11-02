@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why couldn’t Ukraine keep its nuclear weapons?"
 tiktok_id: "7699146544334900493"
 slug: why-couldnt-ukraine-keep-its-nuclear-weapons

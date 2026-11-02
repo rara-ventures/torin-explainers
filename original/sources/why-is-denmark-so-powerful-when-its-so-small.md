@@ -2,7 +2,7 @@
 title: "Why is Denmark so powerful when it’s so small?"
 date: 2026-08-25
 url: https://torinrussell.com/explainers/why-is-denmark-so-powerful-when-its-so-small
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Diplomacy & Alliances, Economy & Trade, Small States]
 slug: why-is-denmark-so-powerful-when-its-so-small
 author: Torin Russell

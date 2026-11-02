@@ -2,6 +2,7 @@
 categories: ["[[Indianization Sources]]"]
 status: stub
 region: ["Majapahit"]
+indianized: true
 topics: ['Majapahit']
 created: 2026-10-29
 ---

@@ -2,7 +2,7 @@
 title: "Why are Rwanda and Burundi small, separate, and surrounded by far larger countries?"
 date: 2026-05-27
 url: https://torinrussell.com/explainers/why-are-rwanda-and-burundi-small-separate-and-surrounded-by-far-larger-countries
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Colonial Legacy, Borders & Territory]
 slug: why-are-rwanda-and-burundi-small-separate-and-surrounded-by-far-larger-countries
 author: Torin Russell

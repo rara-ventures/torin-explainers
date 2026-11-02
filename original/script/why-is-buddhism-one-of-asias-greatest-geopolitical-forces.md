@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Buddhism one of Asia’s greatest geopolitical forces?"
 tiktok_id: "7651614525845720334"
 slug: why-is-buddhism-one-of-asias-greatest-geopolitical-forces

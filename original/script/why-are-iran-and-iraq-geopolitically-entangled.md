@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why are Iran and Iraq geopolitically entangled?"
 tiktok_id: "7680255083438673165"
 slug: why-are-iran-and-iraq-geopolitically-entangled

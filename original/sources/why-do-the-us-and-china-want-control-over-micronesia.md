@@ -2,7 +2,7 @@
 title: "Why do the US and China want control over Micronesia?"
 date: 2026-07-29
 url: https://torinrussell.com/explainers/why-do-the-us-and-china-want-control-over-micronesia
-categories: [Oceania & Pacific]
+categories: ["[[Oceania & Pacific]]"]
 tags: [Great Power Competition, Small States]
 slug: why-do-the-us-and-china-want-control-over-micronesia
 author: Torin Russell

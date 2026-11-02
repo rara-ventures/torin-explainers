@@ -2,7 +2,7 @@
 title: "Why are the Falkland Islands disproportionately important to geopolitics?"
 date: 2026-06-22
 url: https://torinrussell.com/explainers/why-are-the-falkland-islands-disproportionately-important-to-geopolitics
-categories: [Latin America, Europe]
+categories: ["[[Latin America]]", "[[Europe]]"]
 tags: [Borders & Territory, Conflict, Colonial Legacy]
 slug: why-are-the-falkland-islands-disproportionately-important-to-geopolitics
 author: Torin Russell

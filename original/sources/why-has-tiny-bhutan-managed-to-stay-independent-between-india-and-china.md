@@ -2,7 +2,7 @@
 title: "Why has tiny Bhutan managed to stay independent between India and China?"
 date: 2026-06-05
 url: https://torinrussell.com/explainers/why-has-tiny-bhutan-managed-to-stay-independent-between-india-and-china
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Small States, Great Power Competition, Borders & Territory]
 slug: why-has-tiny-bhutan-managed-to-stay-independent-between-india-and-china
 author: Torin Russell

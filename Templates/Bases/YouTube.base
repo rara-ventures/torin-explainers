@@ -1,6 +1,6 @@
 filters:
   and:
-    - categories.contains(link("YouTube Long Form"))
+    - list(categories).contains(link("YouTube Long Form"))
     - '!file.name.contains("Template")'
 properties:
   file.name:

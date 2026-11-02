@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why can’t Ghana afford its own democracy?"
 tiktok_id: "7684404276809960717"
 slug: why-cant-ghana-afford-its-own-democracy

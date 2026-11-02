@@ -2,7 +2,7 @@
 title: "Why does North India have the votes while South India has the money?"
 date: 2026-10-23
 url: https://torinrussell.com/explainers/why-does-north-india-have-the-votes-while-south-india-has-the-money
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Language & Identity, Democracy & Governance, Economy & Trade]
 slug: why-does-north-india-have-the-votes-while-south-india-has-the-money
 author: Torin Russell

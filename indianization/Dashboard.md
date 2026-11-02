@@ -1,5 +1,5 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 created: 2026-10-29
 ---
 
@@ -16,7 +16,7 @@ This dashboard is pre-filtered for your question: *How did Champa's Buddhism lea
 
 ### 2. Filtered Sources: Champa → Srivijaya → Sailendra (Buddhism Vector)
 
-![[Templates/Bases/Sources.base#Champa → Java Trace]]
+![[Templates/Bases/Sources.base#Champa → Indonesia]]
 
 ### 3. All Sources by Century
 
@@ -38,14 +38,14 @@ This dashboard is pre-filtered for your question: *How did Champa's Buddhism lea
 
 ## How to Filter Yourself
 
-- **Want only Champa?** Open `![[Templates/Bases/Champa.base#All Champa]]` or edit any note's `region: ["Champa"]`.
-- **Want Buddhism in Indonesia?** Open `![[Templates/Bases/Buddhism.base#All Buddhist]]` then filter `region` → Sailendra/Srivijaya.
-- **Want a century?** Set `century: "8th"` in a note; `Sources.base → By Century` sorts it.
+- **Want only Champa?** Open `Templates/Bases/Champa.base` (view **All Champa**) or edit any note's `region: ["Champa"]`.
+- **Want Buddhism in Indonesia?** Open `Templates/Bases/Buddhism.base` (view **All Buddhist**) then filter `region` → Sailendra Mataram / Srivijaya.
+- **Want a century?** Set `century: "8th"` and `century_num: 800` in a note; `Sources.base → By Century` sorts it.
 - **Want to add a new inscription?** Use `Templates/Inscription Template.md` — auto-tagged for Bases.
 
 ## Structure Reminder
 
 - `sources/` = when (17 folders, each `README.md` + `timeline.md` with frontmatter `century`/`phase`)
-- `regions/` = where (10 polities, each with `timeline.md`)
+- `regions/` = where (18 regions, each with `timeline.md`)
 - `vectors/` = how (6 mechanisms)
 - `traces/` = why (narratives stitching where+how+when)

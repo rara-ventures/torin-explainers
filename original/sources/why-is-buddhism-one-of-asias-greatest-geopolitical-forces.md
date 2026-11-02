@@ -2,7 +2,7 @@
 title: "Why is Buddhism one of Asia’s greatest geopolitical forces?"
 date: 2026-06-15
 url: https://torinrussell.com/explainers/why-is-buddhism-one-of-asias-greatest-geopolitical-forces
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Religion]
 slug: why-is-buddhism-one-of-asias-greatest-geopolitical-forces
 author: Torin Russell

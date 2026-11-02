@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why has tiny Bhutan managed to stay independent between India and China?"
 tiktok_id: "7647937683397938446"
 slug: why-has-tiny-bhutan-managed-to-stay-independent-between-india-and-china

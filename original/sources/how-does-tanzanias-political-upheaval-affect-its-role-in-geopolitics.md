@@ -2,7 +2,7 @@
 title: "How does Tanzania’s political upheaval affect its role in geopolitics?"
 date: 2026-06-11
 url: https://torinrussell.com/explainers/how-does-tanzanias-political-upheaval-affect-its-role-in-geopolitics
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Democracy & Governance]
 slug: how-does-tanzanias-political-upheaval-affect-its-role-in-geopolitics
 author: Torin Russell

@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does the Pope have one of the best intelligence networks on Earth?"
 tiktok_id: "7686529391014251789"
 slug: why-does-the-pope-have-one-of-the-best-intelligence-networks-on-earth

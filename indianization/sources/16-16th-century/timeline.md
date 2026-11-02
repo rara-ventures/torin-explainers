@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "16th"
+century_num: 1600
+phase: "Phase 5 Transition"
+status: draft
+---
+
 # Timeline — 16 16Th Century
 
 | Year | Event | Region | Source |

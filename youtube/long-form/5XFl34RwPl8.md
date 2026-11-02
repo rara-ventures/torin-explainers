@@ -1,5 +1,5 @@
 ---
-categories: "[[YouTube Long Form]]"
+categories: ["[[YouTube Long Form]]"]
 title: "How Russia quietly annexed Belarus"
 youtube_id: "5XFl34RwPl8"
 duration: 406

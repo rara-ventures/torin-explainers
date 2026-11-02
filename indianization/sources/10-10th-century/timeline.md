@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "10th"
+century_num: 1000
+phase: "Phase 3 Classical"
+status: draft
+---
+
 # Timeline — 10 10Th Century
 
 | Year | Event | Region | Source |

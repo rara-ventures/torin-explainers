@@ -1,6 +1,7 @@
 ---
 categories: ["[[Indianization Sources]]"]
 region: ["Champa"]
+indianized: true
 topics: ['Champa']
 created: 2026-10-29
 ---

@@ -1,6 +1,6 @@
 filters:
   and:
-    - categories.contains(link("Indianization Sources"))
+    - list(categories).contains(link("Indianization Sources"))
     - '!file.name.contains("Template")'
 properties:
   file.name:
@@ -26,7 +26,7 @@ views:
       - vector
       - status
     sort:
-      - property: century
+      - property: century_num
         direction: ASC
   - type: table
     name: Champa Focus
@@ -41,7 +41,7 @@ views:
     name: Buddhism in Indonesia
     filters:
       and:
-        - note.region.containsAny("Sailendra", "Srivijaya", "Bali", "Majapahit")
+        - note.region.containsAny("Sailendra Mataram", "Srivijaya", "Kedah Srivijaya", "Bali", "Majapahit")
         - note.vector.containsAny("Buddhism")
     order:
       - file.name
@@ -53,8 +53,8 @@ views:
       and:
         - or:
             - note.region.containsAny("Champa")
-            - note.region.containsAny("Sailendra")
-            - note.region.containsAny("Srivijaya")
+            - note.region.containsAny("Sailendra Mataram")
+            - note.region.containsAny("Srivijaya", "Kedah Srivijaya")
         - note.vector.containsAny("Buddhism", "Pallava Script")
     order:
       - file.name

@@ -2,6 +2,7 @@
 categories: ["[[Indianization Sources]]"]
 status: draft
 region: ["Bali"]
+indianized: true
 topics: ['Bali']
 created: 2026-10-29
 ---

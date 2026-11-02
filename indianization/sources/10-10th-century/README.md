@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "10th"
+century_num: 1000
 phase: "Phase 3 Classical"
-region: ['Angkor', 'Pagan']
-vector: ['Trade Maritime']
+region: ["Angkor", "Pagan"]
+vector: ["Trade Maritime"]
 topics: ['Angkor', 'Pagan', 'Trade Maritime']
 created: 2026-10-29
 status: todo

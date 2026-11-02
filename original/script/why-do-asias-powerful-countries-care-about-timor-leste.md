@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why do Asia’s powerful countries care about Timor-Leste?"
 tiktok_id: "7642735778270809358"
 slug: why-do-asias-powerful-countries-care-about-timor-leste

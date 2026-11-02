@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How do Europe’s nobles still shape countries they no longer rule?"
 tiktok_id: "7686147356319878414"
 slug: how-do-europes-nobles-still-shape-countries-they-no-longer-rule

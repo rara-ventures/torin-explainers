@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "8th"
+century_num: 800
+phase: "Phase 3 Classical"
+status: draft
+---
+
 # Timeline — 08 8Th Century
 
 | Year | Event | Region | Source |

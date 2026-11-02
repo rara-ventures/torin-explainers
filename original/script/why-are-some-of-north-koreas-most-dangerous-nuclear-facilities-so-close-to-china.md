@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why are some of North Korea’s most dangerous nuclear facilities so close to China?"
 tiktok_id: "7652748062934306062"
 slug: why-are-some-of-north-koreas-most-dangerous-nuclear-facilities-so-close-to-china

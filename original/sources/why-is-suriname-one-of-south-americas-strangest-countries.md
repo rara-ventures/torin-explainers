@@ -2,7 +2,7 @@
 title: "Why is Suriname one of South America’s strangest countries?"
 date: 2026-05-08
 url: https://torinrussell.com/explainers/why-is-suriname-one-of-south-americas-strangest-countries
-categories: [Latin America]
+categories: ["[[Latin America]]"]
 tags: [Natural Resources, Colonial Legacy]
 slug: why-is-suriname-one-of-south-americas-strangest-countries
 author: Torin Russell

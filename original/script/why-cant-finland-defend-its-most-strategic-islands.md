@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why can’t Finland defend its most strategic islands?"
 tiktok_id: "7681362341098720525"
 slug: why-cant-finland-defend-its-most-strategic-islands

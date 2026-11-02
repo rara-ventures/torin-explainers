@@ -1,6 +1,7 @@
 ---
 categories: ["[[Indianization Sources]]"]
-century: "-06-6th-century-bce"
+century: "6th BCE"
+century_num: -600
 status: draft
 ---
 

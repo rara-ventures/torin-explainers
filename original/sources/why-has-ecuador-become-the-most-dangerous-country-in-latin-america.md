@@ -2,7 +2,7 @@
 title: "Why has Ecuador become the most dangerous country in Latin America?"
 date: 2026-06-10
 url: https://torinrussell.com/explainers/why-has-ecuador-become-the-most-dangerous-country-in-latin-america
-categories: [Latin America]
+categories: ["[[Latin America]]"]
 tags: [Conflict]
 slug: why-has-ecuador-become-the-most-dangerous-country-in-latin-america
 author: Torin Russell

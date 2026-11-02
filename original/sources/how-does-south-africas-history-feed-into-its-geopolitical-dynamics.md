@@ -2,7 +2,7 @@
 title: "How does South Africa’s history feed into its geopolitical dynamics?"
 date: 2026-07-15
 url: https://torinrussell.com/explainers/how-does-south-africas-history-feed-into-its-geopolitical-dynamics
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Natural Resources, Colonial Legacy, Economy & Trade]
 slug: how-does-south-africas-history-feed-into-its-geopolitical-dynamics
 author: Torin Russell

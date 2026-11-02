@@ -9,7 +9,7 @@ status: verified
 # Timeline — Gandhara Corridor — Pakistan & Afghanistan
 
 | Year | Event | Indianization Link | Source | Confidence |
-|------|-------|--------------------|--------|
+|------|------|------|------|------|
 | c. 518 BCE | Achaemenid conquest of Gandara — Darius I Behistun lists Gadāra as 7th satrapy, Taxila satrapal capital | Aramaic → Kharosthi script | Behistun DB I.16 | medium |
 | 326 BCE | Alexander at Taxila — Ambhi surrenders, founds Bucephala, leaves garrison | Hellenistic cities → Indo-Greek synthesis | Arrian Anabasis 5.8; Marshall Taxila | medium |
 | c. 268–232 BCE | Ashoka Rock Edicts at Shahbazgarhi & Mansehra in Kharosthi/Gāndhārī Prakrit | First epigraphic Indianization, Dhamma | Hultzsch; Falk | medium |

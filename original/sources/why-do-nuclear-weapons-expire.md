@@ -2,7 +2,7 @@
 title: "Why do nuclear weapons expire?"
 date: 2026-09-02
 url: https://torinrussell.com/explainers/why-do-nuclear-weapons-expire
-categories: [Global]
+categories: ["[[Global]]"]
 tags: [Nuclear]
 slug: why-do-nuclear-weapons-expire
 author: Torin Russell

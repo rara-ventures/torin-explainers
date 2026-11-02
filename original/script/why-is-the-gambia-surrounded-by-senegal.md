@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is The Gambia surrounded by Senegal?"
 tiktok_id: "7657605989243440397"
 slug: why-is-the-gambia-surrounded-by-senegal

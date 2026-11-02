@@ -1,7 +1,8 @@
 ---
 categories: ["[[Indianization Sources]]"]
 status: draft
-region: ["Funan-Chenla"]
+region: ["Funan Chenla"]
+indianized: true
 topics: ['Funan Chenla']
 created: 2026-10-29
 ---

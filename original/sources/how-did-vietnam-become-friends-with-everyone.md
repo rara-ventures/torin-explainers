@@ -2,7 +2,7 @@
 title: "How did Vietnam become friends with everyone?"
 date: 2026-05-18
 url: https://torinrussell.com/explainers/how-did-vietnam-become-friends-with-everyone
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Diplomacy & Alliances, Great Power Competition]
 slug: how-did-vietnam-become-friends-with-everyone
 author: Torin Russell

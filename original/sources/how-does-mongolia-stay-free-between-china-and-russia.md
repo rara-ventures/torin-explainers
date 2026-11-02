@@ -2,7 +2,7 @@
 title: "How does Mongolia stay free between China and Russia?"
 date: 2026-08-06
 url: https://torinrussell.com/explainers/how-does-mongolia-stay-free-between-china-and-russia
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Democracy & Governance, Great Power Competition, Natural Resources]
 slug: how-does-mongolia-stay-free-between-china-and-russia
 author: Torin Russell

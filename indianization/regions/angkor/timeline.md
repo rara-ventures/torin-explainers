@@ -9,7 +9,7 @@ status: verified
 # Timeline — Angkor (Cambodia)
 
 | Year | Event | Indianization Link | Source | Confidence |
-|------|-------|--------------------|
+|------|------|------|------|------|
 | 802 | Jayavarman II devaraja on Phnom Kulen (Sdok Kak Thom K.235) | Shiva kamraten jagat ta raja | | medium |
 | 889–900 | Yasovarman I builds Yasodharapura — East Baray 7.5km, Phnom Bakheng | Hydraulic mandala | | medium |
 | 1113–1150 | Suryavarman II builds Angkor Wat (162.6ha, Mt Meru, Vishnu west-facing) | Peak Hindu cosmopolis | | medium |

@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "4th"
+century_num: 400
 phase: "Phase 1 Contact"
-region: ['Champa']
-vector: ['Brahmin Royal', 'Pallava Script']
+region: ["Champa"]
+vector: ["Brahmin Royal", "Pallava Script"]
 topics: ['Champa', 'Brahmin Royal', 'Pallava Script']
 created: 2026-10-29
 status: todo

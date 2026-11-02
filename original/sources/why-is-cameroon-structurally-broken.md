@@ -2,7 +2,7 @@
 title: "Why is Cameroon structurally broken?"
 date: 2026-08-10
 url: https://torinrussell.com/explainers/why-is-cameroon-structurally-broken
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Colonial Legacy, Language & Identity, Conflict]
 slug: why-is-cameroon-structurally-broken
 author: Torin Russell

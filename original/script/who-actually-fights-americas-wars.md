@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Who actually fights America’s wars?"
 tiktok_id: "7664648294127258893"
 slug: who-actually-fights-americas-wars

@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Sri Lanka so important?"
 tiktok_id: "7673184818326277389"
 slug: why-is-sri-lanka-so-important

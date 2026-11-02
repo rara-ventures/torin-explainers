@@ -2,7 +2,7 @@
 title: "Why has the DRC experienced Africa’s deadliest conflicts?"
 date: 2026-06-04
 url: https://torinrussell.com/explainers/why-has-the-drc-experienced-africas-deadliest-conflicts
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Conflict, Natural Resources]
 slug: why-has-the-drc-experienced-africas-deadliest-conflicts
 author: Torin Russell

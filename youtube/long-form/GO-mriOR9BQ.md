@@ -1,5 +1,5 @@
 ---
-categories: "[[YouTube Long Form]]"
+categories: ["[[YouTube Long Form]]"]
 title: "What is the US actually doing in Venezuela?"
 youtube_id: "GO-mriOR9BQ"
 duration: 1373

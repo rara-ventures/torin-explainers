@@ -18,12 +18,12 @@ status: verified
 
 | Zone | Polities | Indianized? | Role |
 |------|----------|-------------|------|
-| **Core Indianization** | Champa, Funan-Chenla, Dvaravati, Sailendra-Mataram, Kedah-Srivijaya, Angkor, Pagan, Majapahit, Bali, Sukhothai-Ayutthaya | ✅ Yes (≥2) | Adopted script + kingship + cult |
+| **Core Indianization** | Champa, Funan Chenla, Dvaravati, Sailendra Mataram, Kedah Srivijaya, Angkor, Pagan, Majapahit, Bali, Sukhothai Ayutthaya | ✅ Yes (≥2) | Adopted script + kingship + cult |
 | **Conservatory / Source** | Sri Lanka (Theravada factory), Himalaya (Licchavi Sanskrit + Newar Vajrayana) | ✅ Yes | Conserved + re-exported |
 | **Relay / Filter** | **Gandhara**, **Persia (Sasanian + Sogdians)**, **Rome/Byzantium**, **China** (as recipient-translator) + **Dai Viet (Giao Chỉ/Luy Lâu via China)** | ❌ No — Relay | Transmitted without adopting; filtered via Kharosthi, Pahlavi Kalila, Periplus, Xuanzang/Yijing |
 | **Relay detail** | Sogdian letters 313CE (Samarkand→Luoyang pepper/musk), Borzuya Kalila 540-570 (Sanskrit→Pahlavi→Arabic), An Shigao/Lokaksema 148-189, Mâu Tử 2nd c. Luy Lâu, Vinitaruci 580 → Dai Viet Thiền (Gandhari→Chinese), Muziris Papyrus (India↔Rome via Tamil) | — | See `regions/gandhara/timeline.md`, `regions/persia/timeline.md`, `regions/rome-byzantium/timeline.md`, `regions/china/timeline.md` |
 
-> **Vault structure after audit:** `regions/` is now **12 core + 6 relay/outer**. Bases: `Regions.base` shows all 18 but `Thesis` filters `indianized:true` for core. Matrix demoted relay trade `●●●→●●○` with `via India` note.
+> **Vault structure after audit:** `regions/` is now **14 core + 4 relay/outer** (Mainland and Straits bundle several core polities). Bases: `Regions.base` shows all 18; `Thesis.base` splits `indianized:true` (core) from `indianized:false` (relay). Matrix demoted relay trade `●●●→●●○` with `via India` note.
 
 ## How India Traveled Without Conquering
 

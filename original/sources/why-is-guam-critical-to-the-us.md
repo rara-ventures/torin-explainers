@@ -2,7 +2,7 @@
 title: "Why is Guam critical to the US?"
 date: 2026-08-24
 url: https://torinrussell.com/explainers/why-is-guam-critical-to-the-us
-categories: [Oceania & Pacific, North America]
+categories: ["[[Oceania & Pacific]]", "[[North America]]"]
 tags: [Military & Defense, Great Power Competition]
 slug: why-is-guam-critical-to-the-us
 author: Torin Russell

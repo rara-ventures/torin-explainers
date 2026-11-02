@@ -1,9 +1,10 @@
 ---
-categories: "[[TikTok Stories]]"
+categories: ["[[TikTok Stories]]"]
 hook: "2 islands, 30km apart — one prays to Allah, the other to Shiva."
 duration: "75s"
 region: ["Bali"]
 century: "16th"
+century_num: 1600
 topics: ["Bali"]
 created: 2026-10-29
 status: ready
@@ -30,7 +31,7 @@ author: "Torin-style • Indianization Lab"
 
 | # | Hook | Formula | Text Overlay |
 |---|------|---------|--------------|
-| 1 | 2 islands, 30km apart — one prays to Allah, the other to Shiva. | Cat06 Question + Parallel | `2 ISLANDS, 2 GODS, 30KM` | Cat06 Question | `WHAT IF NEIGHBOR...?` |
+| 1 | 2 islands, 30km apart — one prays to Allah, the other to Shiva. | Cat06 Question + Parallel | `2 ISLANDS, 2 GODS, 30KM` |
 | 2 | It's not about religion. It's about rice vs pepper. | Cat08 Negation | `NOT RELIGION. RICE.` |
 | 3 | Unpopular opinion: Bali isn't Hindu because it's holy. It's Hindu because of rice fields. | Cat02 Contrarian | `RICE, NOT HOLY` |
 | 4 | Nobody talks about why two islands 30km apart pray opposite — same country. | Cat01 Curiosity | `NOBODY TALKS 30KM` |

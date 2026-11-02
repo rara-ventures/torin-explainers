@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How did Vietnam become friends with everyone?"
 tiktok_id: "7641246238553279757"
 slug: how-did-vietnam-become-friends-with-everyone

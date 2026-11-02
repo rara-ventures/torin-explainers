@@ -9,7 +9,7 @@ status: verified
 # Timeline — China — Gandhara to Chang'an Buddhism
 
 | Year | Event | Indianization Link | Source | Confidence |
-|------|-------|--------------------|--------|
+|------|------|------|------|------|
 | c. 518 BCE–260 BCE | Gandhara as Ji-bin substratum — Kharosthi art that China later calls Ji-bin | Mauryan dharma → Kharosthi Buddhist art | Behistun; Ashoka XIII | medium |
 | 138–126 BCE | Zhang Qian reports Dayuan/Yuezhi/Daxia — Han opens Western Regions | Han knowledge of Tianzhu, Sogdian route | Shiji 123 | medium |
 | 148–189 CE | An Shigao (Parthian) & Lokaksema (Yuezhi) translate in Luoyang — first Chinese sutras | Parthian/Yuezhi monks via Gandhari | Hou Hanshu; Zürcher | medium |

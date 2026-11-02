@@ -1,5 +1,5 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 vector: ["Art Architecture"]
 topics: ["Art Architecture"]
 created: 2026-10-29

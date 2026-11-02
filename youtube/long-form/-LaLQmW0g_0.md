@@ -1,5 +1,5 @@
 ---
-categories: "[[YouTube Long Form]]"
+categories: ["[[YouTube Long Form]]"]
 title: "Why does the Space Force exist?"
 youtube_id: "-LaLQmW0g_0"
 duration: 1174

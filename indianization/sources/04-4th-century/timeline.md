@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "4th"
+century_num: 400
+phase: "Phase 1 Contact"
+status: draft
+---
+
 # Timeline — 04 4Th Century
 
 | Year | Event | Region | Source |

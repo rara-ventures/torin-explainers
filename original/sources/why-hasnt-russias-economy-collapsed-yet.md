@@ -2,7 +2,7 @@
 title: "Why hasn’t Russia’s economy collapsed yet?"
 date: 2026-07-02
 url: https://torinrussell.com/explainers/why-hasnt-russias-economy-collapsed-yet
-categories: [Russia & Eurasia]
+categories: ["[[Russia & Eurasia]]"]
 tags: [Economy & Trade, Conflict]
 slug: why-hasnt-russias-economy-collapsed-yet
 author: Torin Russell

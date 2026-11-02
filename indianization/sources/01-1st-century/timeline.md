@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "1st"
+century_num: 100
+phase: "Phase 1 Contact"
+status: draft
+---
+
 # Timeline — 01 1St Century
 
 | Year | Event | Region | Source |

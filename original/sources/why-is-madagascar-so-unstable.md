@@ -2,7 +2,7 @@
 title: "Why is Madagascar so unstable?"
 date: 2026-07-23
 url: https://torinrussell.com/explainers/why-is-madagascar-so-unstable
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Democracy & Governance, Colonial Legacy]
 slug: why-is-madagascar-so-unstable
 author: Torin Russell

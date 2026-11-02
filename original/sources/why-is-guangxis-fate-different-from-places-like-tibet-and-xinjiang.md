@@ -2,7 +2,7 @@
 title: "Why is Guangxi’s fate different from places like Tibet and Xinjiang?"
 date: 2026-06-23
 url: https://torinrussell.com/explainers/why-is-guangxis-fate-different-from-places-like-tibet-and-xinjiang
-categories: [Asia]
+categories: ["[[Asia]]"]
 tags: [Language & Identity]
 slug: why-is-guangxis-fate-different-from-places-like-tibet-and-xinjiang
 author: Torin Russell

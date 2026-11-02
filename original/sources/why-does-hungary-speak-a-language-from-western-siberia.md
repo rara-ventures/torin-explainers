@@ -2,7 +2,7 @@
 title: "Why does Hungary speak a language from western Siberia?"
 date: 2026-10-16
 url: https://torinrussell.com/explainers/why-does-hungary-speak-a-language-from-western-siberia
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Language & Identity]
 slug: why-does-hungary-speak-a-language-from-western-siberia
 author: Torin Russell

@@ -1,8 +1,9 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 region: ["Champa", "Srivijaya", "Sailendra Mataram"]
 vector: ["Buddhism", "Pallava Script", "Art Architecture"]
 century: "8th"
+century_num: 800
 topics: ["Champa", "Borobudur", "Buddhism", "Srivijaya"]
 created: 2026-10-29
 status: complete

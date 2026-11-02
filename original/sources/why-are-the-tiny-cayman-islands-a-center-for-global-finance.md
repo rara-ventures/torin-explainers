@@ -2,7 +2,7 @@
 title: "Why are the tiny Cayman Islands a center for global finance?"
 date: 2026-07-13
 url: https://torinrussell.com/explainers/why-are-the-tiny-cayman-islands-a-center-for-global-finance
-categories: [Caribbean]
+categories: ["[[Caribbean]]"]
 tags: [Economy & Trade, Small States, Colonial Legacy]
 slug: why-are-the-tiny-cayman-islands-a-center-for-global-finance
 author: Torin Russell

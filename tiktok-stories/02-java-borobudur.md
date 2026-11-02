@@ -1,9 +1,10 @@
 ---
-categories: "[[TikTok Stories]]"
+categories: ["[[TikTok Stories]]"]
 hook: "This Indonesian king went broke writing a book."
 duration: "90s"
 region: ["Sailendra Mataram"]
 century: "8th"
+century_num: 800
 topics: ["Sailendra Mataram"]
 created: 2026-10-29
 status: ready

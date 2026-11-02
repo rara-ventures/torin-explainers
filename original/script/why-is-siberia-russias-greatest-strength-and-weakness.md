@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Siberia Russia’s greatest strength and weakness?"
 tiktok_id: "7666116108478418190"
 slug: why-is-siberia-russias-greatest-strength-and-weakness

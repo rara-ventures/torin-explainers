@@ -5,6 +5,8 @@ filters:
 properties:
   note.region:
     displayName: Region
+  note.indianized:
+    displayName: Indianized
   file.name:
     displayName: Region
   file.path:
@@ -14,6 +16,7 @@ views:
     name: All Regions
     order:
       - note.region
+      - note.indianized
       - file.name
   - type: cards
     name: Map

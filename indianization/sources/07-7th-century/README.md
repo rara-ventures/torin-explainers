@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "7th"
+century_num: 700
 phase: "Phase 2 Transplant"
-region: ['Srivijaya', 'Champa']
-vector: ['Buddhism', 'Trade Maritime']
+region: ["Srivijaya", "Champa"]
+vector: ["Buddhism", "Trade Maritime"]
 topics: ['Srivijaya', 'Champa', 'Buddhism', 'Trade Maritime']
 created: 2026-10-29
 status: todo

@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does the US still need nuclear command aircraft?"
 tiktok_id: "7691341735896599822"
 slug: why-does-the-us-still-need-nuclear-command-aircraft

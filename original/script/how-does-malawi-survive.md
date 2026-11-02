@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How does Malawi survive?"
 tiktok_id: "7659423562385739021"
 slug: how-does-malawi-survive

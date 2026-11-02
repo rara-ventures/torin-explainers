@@ -1,6 +1,6 @@
 ---
 categories: ["[[Indianization Sources]]"]
-region: ["Sukhothai-Ayutthaya"]
+region: ["Sukhothai Ayutthaya"]
 status: draft
 ---
 

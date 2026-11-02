@@ -1,7 +1,7 @@
 ---
-categories: "[[Indianization Sources]]"
-vector: ["Sanskrit Pallava"]
-topics: ["Sanskrit Pallava"]
+categories: ["[[Indianization Sources]]"]
+vector: ["Pallava Script"]
+topics: ["Pallava Script"]
 created: 2026-10-29
 ---
 

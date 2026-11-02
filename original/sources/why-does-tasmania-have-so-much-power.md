@@ -2,7 +2,7 @@
 title: "Why does Tasmania have so much power?"
 date: 2026-08-21
 url: https://torinrussell.com/explainers/why-does-tasmania-have-so-much-power
-categories: [Oceania & Pacific]
+categories: ["[[Oceania & Pacific]]"]
 tags: [Democracy & Governance]
 slug: why-does-tasmania-have-so-much-power
 author: Torin Russell

@@ -1,6 +1,6 @@
 filters:
   and:
-    - categories.contains(link("Indianization Sources"))
+    - list(categories).contains(link("Indianization Sources"))
     - '!file.name.contains("Template")'
 properties:
   file.name:
@@ -28,16 +28,16 @@ views:
       - vector
       - status
     sort:
-      - property: century
+      - property: century_num
         direction: ASC
   - type: table
     name: Champa → Indonesia
     filters:
       and:
         - or:
-            - note.region.contains("Champa")
-            - note.region.contains("Sailendra")
-            - note.region.contains("Srivijaya")
+            - note.region.containsAny("Champa")
+            - note.region.containsAny("Sailendra Mataram")
+            - note.region.containsAny("Srivijaya", "Kedah Srivijaya")
         - note.vector.containsAny("Buddhism")
     order:
       - file.name

@@ -1,6 +1,6 @@
 ---
 categories: ["[[Indianization Sources]]"]
-region: ["Funan-Chenla"]
+region: ["Funan Chenla"]
 status: draft
 ---
 

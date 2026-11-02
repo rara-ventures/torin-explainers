@@ -1,9 +1,10 @@
 ---
-categories: "[[TikTok Stories]]"
+categories: ["[[TikTok Stories]]"]
 hook: "A king bankrupted his country building temples — 162 hectares that emptied the treasury."
 duration: "90s"
 region: ["Angkor"]
 century: "12th"
+century_num: 1200
 topics: ["Angkor"]
 created: 2026-10-29
 status: ready

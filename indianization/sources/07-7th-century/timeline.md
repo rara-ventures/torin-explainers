@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "7th"
+century_num: 700
+phase: "Phase 2 Transplant"
+status: draft
+---
+
 # Timeline — 07 7Th Century
 
 | Year | Event | Region | Source |

@@ -2,7 +2,7 @@
 title: "How long can the US and Canada keep sharing the Great Lakes?"
 date: 2026-08-07
 url: https://torinrussell.com/explainers/how-long-can-the-us-and-canada-keep-sharing-the-great-lakes
-categories: [North America]
+categories: ["[[North America]]"]
 tags: [Natural Resources, Borders & Territory]
 slug: how-long-can-the-us-and-canada-keep-sharing-the-great-lakes
 author: Torin Russell

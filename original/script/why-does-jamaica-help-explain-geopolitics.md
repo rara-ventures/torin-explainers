@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why does Jamaica help explain geopolitics?"
 tiktok_id: "7659798209488801038"
 slug: why-does-jamaica-help-explain-geopolitics

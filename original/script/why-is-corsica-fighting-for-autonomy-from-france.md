@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Corsica fighting for autonomy from France?"
 tiktok_id: "7672800334229638413"
 slug: why-is-corsica-fighting-for-autonomy-from-france

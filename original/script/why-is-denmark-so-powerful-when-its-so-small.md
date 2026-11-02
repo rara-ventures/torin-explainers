@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Denmark so powerful when it’s so small?"
 tiktok_id: "7677967376628894989"
 slug: why-is-denmark-so-powerful-when-its-so-small

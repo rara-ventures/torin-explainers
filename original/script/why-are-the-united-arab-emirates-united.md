@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why are the United Arab Emirates united?"
 tiktok_id: "7675020507955154190"
 slug: why-are-the-united-arab-emirates-united

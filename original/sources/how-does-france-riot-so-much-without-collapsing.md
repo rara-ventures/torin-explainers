@@ -2,7 +2,7 @@
 title: "How does France riot so much without collapsing?"
 date: 2026-10-19
 url: https://torinrussell.com/explainers/how-does-france-riot-so-much-without-collapsing
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Democracy & Governance]
 slug: how-does-france-riot-so-much-without-collapsing
 author: Torin Russell

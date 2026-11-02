@@ -2,7 +2,7 @@
 title: "Why can’t Ghana afford its own democracy?"
 date: 2026-09-11
 url: https://torinrussell.com/explainers/why-cant-ghana-afford-its-own-democracy
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Democracy & Governance, Economy & Trade]
 slug: why-cant-ghana-afford-its-own-democracy
 author: Torin Russell

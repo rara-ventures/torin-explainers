@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Iceland a NATO member if it lacks a military?"
 tiktok_id: "7696470361163959566"
 slug: why-is-iceland-a-nato-member-if-it-lacks-a-military

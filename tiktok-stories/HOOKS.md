@@ -16,7 +16,7 @@
 | 04 | `Tibet's most famous monk learned in Indonesia` (needs monk) | **`I'll admit it: I thought Tibetan Buddhism came from Tibet. It didn't.`** | 10 Confession (vulnerability) | `NOT FROM TIBET` |
 | 05 | `Cambodia built world's biggest temple...` (needs biggest ranking) | **`They finished the biggest temple on Earth. Then they just... left.`** | 07 Story (mid-story) | `THEY JUST LEFT` |
 | 06 | `Vietnam deleted a country in 4 days` (needs which country?) | **`March 22, 1471: the day a country was deleted in 4 days.`** | 09 Specificity (date) | `MARCH 22, 1471` |
-| 07 | `One island prays to Shiva...` (needs Shiva/Allah) | **`What if your neighbor's god was opposite yours — 30km away, same passport?`** | 06 Question (052) | `WHAT IF NEIGHBOR...?` |
+| 07 | `One island prays to Shiva...` (needs Shiva/Allah) | **`2 islands, 30km apart — one prays to Allah, the other to Shiva.`** | 06 Question (052) | `2 ISLANDS, 2 GODS, 30KM` |
 
 ## Why Cold Works (Vyral 3-Layer)
 

@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Nigeria’s security so fragmented?"
 tiktok_id: "7637164024920034573"
 slug: why-is-nigerias-security-so-fragmented

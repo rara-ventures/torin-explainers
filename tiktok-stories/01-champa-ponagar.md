@@ -1,9 +1,10 @@
 ---
-categories: "[[TikTok Stories]]"
+categories: ["[[TikTok Stories]]"]
 hook: "Vietnam has a 1,200-year-old Hindu temple that has never closed."
 duration: "85s"
 region: ["Champa"]
 century: "8th"
+century_num: 800
 topics: ["Champa"]
 created: 2026-10-29
 status: ready

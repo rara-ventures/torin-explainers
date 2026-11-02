@@ -74,12 +74,12 @@ All nuclear C2 can be mapped on two axes: *who* decides and *how long* they get.
 
 | Power | Who | Window | Trick / Tell |
 |-------|-----|--------|--------------|
-| **US** | President (6 min in ~20-30 min ICBM flight) | Dual phenomenology (IR sat + radar) must agree; Football has no button, biscuit holds codes; 2 crews of 5-squadron must turn keys together in 60-ft deep capsules; bombers are recallable |
+| **US** | President | ~20–30 min ICBM flight (6 min for president) | Dual phenomenology (IR sat + radar) must agree; Football has no button, biscuit holds codes; 2 crews of 5-squadron must turn keys together in 60-ft deep capsules; bombers are recallable |
 | **Russia** | President + DM + Chief of Staff each have Cheget briefcase | Similar timeline | *Perimetr* dead-hand as backup — if Moscow is vaporized, missiles still go |
 | **UK** | PM only, sub-only | **No code locks — only discipline** | PM's handwritten *Letters of Last Resort* to each sub captain, locked safe, opened only if Britain is gone (options: retaliate, place under US, do nothing, do what captain thinks is right). Peter Hennessy confirmed; MOD denies |
 | **France** | President sole | *"Ultime avertissement"* — single pre-strategic ASMPA cruise from a Rafale as *ultimate warning* before strategic strike | Macron extending umbrella talk |
 | **China** | CMC Chairman (Xi) | Was hours (warheads stored separately) → now minutes | 320 silos collapse the buffer; Xi is removing the obstacles to launch-on-warning |
-| **India** | Political Council (PM) → Executive Council → military | No first use, civilian separated, but now sea leg on Arihant — no-first-use assumes you *ride out* the first strike |
+| **India** | Political Council (PM) → Executive Council → military | No first use; ride-out assumed | No first use, civilian separated, but now sea leg on Arihant — no-first-use assumes you *ride out* the first strike |
 | **Pakistan** | PM formally, but assessed tactical delegation to field commanders | **Few minutes** (Indo-Pak flight ~4-8 min, shortest on Earth) | 2025 27th Amendment concentrated army power — fastest fuse |
 | **NK** | Kim sole, 2022 law: auto-nuclear if leadership/C2 threatened, successor implied | Instant | 6 tests at Punggye-ri, law *mandates* retaliation even if Kim is killed — entanglement by code |
 | **Israel** | PM, ~90 warheads, never confirmed ("amimut") | All guesswork | Ambiguity as deterrent |

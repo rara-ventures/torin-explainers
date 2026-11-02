@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Andorra ruled by the French president and a Catholic bishop?"
 tiktok_id: "7692090250256076045"
 slug: why-is-andorra-ruled-by-the-french-president-and-a-catholic-bishop

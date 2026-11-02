@@ -2,7 +2,7 @@
 title: "What makes Eritrea the North Korea of Africa?"
 date: 2026-05-13
 url: https://torinrussell.com/explainers/what-makes-eritrea-the-north-korea-of-africa
-categories: [Africa]
+categories: ["[[Africa]]"]
 tags: [Democracy & Governance, Military & Defense]
 slug: what-makes-eritrea-the-north-korea-of-africa
 author: Torin Russell

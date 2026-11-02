@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How does Quebec influence Canada’s geopolitical dynamics?"
 tiktok_id: "7638666943683120397"
 slug: how-does-quebec-influence-canadas-geopolitical-dynamics

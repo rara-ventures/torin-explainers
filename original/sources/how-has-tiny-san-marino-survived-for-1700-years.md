@@ -2,7 +2,7 @@
 title: "How has tiny San Marino survived for 1700 years?"
 date: 2026-06-12
 url: https://torinrussell.com/explainers/how-has-tiny-san-marino-survived-for-1700-years
-categories: [Europe]
+categories: ["[[Europe]]"]
 tags: [Small States]
 slug: how-has-tiny-san-marino-survived-for-1700-years
 author: Torin Russell

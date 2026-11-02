@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why has Javier Milei changed things for Argentina?"
 tiktok_id: "7668369004330831117"
 slug: why-has-javier-milei-changed-things-for-argentina

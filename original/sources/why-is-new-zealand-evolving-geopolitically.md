@@ -2,7 +2,7 @@
 title: "Why is New Zealand evolving geopolitically?"
 date: 2026-10-09
 url: https://torinrussell.com/explainers/why-is-new-zealand-evolving-geopolitically
-categories: [Oceania & Pacific]
+categories: ["[[Oceania & Pacific]]"]
 tags: [Diplomacy & Alliances, Nuclear, Great Power Competition]
 slug: why-is-new-zealand-evolving-geopolitically
 author: Torin Russell

@@ -1,3 +1,11 @@
+---
+categories: ["[[Indianization Sources]]"]
+century: "9th"
+century_num: 900
+phase: "Phase 3 Classical"
+status: draft
+---
+
 # Timeline — 09 9Th Century
 
 | Year | Event | Region | Source |

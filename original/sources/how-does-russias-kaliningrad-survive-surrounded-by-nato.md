@@ -2,7 +2,7 @@
 title: "How does Russia’s Kaliningrad survive surrounded by NATO?"
 date: 2026-09-09
 url: https://torinrussell.com/explainers/how-does-russias-kaliningrad-survive-surrounded-by-nato
-categories: [Russia & Eurasia, Europe]
+categories: ["[[Russia & Eurasia]]", "[[Europe]]"]
 tags: [Military & Defense, Borders & Territory]
 slug: how-does-russias-kaliningrad-survive-surrounded-by-nato
 author: Torin Russell

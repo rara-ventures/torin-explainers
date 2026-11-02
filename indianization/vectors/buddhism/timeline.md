@@ -1,3 +1,9 @@
+---
+categories: ["[[Indianization Sources]]"]
+vector: ["Buddhism"]
+status: draft
+---
+
 # Timeline — Vector: Buddhism
 
 | Century    | Event                                                                    | Region           |

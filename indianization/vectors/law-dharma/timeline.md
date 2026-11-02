@@ -1,6 +1,6 @@
 ---
 status: stub
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 vector: ["Law Dharma"]
 topics: ["Law Dharma"]
 created: 2026-10-29

@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Belarus dominated by Russia?"
 tiktok_id: "7639011983152516365"
 slug: why-is-belarus-dominated-by-russia

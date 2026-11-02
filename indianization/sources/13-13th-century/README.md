@@ -1,9 +1,10 @@
 ---
-categories: "[[Indianization Sources]]"
+categories: ["[[Indianization Sources]]"]
 century: "13th"
+century_num: 1300
 phase: "Phase 4 Imperial"
-region: ['Pagan', 'Sailendra Mataram']
-vector: ['Buddhism']
+region: ["Pagan", "Sailendra Mataram"]
+vector: ["Buddhism"]
 topics: ['Pagan', 'Sailendra Mataram', 'Buddhism']
 created: 2026-10-29
 status: todo

@@ -2,7 +2,7 @@
 title: "Is Pakistan now Saudi Arabia’s nuclear shield?"
 date: 2026-05-25
 url: https://torinrussell.com/explainers/is-pakistan-now-saudi-arabias-nuclear-shield
-categories: [Middle East, Asia]
+categories: ["[[Middle East]]", "[[Asia]]"]
 tags: [Nuclear, Diplomacy & Alliances]
 slug: is-pakistan-now-saudi-arabias-nuclear-shield
 author: Torin Russell

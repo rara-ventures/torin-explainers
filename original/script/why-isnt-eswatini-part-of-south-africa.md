@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why isn’t Eswatini part of South Africa?"
 tiktok_id: "7676138060878286094"
 slug: why-isnt-eswatini-part-of-south-africa

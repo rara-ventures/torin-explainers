@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "Why is Liberia so poor when so many ships carry its flag?"
 tiktok_id: "7669826315012377870"
 slug: why-is-liberia-so-poor-when-so-many-ships-carry-its-flag

@@ -2,7 +2,7 @@
 title: "How has Mexico changed under its first woman president?"
 date: 2026-06-01
 url: https://torinrussell.com/explainers/how-has-mexico-changed-under-its-first-woman-president
-categories: [Latin America]
+categories: ["[[Latin America]]"]
 tags: [Democracy & Governance]
 slug: how-has-mexico-changed-under-its-first-woman-president
 author: Torin Russell

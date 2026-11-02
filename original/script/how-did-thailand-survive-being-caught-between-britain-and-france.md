@@ -1,4 +1,5 @@
 ---
+categories: ["[[TikTok Scripts]]"]
 title: "How did Thailand survive being caught between Britain and France?"
 tiktok_id: "7691739615773887757"
 slug: how-did-thailand-survive-being-caught-between-britain-and-france

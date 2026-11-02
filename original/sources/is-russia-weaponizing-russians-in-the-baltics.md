@@ -2,7 +2,7 @@
 title: "Is Russia weaponizing Russians in the Baltics?"
 date: 2026-08-19
 url: https://torinrussell.com/explainers/is-russia-weaponizing-russians-in-the-baltics
-categories: [Europe, Russia & Eurasia]
+categories: ["[[Europe]]", "[[Russia & Eurasia]]"]
 tags: [Language & Identity]
 slug: is-russia-weaponizing-russians-in-the-baltics
 author: Torin Russell
