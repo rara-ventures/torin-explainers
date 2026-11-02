@@ -11,4 +11,4 @@ status: draft
 |------|-------|--------------------|--------|------------|
 | 1225 / c. 1350 CE | Timor in Zhufan Zhi (Zhao Rugua 1225 Ti-wu) & Daoyi Zhilue (Wang Dayuan c.1350 sandalwood, 12 ports) | Timor sandalwood demand China/India, Javanese/Gujarati carriers | Zhao Rugua; Ptak 1987 | draft |
 
-> Part of `straits-archipelago/timeline.md` — split per audit #2/#7 to avoid Kedah vs Timor 1700y conflation.
+> Part of `straits-archipelago/Straits Archipelago — Timeline.md` — split per audit #2/#7 to avoid Kedah vs Timor 1700y conflation.

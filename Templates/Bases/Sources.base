@@ -20,12 +20,28 @@ properties:
 views:
   - type: table
     name: By Century
+    filters:
+      and:
+        - '!file.name.contains("Timeline")'
     order:
       - file.name
       - century
       - phase
       - region
       - vector
+      - status
+    sort:
+      - property: century_num
+        direction: ASC
+  - type: table
+    name: Timelines
+    filters:
+      and:
+        - 'file.name.contains("Timeline")'
+    order:
+      - file.name
+      - century
+      - phase
       - status
     sort:
       - property: century_num
@@ -45,4 +61,7 @@ views:
       - region
   - type: cards
     name: Cards
+    filters:
+      and:
+        - '!file.name.contains("Timeline")'
     order: []

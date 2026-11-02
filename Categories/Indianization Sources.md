@@ -6,4 +6,4 @@ Central category for all Indianization notes. Embeds:
 
 Also see:
 - [[indianization/Dashboard|Dashboard]]
-- [[indianization/sources/README|Century Overview]]
+- [[indianization/sources/By Century|Century Overview]]

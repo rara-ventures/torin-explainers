@@ -1,6 +1,7 @@
 filters:
   and:
     - file.path.contains("regions")
+    - 'file.name.contains("— Region")'
     - '!file.name.contains("Template")'
 properties:
   note.region:

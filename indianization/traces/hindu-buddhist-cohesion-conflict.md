@@ -47,8 +47,8 @@ status: draft
 
 ## See also
 
-- `vectors/brahmin-royal/timeline.md` — devaraja/cakravartin side (7 rows, Kalasan anchor)
-- `vectors/buddhism/timeline.md` — Mahayana/Vajrayana/Theravada side (580 Vinitaruci + 700 Dharmakirti + 1011 Atisha)
-- `regions/himalaya-nepal-bhutan/timeline.md:694` — Nepal Licchavi/Malla dyarchy (4 new rows)
-- `regions/champa/timeline.md:875` (Dong Duong), `regions/sailendra-mataram/timeline.md:778` (Kalasan), `regions/pagan/timeline.md:1056` (Ari), `regions/angkor/timeline.md:1181` (Bayon)
+- `vectors/brahmin-royal/Brahmin Royal — Timeline.md` — devaraja/cakravartin side (7 rows, Kalasan anchor)
+- `vectors/buddhism/Buddhism — Timeline.md` — Mahayana/Vajrayana/Theravada side (580 Vinitaruci + 700 Dharmakirti + 1011 Atisha)
+- `regions/himalaya-nepal-bhutan/Himalaya — Timeline.md:694` — Nepal Licchavi/Malla dyarchy (4 new rows)
+- `regions/champa/Champa — Timeline.md:875` (Dong Duong), `regions/sailendra-mataram/Sailendra Mataram — Timeline.md:778` (Kalasan), `regions/pagan/Pagan — Timeline.md:1056` (Ari), `regions/angkor/Angkor — Timeline.md:1181` (Bayon)
 

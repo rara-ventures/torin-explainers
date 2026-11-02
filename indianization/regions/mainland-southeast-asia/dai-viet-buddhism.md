@@ -18,4 +18,4 @@ indianized: false
 | 820 CE | Vô Ngôn Thông — second Thiền school at Kiến Sơ, from China | Chang'an → Giao | Nguyen Lang; Carter | medium |
 | 1010 CE | Lý Thái Tổ founds Thang Long, Thiền + Pure Land state cult, One-Pillar Pagoda (1049) | Luy Lâu lineage | ĐVSK | medium |
 
-> vs Champa: Cham Mahayana was **India-direct** (Bengal→Dong Duong 875), Dai Viet Thiền is **China-filtered** — opposite vectors collapsed in old `timeline.md:19`.
+> vs Champa: Cham Mahayana was **India-direct** (Bengal→Dong Duong 875), Dai Viet Thiền is **China-filtered** — opposite vectors collapsed in old `Mainland SE Asia — Timeline.md:19`.

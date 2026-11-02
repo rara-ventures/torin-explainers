@@ -1,6 +1,7 @@
 filters:
   and:
     - file.path.contains("traces")
+    - '!file.name.contains("Traces")'
     - '!file.name.contains("Template")'
 properties:
   file.name:

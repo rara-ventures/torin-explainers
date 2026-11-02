@@ -21,4 +21,4 @@ status: todo
 - **Indian prototype → local adaptation:**
 
 ## Timeline
-- See `timeline.md`
+- See the matching `— Timeline.md` note

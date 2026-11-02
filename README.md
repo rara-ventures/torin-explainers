@@ -15,7 +15,7 @@ torin-explainers/  ← Open this folder as Obsidian Vault
 ├── original/           ← 100 Torin Russell explainers + 100 TikTok scripts + 6 stories
 ├── indianization/      ← South Asian history: Champa → Buddhism in Indonesia
 │   ├── Dashboard.md    ← START HERE (embeds all Bases)
-│   ├── sources/        ← 19 century folders (BCE–16th), each README+timeline with frontmatter
+│   ├── sources/        ← 19 century folders (BCE–16th), each with century note + timeline
 │   ├── regions/        ← 18 regions (Champa, Srivijaya, Sailendra...)
 │   ├── vectors/        ← 6 mechanisms (Buddhism, Pallava Script...)
 │   ├── traces/         ← Narratives (champa-to-borobudur-buddhism.md)

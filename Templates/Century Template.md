@@ -14,4 +14,4 @@ created: {{date}}
 |  |  |  |
 
 ## Timeline
-See `timeline.md`
+See the matching `— Timeline.md` note

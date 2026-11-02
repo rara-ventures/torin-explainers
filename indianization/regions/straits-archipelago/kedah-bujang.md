@@ -14,5 +14,5 @@ status: draft
 | 2nd–3rd c. CE | Sungai Batu SB2A/B — Pallava script ye dharma, earliest brick monument C14 110 CE | Monks/Brahmins arrive with merchandise, Pallava script | CGAR 2009-2021 | draft |
 | c. 500–515 CE | Langkasuka — Liangshu embassy to Liang China, Bhogavarman, Brahmanical | Brahmins welcome Chinese envoys | Wheatley; Coedès 1968 | draft |
 
-> Part of `straits-archipelago/timeline.md` — split per audit #2/#7 to avoid Kedah vs Timor 1700y conflation.
+> Part of `straits-archipelago/Straits Archipelago — Timeline.md` — split per audit #2/#7 to avoid Kedah vs Timor 1700y conflation.
 | c. 800–1100 CE | Sungai Mas Buddhist votive tablets + Site 16 Shaiva candi — parallel cults | Tamil + Mahayana circuits via Srivijaya | Lamb 1961; Wales | medium |

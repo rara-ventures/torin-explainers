@@ -28,4 +28,4 @@ status: todo
 ## Links
 - Region: [[Champa]] / [[Sailendra Mataram]]
 - Vector: [[Buddhism Vector]] / [[Pallava Script]]
-- Century overview: [[indianization/sources/00-bce-prelude/README|BCE Prelude]]
+- Century overview: [[indianization/sources/00-bce-prelude/BCE Prelude|BCE Prelude]]

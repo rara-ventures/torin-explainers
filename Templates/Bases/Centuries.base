@@ -3,6 +3,7 @@ filters:
     - list(categories).contains(link("Indianization Sources"))
     - note.century
     - '!file.name.contains("Template")'
+    - '!file.name.contains("Timeline")'
 properties:
   file.name:
     displayName: Century Folder
@@ -12,7 +13,7 @@ properties:
     displayName: Century
 views:
   - type: table
-    name: Timeline
+    name: Centuries
     order:
       - file.name
       - century

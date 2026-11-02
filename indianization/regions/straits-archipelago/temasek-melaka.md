@@ -14,4 +14,4 @@ status: draft
 | 1414–1446 CE | Islamization of Melaka — Parameswara/Megat Iskandar converts c.1414 via Pasai | Qadi replaces Brahmin but Sanskrit undang-undang persists | Wake 1964; Winstedt | draft |
 | 1490s–1511 CE | Height & Portuguese capture — Melaka stock holds 1000 bahar sandalwood (Gujaratis), direct Macao-Timor after 1550s | Gujarati/Tamil/Chinese Hui institutionalize law, Sanskrit Malay | Barbosa; Ptak 1983 | draft |
 
-> Part of `straits-archipelago/timeline.md` — split per audit #2/#7 to avoid Kedah vs Timor 1700y conflation.
+> Part of `straits-archipelago/Straits Archipelago — Timeline.md` — split per audit #2/#7 to avoid Kedah vs Timor 1700y conflation.

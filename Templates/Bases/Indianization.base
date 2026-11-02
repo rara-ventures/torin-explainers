@@ -18,6 +18,9 @@ properties:
 views:
   - type: table
     name: All Indianization
+    filters:
+      and:
+        - '!file.name.contains("Timeline")'
     order:
       - file.name
       - century
@@ -25,6 +28,20 @@ views:
       - region
       - vector
       - status
+    sort:
+      - property: century_num
+        direction: ASC
+  - type: table
+    name: Timelines
+    filters:
+      and:
+        - 'file.name.contains("Timeline")'
+    order:
+      - file.name
+      - century
+      - phase
+      - region
+      - vector
     sort:
       - property: century_num
         direction: ASC

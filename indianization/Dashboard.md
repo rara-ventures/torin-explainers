@@ -7,7 +7,7 @@ created: 2026-10-29
 
 > **Start here for Obsidian.** This note embeds live Bases. Change a `century:` / `century_num:` or `region:` frontmatter and tables resort instantly.
 >
-> Long-form source of truth: [[indianization/README|Indianization README]] · century index: [[indianization/sources/README|Sources — By Century]]
+> Long-form source of truth: [[indianization/README|Indianization README]] · century index: [[indianization/sources/By Century|Sources — By Century]]
 
 ## Your Path: Vietnam → Java
 
@@ -47,7 +47,7 @@ This dashboard is pre-filtered for your question: *How did Champa's Buddhism lea
 
 ## Structure Reminder
 
-- `sources/` = when (19 folders, each `README.md` + `timeline.md` with frontmatter `century`/`century_num`/`phase`)
-- `regions/` = where (18 regions, each with `timeline.md`)
+- `sources/` = when (19 folders, each `"<Nth> Century CE.md"` + `"<Nth> Century CE — Timeline.md"` with frontmatter `century`/`century_num`/`phase`)
+- `regions/` = where (18 regions, each `"<Region> — Region.md"` + `"<Region> — Timeline.md"`)
 - `vectors/` = how (6 mechanisms)
 - `traces/` = why (narratives stitching where+how+when)

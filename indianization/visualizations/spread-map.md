@@ -69,4 +69,4 @@ flowchart LR
 > **Fixes 2026-10-30:** `Persia(Aramaic)→Gandhara` (not India→Gandhara), `Rome→India→Oc Eo` (no direct Rome→Oc Eo), `Himalaya→Tibet` then `Arniko→China` (not Bhrikuti→China), `Srivijaya→China` (not China→Srivijaya), `Timor→Malacca via Javanese` (not Kedah→Malacca). Added `Pagan` correctly after `Lanka`.
 
 > **Sub-polity views:** `regions/straits-archipelago/kedah-bujang.md` etc.; `regions/mainland-southeast-asia/champa-*.md` — bypasses collapsing 1700y gaps.
-> See `regions/gandhara/timeline.md`, `regions/rome-byzantium/timeline.md`, `regions/persia/timeline.md` for dated rows. `status: draft` until audit #4 completes.
+> See `regions/gandhara/Gandhara — Timeline.md`, `regions/rome-byzantium/Rome Byzantium — Timeline.md`, `regions/persia/Persia — Timeline.md` for dated rows. `status: draft` until audit #4 completes.

@@ -42,7 +42,7 @@ Follow the 4 stops below in order.
 
 **Localized Buddhism:** Champa's Buddhism was *court* Buddhism (Indrapura's Dong Duong monastery under Indravarma II, Laksmindra Lokesvara) — never the population's religion. Compare to Java where Buddhism was *state* cosmology.
 
-> **Vector:** `../vectors/sanskrit-pallava/README.md` (script), `../vectors/brahmin-royal/README.md` (Shaiva *devaraja*), `../vectors/buddhism/README.md` (Mahayana pocket)
+> **Vector:** `../vectors/sanskrit-pallava/Pallava Script — Vector.md` (script), `../vectors/brahmin-royal/Brahmin Royal — Vector.md` (Shaiva *devaraja*), `../vectors/buddhism/Buddhism — Vector.md` (Mahayana pocket)
 
 ---
 
@@ -72,7 +72,7 @@ Follow the 4 stops below in order.
 
 **Next door:** **Prambanan (c. 850, Sanjaya Hindu)** — 47m Shiva tower, Ramayana panels — built 30 km from Borobudur within decades. Same valley, two cosmologies. Sailendra used Buddhism to differentiate from Sanjaya's Shaiva legitimacy — *Indianization as political technology*.
 
-**Timeline to fill in `sources/08-8th-century/timeline.md`:**
+**Timeline to fill in `sources/08-8th-century/8th Century CE — Timeline.md`:**
 
 | Year | Event |
 |------|-------|
@@ -100,9 +100,9 @@ Follow the 4 stops below in order.
 
 ## How to Use This Trace
 
-- **Follow century by century:** `sources/04-4th-century/README.md` (Vo Canh) → `sources/07-7th-century/README.md` (Kedukan Bukit) → `sources/08-8th-century/README.md` (Kalasan/Borobudur) → see each `timeline.md`
-- **Follow region by region:** `regions/champa/timeline.md` (My Son) → `regions/kedah-srivijaya/timeline.md` (Palembang) → `regions/sailendra-mataram/timeline.md` (Borobudur)
-- **Follow vector:** `vectors/buddhism/timeline.md` (Amaravati → Nalanda → Srivijaya → Borobudur) + `vectors/sanskrit-pallava/timeline.md` (one script, three scripts)
+- **Follow century by century:** `sources/04-4th-century/4th Century CE.md` (Vo Canh) → `sources/07-7th-century/7th Century CE.md` (Kedukan Bukit) → `sources/08-8th-century/8th Century CE.md` (Kalasan/Borobudur) → see each century's `— Timeline.md`
+- **Follow region by region:** `regions/champa/Champa — Timeline.md` (My Son) → `regions/kedah-srivijaya/Kedah Srivijaya — Timeline.md` (Palembang) → `regions/sailendra-mataram/Sailendra Mataram — Timeline.md` (Borobudur)
+- **Follow vector:** `vectors/buddhism/Buddhism — Timeline.md` (Amaravati → Nalanda → Srivijaya → Borobudur) + `vectors/sanskrit-pallava/Pallava Script — Timeline.md` (one script, three scripts)
 - **See the map:** `visualizations/spread-map.md` — monsoon + inscription findspots (Oc Eo, Vo Canh, My Son, Kedah, Borobudur)
 
 ## Sources to Ingest Next (Your TO-DO List)
