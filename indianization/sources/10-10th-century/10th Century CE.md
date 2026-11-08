@@ -72,8 +72,16 @@ Atiśa's Sumatra chronology is uncertain. Tibetan sources say twelve years and a
 
 [[9th Century CE]] · [[11th Century CE]] · [[Angkor — Region]] · [[Champa — Region]] · [[Pagan — Region]] · [[Sri Lanka — Region]] · [[Sailendra Mataram — Region]] · [[Art Architecture — Vector]] · [[Trade Maritime — Vector]] · [[Brahmin Royal — Vector]] · [[Buddhism — Vector]] · [[10th Century CE — Timeline]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| Fall of Civilizations — The Bagan Empire / Pagan (Ep. 16) | podcast + YouTube | https://www.youtube.com/watch?v=ZR48gFySJoM | YouTube CC |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+
+## Sources
 - Chattopadhyaya, Alaka. 1981. *Atīśa and Tibet*. Motilal Banarsidass.
 - Coedès, George. 1968. *The Indianized States of Southeast Asia*. University of Hawai'i Press.
 - Freeman, Michael & Claude Jacques. 2006. *Ancient Angkor*. River Books.

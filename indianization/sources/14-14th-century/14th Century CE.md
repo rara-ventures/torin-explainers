@@ -72,8 +72,16 @@ The Palapa oath is the century's most over-read document. It survives only in th
 - **Vectors:** [[Brahmin Royal — Vector]] · [[Buddhism — Vector]] · [[Law Dharma — Vector]] · [[Art Architecture — Vector]] · [[Trade Maritime — Vector]]
 - **Timeline:** [[14th Century CE — Timeline]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| Fall of Civilizations — Majapahit (Ep. 21) | podcast + YouTube | https://youtu.be/01CZBhZM430 | YouTube CC |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+
+## Sources
 - Baker, Chris, and Pasuk Phongpaichit. 2017. *A History of Ayutthaya*. Cambridge University Press.
 - Coedès, George. 1968. *The Indianized States of Southeast Asia*. University of Hawaii Press.
 - Jayawickrama, N. A., trans. 1968. *Jinakālamālī: The Sheaf of Garlands of the Epochs of the Conqueror*. Pali Text Society.

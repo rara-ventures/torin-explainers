@@ -13,6 +13,7 @@ indianization/
 ├── vectors/          6 mechanisms — each: "<Vector> — Vector.md" + "<Vector> — Timeline.md"
 ├── traces/           cross-cutting narratives (Champa → Borobudur)
 ├── visualizations/   master timelines & maps (Mermaid)
+├── resources/        Watch & Listen — podcasts, docs, epigraphy, maps, transcripts
 └── README.md         you are here
 ```
 
@@ -49,6 +50,10 @@ Or pick an axis:
 - **Spread map (Mermaid):** [`visualizations/spread-map.md`](./visualizations/spread-map.md)
 - **Influence matrix (region × vector):** [`visualizations/influence-matrix.md`](./visualizations/influence-matrix.md)
 - **Full graph:** [`../original/connections/GRAPH.md`](../original/connections/GRAPH.md) (100 Torin explainers) + this lab's Mermaid in `sources/By Century.md`
+
+## Watch & Listen
+
+- **Master media index:** [`resources/Watch & Listen.md`](./resources/Watch%20%26%20Listen.md) — Fall of Civilizations episodes (Angkor, Pagan, Majapahit), In Our Time, Virtual Angkor, OpenHistoricalMap, SEAlang Classics, GRETIL, EFEO, with transcript/caption notes.
 
 ## Status
 

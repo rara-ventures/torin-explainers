@@ -84,8 +84,16 @@ China is also the vault's archive. The Hou Hanshu, Gaoseng zhuan and the pilgrim
 - **Downstream:** [[Champa — Region]]
 - **Category:** [[China]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Han China (Ep. 10) | podcast + YouTube | https://youtu.be/U9W7cOMGXyA | YouTube CC |
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Zürcher, Erik. *The Buddhist Conquest of China*. Leiden: Brill, 1959.
 - Nattier, Jan. *A Guide to the Earliest Chinese Buddhist Translations*. Tokyo: IRIAB, 2008.
 - Fan Ye. *Hou Hanshu*. 5th c. CE.

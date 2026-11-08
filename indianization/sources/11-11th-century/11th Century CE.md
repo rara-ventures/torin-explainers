@@ -73,8 +73,16 @@ Thaton is the largest historiographical fault line. Aung-Thwin (2005) argues the
 
 [[10th Century CE]] · [[12th Century CE]] · [[Angkor — Region]] · [[Pagan — Region]] · [[Champa — Region]] · [[Sri Lanka — Region]] · [[Sailendra Mataram — Region]] · [[Trade Maritime — Vector]] · [[Buddhism — Vector]] · [[Brahmin Royal — Vector]] · [[11th Century CE — Timeline]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| Fall of Civilizations — The Bagan Empire / Pagan (Ep. 16) | podcast + YouTube | https://www.youtube.com/watch?v=ZR48gFySJoM | YouTube CC |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+
+## Sources
 - Aung-Thwin, Michael. 2005. *The Mists of Ramanna*. Hawai'i Press.
 - Coedès, George. 1968. *The Indianized States of Southeast Asia*. Hawai'i Press.
 - Hall, Kenneth R. 1975. "Khmer Commercial Development under Sūryavarman I." *JESHO* 18(3): 318–336.

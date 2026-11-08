@@ -73,8 +73,16 @@ Balaputra's parentage is unresolved: he is variously Samaratungga's son, brother
 - **Regions:** [[Sailendra Mataram — Region]] · [[Angkor — Region]] · [[Champa — Region]] · [[Kedah Srivijaya — Region]]
 - **Vectors:** [[Art Architecture — Vector]] · [[Buddhism — Vector]] · [[Brahmin Royal — Vector]] · [[Pallava Script — Vector]] · [[Trade Maritime — Vector]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| Fall of Civilizations — The Bagan Empire / Pagan (Ep. 16) | podcast + YouTube | https://www.youtube.com/watch?v=ZR48gFySJoM | YouTube CC |
+| Virtual Angkor | 3D reconstruction + teaching modules | https://www.virtualangkor.com/ | modules + scenes |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Coedès, George. *The Indianized States of Southeast Asia*. Honolulu: University of Hawai'i Press, 1968.
 - de Casparis, J. G. *Prasasti Indonesia II*. Bandung: Masa Baru, 1956.
 - Dumarçay, Jacques, and Pascal Royère. *Cambodian Architecture, Eighth to Thirteenth Centuries*. Leiden: Brill, 2001.

@@ -83,8 +83,16 @@ The founding date floats between 1292 (settlement) and 1293 (consecration), and 
 - **Vectors:** [[Buddhism — Vector]] · [[Brahmin Royal — Vector]] · [[Art Architecture — Vector]] · [[Trade Maritime — Vector]]
 - **Category:** [[Majapahit]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Majapahit (Ep. 21) | podcast + YouTube | https://youtu.be/01CZBhZM430 | YouTube CC |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+
+## Sources
 - Bade, David. *Of Palm Wine, Women and War*. ISEAS, 2013.
 - Coedès, George. *The Indianized States of Southeast Asia*. Hawaii, 1968.
 - Hall, Kenneth R. "Ritual Networks and Royal Power in Majapahit Java." *Archipel* 52 (1996): 95–118.

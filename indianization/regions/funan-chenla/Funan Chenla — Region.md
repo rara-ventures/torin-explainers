@@ -73,8 +73,16 @@ It also left the region's first substantial Sanskrit epigraphic corpus, its firs
 - **Neighbours:** [[Champa — Region]] · [[Dvaravati — Region]] · [[Angkor — Region]] · [[Kedah Srivijaya — Region]]
 - **Category:** [[Funan Chenla]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| SEAlang Classics | epigraphy corpus | http://sealang.net/classic/ | Cham, Khmer, Mon, Pyu inscriptions |
+| EFEO | research + archives | https://www.efeo.fr/ | Angkor, Cham, Khmer archives |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Coedès, George. *The Indianized States of Southeast Asia*. Honolulu: UH Press, 1968.
 - Coedès, George. "Deux inscriptions sanskrites du Fou-nan." *BEFEO* 31 (1931).
 - Pelliot, Paul. "Le Fou-nan." *BEFEO* 3 (1903).

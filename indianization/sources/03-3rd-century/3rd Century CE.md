@@ -86,8 +86,16 @@ Confidence: high that Funan was a wealthy maritime polity in contact with India 
 - [[1st Century CE]] · [[2nd Century CE]] · [[4th Century CE]] · [[5th Century CE]]
 - [[Funan Chenla — Region]] · [[Champa — Region]] · [[Gandhara — Region]] · [[Rome Byzantium — Region]] · [[Trade Maritime — Vector]] · [[Pallava Script — Vector]] · [[Buddhism — Vector]] · [[Brahmin Royal — Vector]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Han China (Ep. 10) | podcast + YouTube | https://youtu.be/U9W7cOMGXyA | YouTube CC |
+| Fall of Civilizations — Byzantium (Ep. 11) | podcast + YouTube | https://www.youtube.com/watch?v=HvzoAfpCvbw | YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Coedès, G. (1968). *The Indianized States of Southeast Asia*. Hawaii.
 - Pelliot, P. (1903). "Le Fou-nan." *BEFEO* 3.
 - Wheatley, P. (1961). *The Golden Khersonese*. Malaya.

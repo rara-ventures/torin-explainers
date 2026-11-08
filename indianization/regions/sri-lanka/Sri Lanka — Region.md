@@ -77,8 +77,16 @@ It is the strongest test of that framing. Indianization here was neither a venee
 - **Framing:** [[Mainland SE Asia — Region]] · [[Sri Lanka]] · [[Indianization Sources]]
 - **Vectors:** [[Buddhism — Vector]] · [[Pallava Script — Vector]] · [[Art Architecture — Vector]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Bagan Empire / Pagan (Ep. 16) | podcast + YouTube | https://www.youtube.com/watch?v=ZR48gFySJoM | YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+
+## Sources
 - Bandaranayake, Senake. 1974. *Sinhalese Monastic Architecture*.
 - de Silva, K. M. 2005. *A History of Sri Lanka*.
 - Dhammakitti (attr.). 13th c. *Cūḷavaṃsa*. Trans. W. Geiger, 1929–30.

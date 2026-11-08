@@ -68,8 +68,16 @@ Funan's foundation date is a convention; the Chinese first record is 84 CE, but 
 
 Adjacent: [[BCE Prelude]] and [[2nd Century CE]]. Regions: [[Funan Chenla — Region]], [[Champa — Region]], [[Gandhara — Region]], [[Sri Lanka — Region]]. Vectors: [[Trade Maritime — Vector]], [[Buddhism — Vector]], [[Brahmin Royal — Vector]].
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Han China (Ep. 10) | podcast + YouTube | https://youtu.be/U9W7cOMGXyA | YouTube CC |
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+
+## Sources
 - Coedès, George. 1968. *The Indianized States of Southeast Asia*. Honolulu: UH Press.
 - Pelliot, Paul. 1903. "Le Fou-nan." *BEFEO* 3: 248–303.
 - Malleret, Louis. 1959. *L'archéologie du delta du Mékong*, Vol. 1. Paris: EFEO.

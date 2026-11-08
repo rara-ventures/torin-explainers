@@ -74,8 +74,16 @@ The category is contested. Cœdès (1968) described a diffusion of Indian civili
 - **Related:** [[Pagan — Region]] · [[Mainland SE Asia]] · [[Indianization Sources]]
 - **Vectors:** [[Buddhism — Vector]] · [[Brahmin Royal — Vector]] · [[Pallava Script — Vector]] · [[Trade Maritime — Vector]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| SEAlang Classics | epigraphy corpus | http://sealang.net/classic/ | Cham, Khmer, Mon, Pyu inscriptions |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Cœdès, George. 1968. *The Indianized States of Southeast Asia*. University of Hawai'i Press.
 - Wolters, O. W. 1982. *History, Culture, and Region in Southeast Asian Perspectives*. ISEAS.
 - Mabbett, I. W. 1977. "The 'Indianization' of Southeast Asia: Reflections on the Historical Sources." *Journal of Southeast Asian Studies* 8(2): 143–161.

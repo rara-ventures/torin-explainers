@@ -115,3 +115,12 @@ Follow the 4 stops below in order.
 
 > **Task for you:** Pick one inscription (I suggest Po Nagar C.96 or Kalasan 778) — paste its Sanskrit/Cham/Old Malay, then trace *one word* (e.g., *siddham* in Kedukan Bukit → *siddhi* in Borobudur dedications). That word walk *is* Indianization.
 
+
+## Watch & listen
+
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| Fall of Civilizations — Majapahit (Ep. 21) | podcast + YouTube | https://youtu.be/01CZBhZM430 | YouTube CC |
+| Virtual Angkor | 3D reconstruction + teaching modules | https://www.virtualangkor.com/ | modules + scenes |
+| SEAlang Classics | epigraphy corpus | http://sealang.net/classic/ | Cham, Khmer, Mon, Pyu inscriptions |

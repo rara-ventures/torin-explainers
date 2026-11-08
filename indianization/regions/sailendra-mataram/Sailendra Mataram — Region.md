@@ -79,8 +79,16 @@ Third, the flow **reversed**. Around 860 a Javanese-descended king in Sumatra en
 - **Vectors:** [[Buddhism — Vector]] · [[Art Architecture — Vector]] · [[Brahmin Royal — Vector]] · [[Pallava Script — Vector]]
 - **Category:** [[Sailendra Mataram]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Majapahit (Ep. 21) | podcast + YouTube | https://youtu.be/01CZBhZM430 | YouTube CC |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+
+## Sources
 - Acri, Andrea. "Maritime Buddhism." *Oxford Research Encyclopedia of Religion*. Oxford University Press, 2018.
 - Bosch, F. D. K. "Śrīvijaya, de Śailendravamśa en de Sañjayavamśa." *Bijdragen tot de Taal-, Land- en Volkenkunde* 108 (1952): 113–123.
 - Coedès, George. *The Indianized States of Southeast Asia*. Trans. Susan Brown Cowing. Honolulu: University of Hawaii Press, 1968.

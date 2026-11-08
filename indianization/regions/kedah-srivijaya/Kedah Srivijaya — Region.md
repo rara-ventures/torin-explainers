@@ -88,8 +88,16 @@ Confidence is high for the inscriptions' dates and wording, medium for the polit
 - **Vectors:** [[Trade Maritime — Vector]] · [[Buddhism — Vector]] · [[Pallava Script — Vector]] · [[Brahmin Royal — Vector]]
 - **Categories:** [[Srivijaya]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| SEAlang Classics | epigraphy corpus | http://sealang.net/classic/ | Cham, Khmer, Mon, Pyu inscriptions |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Cœdès, George. *The Indianized States of Southeast Asia*. Honolulu, 1968.
 - Wolters, O. W. *History, Culture, and Region in Southeast Asian Perspectives*. Ithaca, 1999.
 - Kulke, Hermann. "'Kadātuan Śrīvijaya' — Empire or Kraton?" *BEFEO* 80 (1993): 159–180.

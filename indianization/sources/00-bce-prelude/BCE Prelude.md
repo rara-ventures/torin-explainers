@@ -68,8 +68,16 @@ Suvarnabhumi's location is unresolved: the toponym appears in the Mahavamsa, Jat
 
 Adjacent: [[6th Century BCE]], [[2nd Century BCE]] and [[1st Century CE]]. Regions: [[Sri Lanka — Region]], [[Funan Chenla — Region]]. Vectors: [[Buddhism — Vector]], [[Trade Maritime — Vector]], [[Law Dharma — Vector]].
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Han China (Ep. 10) | podcast + YouTube | https://youtu.be/U9W7cOMGXyA | YouTube CC |
+| Fall of Civilizations — Achaemenid Persia (Ep. 20) | podcast + YouTube | https://www.youtube.com/watch?v=qRYdivPIWh4 | YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Thapar, Romila. 1961. *Aśoka and the Decline of the Mauryas*. Oxford: OUP.
 - Falk, Harry. 2006. *Aśokan Sites and Artefacts*. Mainz: Philipp von Zabern.
 - Geiger, Wilhelm, trans. 1912. *The Mahāvaṃsa*. London: Pali Text Society.

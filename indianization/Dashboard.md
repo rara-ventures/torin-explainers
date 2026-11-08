@@ -36,6 +36,10 @@ This dashboard is pre-filtered for your question: *How did Champa's Buddhism lea
 
 ![[Templates/Bases/Indianization.base#All Indianization]]
 
+### 7. Watch & Listen
+
+[[indianization/resources/Watch & Listen|Media index]] — episodes, documentaries, epigraphy corpora, maps, transcripts.
+
 ---
 
 ## How to Filter Yourself

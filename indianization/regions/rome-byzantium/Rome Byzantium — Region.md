@@ -84,8 +84,16 @@ Roman issues also fix termini post quem in Southeast Asian layers, measuring loc
 - **Vectors:** [[Trade Maritime — Vector]] · [[Art Architecture — Vector]]
 - **Category:** [[Rome Byzantium]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Byzantium (Ep. 11) | podcast + YouTube | https://www.youtube.com/watch?v=HvzoAfpCvbw | YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+
+## Sources
 - *Periplus Maris Erythraei*, trans. Lionel Casson. Princeton, 1989.
 - Pliny. *Natural History* 6.101; 12.41.84.
 - Rathbone, Dominic. "The Muziris papyrus (SB XVIII.13167)." *BSAA* 46 (2000): 39–50.

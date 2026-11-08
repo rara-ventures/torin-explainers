@@ -73,8 +73,16 @@ Angkor Wat's orientation has been read as funerary, as Vishnu's western directio
 
 [[11th Century CE]] · [[13th Century CE]] · [[Angkor — Region]] · [[Champa — Region]] · [[Pagan — Region]] · [[Sri Lanka — Region]] · [[Sailendra Mataram — Region]] · [[Buddhism — Vector]] · [[Art Architecture — Vector]] · [[12th Century CE — Timeline]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| Fall of Civilizations — The Bagan Empire / Pagan (Ep. 16) | podcast + YouTube | https://www.youtube.com/watch?v=ZR48gFySJoM | YouTube CC |
+| Virtual Angkor | 3D reconstruction + teaching modules | https://www.virtualangkor.com/ | modules + scenes |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Chatterji, Bijan Raj. 1939. "Jayavarman VII." *PIHC* 3: 377–385.
 - Coedès, George. 1968. *The Indianized States of Southeast Asia*. Hawai'i Press.
 - Freeman, Michael & Claude Jacques. 2006. *Ancient Angkor*. River Books.

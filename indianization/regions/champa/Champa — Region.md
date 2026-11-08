@@ -83,8 +83,16 @@ C.40's date is uncertain: palaeographers place it between the 2nd and 5th centur
 - **Neighbours:** [[Funan Chenla — Region]] · [[Angkor — Region]] · [[Kedah Srivijaya — Region]] · [[Sailendra Mataram — Region]] · [[Mainland SE Asia — Region]]
 - **Category:** [[Champa]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| SEAlang Classics | epigraphy corpus | http://sealang.net/classic/ | Cham, Khmer, Mon, Pyu inscriptions |
+| EFEO | research + archives | https://www.efeo.fr/ | Angkor, Cham, Khmer archives |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+
+## Sources
 - Coedès, George. *The Indianized States of Southeast Asia*. Honolulu, 1968.
 - Maspero, Georges. *Le royaume de Champa*. Paris, 1928; Eng. trans. *The Champa Kingdom*, 2002.
 - Vickery, Michael. "Champa Revised." ARI Working Paper 37, 2005.

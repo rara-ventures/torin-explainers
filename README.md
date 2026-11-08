@@ -19,7 +19,8 @@ torin-explainers/  ← Open this folder as Obsidian Vault
 │   ├── regions/        ← 18 regions (Champa, Srivijaya, Sailendra...)
 │   ├── vectors/        ← 6 mechanisms (Buddhism, Pallava Script...)
 │   ├── traces/         ← Narratives (champa-to-borobudur-buddhism.md)
-│   └── visualizations/ ← Mermaid maps & matrix
+│   ├── visualizations/ ← Mermaid maps & matrix
+│   └── resources/      ← Watch & Listen media index
 ├── tiktok/             ← 299 scraped channel videos + scraper
 ├── tiktok-stories/     ← 7 cold hooks (70 variations, rated)
 └── youtube/            ← YouTube long-form (7 videos, 6–24 min)

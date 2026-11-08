@@ -83,8 +83,16 @@ Melaka inherited the choke point after 1400. Its rulers converted to Islam aroun
 - **Vectors:** [[Brahmin Royal — Vector]] · [[Buddhism — Vector]] · [[Pallava Script — Vector]]
 - **Category:** [[Trade Maritime]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Majapahit (Ep. 21) | podcast + YouTube | https://youtu.be/01CZBhZM430 | YouTube CC |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+
+## Sources
 - Casson, Lionel, trans. 1989. *The Periplus Maris Erythraei*. Princeton UP.
 - Coedès, George. 1968. *The Indianized States of Southeast Asia*. UH Press.
 - Heng, Derek. 2009. *Sino–Malay Trade and Diplomacy, Tenth–Fourteenth Centuries*. Ohio UP.

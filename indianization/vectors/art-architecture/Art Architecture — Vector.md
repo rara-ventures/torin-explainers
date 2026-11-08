@@ -76,8 +76,16 @@ Dating is the second fault line. Borobudur has no foundation inscription; Angkor
 - [[Sailendra Mataram — Region]], [[Angkor — Region]], [[Champa — Region]], [[Bali — Region]], [[Pagan — Region]]
 - [[Buddhism — Vector]], [[Brahmin Royal — Vector]], [[Pallava Script — Vector]], [[Trade Maritime — Vector]], [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| Virtual Angkor | 3D reconstruction + teaching modules | https://www.virtualangkor.com/ | modules + scenes |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| SEAlang Classics | epigraphy corpus | http://sealang.net/classic/ | Cham, Khmer, Mon, Pyu inscriptions |
+
+## Sources
 - Coedès, George. *The Indianized States of Southeast Asia*. Honolulu, 1968.
 - Mabbett, I. W. "The 'Indianization' of Southeast Asia: Reflections on the Historical Sources." *Journal of Southeast Asian Studies* 8.2 (1977): 143–161.
 - Wolters, O. W. *History, Culture, and Region in Southeast Asian Perspectives*. Rev. ed. Ithaca, 1999.

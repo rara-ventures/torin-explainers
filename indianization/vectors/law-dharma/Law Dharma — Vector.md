@@ -72,8 +72,16 @@ Did Indian law apply, or was it invoked? Textualists read the codes as working l
 
 - [[Law Dharma — Timeline]] · [[Champa — Region]] · [[Angkor — Region]] · [[Sukhothai Ayutthaya — Region]] · [[Bali — Region]] · [[Brahmin Royal — Vector]] · [[Buddhism — Vector]] · [[Pallava Script — Vector]] · [[Trade Maritime — Vector]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| Great Courses — Foundations of Eastern Civilization | lecture course | https://www.thegreatcourses.com/ | paid course; guidebook PDF |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Baker and Phongpaichit, *The Palace Law of Ayutthaya and the Thammasat* (2016).
 - Cœdès, "La stèle de Tuol Rolom Tim," *Journal Asiatique* 242 (1954): 49–67.
 - Hoadley and Hooker, *An Introduction to Javanese Law* (1981).

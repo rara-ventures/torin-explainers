@@ -80,8 +80,16 @@ Bamiyan's dates are radiocarbon-anchored (544–595 and 591–644), but older sc
 - **Relay peers:** [[Persia — Region]] · [[China — Region]] · [[Rome Byzantium — Region]]
 - **Category:** [[Gandhara]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| Great Courses — Foundations of Eastern Civilization | lecture course | https://www.thegreatcourses.com/ | paid course; guidebook PDF |
+
+## Sources
 - Hultzsch, Eugen. *Inscriptions of Asoka*. Oxford, 1925.
 - Marshall, John. *Taxila*. 3 vols. Cambridge, 1951.
 - Bopearachchi, Osmund. *Monnaies gréco-bactriennes et indo-grecques*. Paris, 1991.

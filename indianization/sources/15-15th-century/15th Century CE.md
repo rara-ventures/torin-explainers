@@ -79,8 +79,16 @@ Third, the 1471 casualty figures. The 40,000 dead and 30,000 captured derive fro
 - **Vectors:** [[Trade Maritime — Vector]] · [[Brahmin Royal — Vector]] · [[Law Dharma — Vector]] · [[Buddhism — Vector]]
 - **Timeline:** [[15th Century CE — Timeline]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Majapahit (Ep. 21) | podcast + YouTube | https://youtu.be/01CZBhZM430 | YouTube CC |
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+
+## Sources
 - Andaya, Barbara Watson. 2008. *A History of Early Modern Southeast Asia, 1400–1830*. Cambridge University Press.
 - Chandler, David P. 1983. *A History of Cambodia*. Westview Press.
 - Coedès, George. 1968. *The Indianized States of Southeast Asia*. University of Hawaii Press.

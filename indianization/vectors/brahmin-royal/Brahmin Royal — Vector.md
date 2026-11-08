@@ -76,8 +76,16 @@ Portable and cheap, it could be bought by any polity with a surplus: a Cham sanc
 - **Vectors:** [[Pallava Script — Vector]] · [[Buddhism — Vector]] · [[Art Architecture — Vector]] · [[Law Dharma — Vector]] · [[Trade Maritime — Vector]]
 - **Categories:** [[Buddhism Vector]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| Great Courses — Foundations of Eastern Civilization | lecture course | https://www.thegreatcourses.com/ | paid course; guidebook PDF |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Baker, Chris, and Pasuk Phongpaichit. *A History of Ayutthaya*. Cambridge UP, 2017.
 - Coedès, George. *The Indianized States of Southeast Asia*. Honolulu, 1968.
 - Gonda, Jan. *Sanskrit in Indonesia*. Nagpur, 1952.

@@ -76,8 +76,16 @@ Licchavi chronology rests almost entirely on the 464 inscription; king lists bef
 - **Relay peers:** [[Gandhara — Region]] · [[China — Region]]
 - **Category:** [[Himalaya]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| Great Courses — Foundations of Eastern Civilization | lecture course | https://www.thegreatcourses.com/ | paid course; guidebook PDF |
+
+## Sources
 - Slusser, Mary Shepherd. *Nepal Mandala: A Cultural Study of the Kathmandu Valley*. Princeton, 1982.
 - Petech, Luciano. *Mediaeval History of Nepal (c. 750–1482)*. IsMEO, 1984.
 - Riccardi, Theodore. "The Inscription of King Mānadeva at Changu Narayan." *Journal of the American Oriental Society* 109.4 (1989): 611–620.

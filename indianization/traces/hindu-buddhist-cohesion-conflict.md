@@ -52,3 +52,12 @@ status: draft
 - `regions/himalaya-nepal-bhutan/Himalaya — Timeline.md:694` — Nepal Licchavi/Malla dyarchy (4 new rows)
 - `regions/champa/Champa — Timeline.md:875` (Dong Duong), `regions/sailendra-mataram/Sailendra Mataram — Timeline.md:778` (Kalasan), `regions/pagan/Pagan — Timeline.md:1056` (Ari), `regions/angkor/Angkor — Timeline.md:1181` (Bayon)
 
+
+## Watch & listen
+
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| Fall of Civilizations — The Bagan Empire / Pagan (Ep. 16) | podcast + YouTube | https://www.youtube.com/watch?v=ZR48gFySJoM | YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |

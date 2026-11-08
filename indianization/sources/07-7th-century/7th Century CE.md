@@ -69,8 +69,16 @@ Srivijaya's capital is unresolved: Palembang remains the Coedès–Manguin ortho
 - **Regions:** [[Kedah Srivijaya — Region]] · [[Champa — Region]] · [[Funan Chenla — Region]] · [[Dvaravati — Region]] · [[China — Region]]
 - **Vectors:** [[Buddhism — Vector]] · [[Pallava Script — Vector]] · [[Brahmin Royal — Vector]] · [[Trade Maritime — Vector]] · [[Art Architecture — Vector]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Byzantium (Ep. 11) | podcast + YouTube | https://www.youtube.com/watch?v=HvzoAfpCvbw | YouTube CC |
+| Fall of Civilizations — The Bagan Empire / Pagan (Ep. 16) | podcast + YouTube | https://www.youtube.com/watch?v=ZR48gFySJoM | YouTube CC |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Coedès, George. *The Indianized States of Southeast Asia*. Honolulu: University of Hawai'i Press, 1968.
 - de Casparis, J. G. *Prasasti Indonesia II: Selected Inscriptions from the 7th to the 9th Century A.D.* Bandung: Masa Baru, 1956.
 - Goodall, Dominic, and Arlo Griffiths. "The Short Foundation Inscriptions of Prakāśadharman-Vikrāntavarman, King of Campā." *Indo-Iranian Journal* 56 (2013): 419–440.

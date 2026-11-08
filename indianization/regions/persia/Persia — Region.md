@@ -80,8 +80,16 @@ If trade alone produced Indianization, Sasanian Iraq would look like Funan. It d
 - **Neighbours:** [[Gandhara — Region]] · [[Rome Byzantium — Region]] · [[China — Region]]
 - **Category:** [[Persia]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Achaemenid Persia (Ep. 20) | podcast + YouTube | https://www.youtube.com/watch?v=qRYdivPIWh4 | YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+
+## Sources
 - Darius I. Behistun (DB) and Naqsh-e Rostam (DNa) inscriptions. c. 520–486 BCE.
 - Herodotus. *Histories*, 3.91–94.
 - Salomon, Richard. *Indian Epigraphy*. Oxford, 1998.

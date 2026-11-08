@@ -69,8 +69,16 @@ The date of the Buddha is the largest uncertainty. The traditional 563–483 BCE
 
 Adjacent centuries: [[BCE Prelude]] and [[2nd Century BCE]]. Regions: [[Gandhara — Region]], [[Persia — Region]]. Vectors: [[Trade Maritime — Vector]], [[Pallava Script — Vector]], [[Buddhism — Vector]].
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Achaemenid Persia (Ep. 20) | podcast + YouTube | https://www.youtube.com/watch?v=qRYdivPIWh4 | YouTube CC |
+| Fall of Civilizations — Han China (Ep. 10) | podcast + YouTube | https://youtu.be/U9W7cOMGXyA | YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Briant, Pierre. 2002. *From Cyrus to Alexander*. Winona Lake: Eisenbrauns.
 - Kent, Roland G. 1953. *Old Persian: Grammar, Texts, Lexicon*. New Haven: American Oriental Society.
 - Herodotus. 1998. *The Histories*. Trans. Robin Waterfield. Oxford: OUP.

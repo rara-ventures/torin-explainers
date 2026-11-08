@@ -75,8 +75,16 @@ Pagan's fall is contested in causation, not date: the chronicles blame the *Taru
 
 [[12th Century CE]] · [[14th Century CE]] · [[Angkor — Region]] · [[Pagan — Region]] · [[Champa — Region]] · [[Sukhothai Ayutthaya — Region]] · [[Majapahit — Region]] · [[Buddhism — Vector]] · [[Law Dharma — Vector]] · [[13th Century CE — Timeline]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| Fall of Civilizations — The Bagan Empire / Pagan (Ep. 16) | podcast + YouTube | https://www.youtube.com/watch?v=ZR48gFySJoM | YouTube CC |
+| Fall of Civilizations — Majapahit (Ep. 21) | podcast + YouTube | https://youtu.be/01CZBhZM430 | YouTube CC |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Bade, David. 2013. *Of Palm Wine, Women and War*. ISEAS.
 - Chamberlain, James R., ed. 1991. *The Ram Khamhaeng Controversy*. Siam Society.
 - Coedès, George. 1968. *The Indianized States of Southeast Asia*. Hawai'i Press.

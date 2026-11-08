@@ -69,8 +69,16 @@ Chenla's "conquest" of Funan rests on single remarks in Chinese annals; Vickery 
 - **Regions:** [[Funan Chenla — Region]] · [[Champa — Region]] · [[Kedah Srivijaya — Region]] · [[Dvaravati — Region]] · [[China — Region]]
 - **Vectors:** [[Pallava Script — Vector]] · [[Brahmin Royal — Vector]] · [[Buddhism — Vector]] · [[Art Architecture — Vector]] · [[Trade Maritime — Vector]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Byzantium (Ep. 11) | podcast + YouTube | https://www.youtube.com/watch?v=HvzoAfpCvbw | YouTube CC |
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Baptiste, Pierre. "Monuments du Champa: La date des styles de My Son A1 et de Chánh Lô." *Monuments et mémoires de la Fondation Eugène Piot* (2009).
 - Coedès, George. *The Indianized States of Southeast Asia*. Honolulu: University of Hawai'i Press, 1968.
 - Jacques, Claude. "'Funan', 'Zhenla': The Reality Concealed by These Chinese Views." In *Early South East Asia*. Oxford University Press, 1979.

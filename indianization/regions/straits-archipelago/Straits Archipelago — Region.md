@@ -86,8 +86,16 @@ Sungai Batu's date is the sharpest dispute: a single outlier charcoal date of 78
 - **Neighbours:** [[Kedah Srivijaya — Region]] · [[Sailendra Mataram — Region]] · [[Champa — Region]] · [[Mainland SE Asia — Region]]
 - **Category:** [[Straits Archipelago]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| SEAlang Classics | epigraphy corpus | http://sealang.net/classic/ | Cham, Khmer, Mon, Pyu inscriptions |
+
+## Sources
 - Coedès, George. *The Indianized States of Southeast Asia*. Honolulu: University of Hawaii Press, 1968.
 - Wolters, O. W. *Early Indonesian Commerce: A Study of the Origins of Srivijaya*. Ithaca: Cornell University Press, 1967.
 - Wheatley, Paul. *The Golden Khersonese*. Kuala Lumpur: University of Malaya Press, 1961.

@@ -79,8 +79,16 @@ Buddhism also explains state formation. Where Angkor rested on a Shaiva *devaraj
 - **Vectors:** [[Brahmin Royal — Vector]] · [[Art Architecture — Vector]] · [[Pallava Script — Vector]] · [[Buddhism Vector]]
 - **Category:** [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Bagan Empire / Pagan (Ep. 16) | podcast + YouTube | https://www.youtube.com/watch?v=ZR48gFySJoM | YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Acri, Andrea, ed. 2016. *Esoteric Buddhism in Mediaeval Maritime Asia*. ISEAS.
 - Brown, Robert L. 1996. *The Dvaravati Wheels of the Law and the Indianization of South East Asia*. Brill.
 - Cœdès, George. 1968. *The Indianized States of Southeast Asia*. University of Hawai'i Press.

@@ -88,8 +88,16 @@ Confidence: high on the reign and inscriptions; medium on C.174; low on Bhadrava
 - [[Champa — Region]] · [[Funan Chenla — Region]] · [[Gandhara — Region]] · [[Rome Byzantium — Region]]
 - [[Brahmin Royal — Vector]] · [[Pallava Script — Vector]] · [[Trade Maritime — Vector]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Byzantium (Ep. 11) | podcast + YouTube | https://www.youtube.com/watch?v=HvzoAfpCvbw | YouTube CC |
+| Fall of Civilizations — Han China (Ep. 10) | podcast + YouTube | https://youtu.be/U9W7cOMGXyA | YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Coedès, G. (1968). *The Indianized States of Southeast Asia*. Hawaii.
 - Finot, L. (1902). "Notes d'épigraphie indochinoise." *BEFEO* 2.
 - Majumdar, R. C. (1927). *Ancient Indian Colonies in the Far East*, I: *Champa*. Lahore.

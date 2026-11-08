@@ -69,8 +69,16 @@ Menander's dates are numismatic approximations; the c. 165/155–130 BCE range i
 
 Adjacent: [[6th Century BCE]], [[BCE Prelude]] and [[2nd Century CE]]. Regions: [[Gandhara — Region]]. Vectors: [[Buddhism — Vector]], [[Trade Maritime — Vector]], [[Pallava Script — Vector]], [[Brahmin Royal — Vector]].
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Han China (Ep. 10) | podcast + YouTube | https://youtu.be/U9W7cOMGXyA | YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+
+## Sources
 - Bopearachchi, Osmund. 1991. *Monnaies gréco-bactriennes et indo-grecques*. Paris: Bibliothèque nationale.
 - Salomon, Richard. 1998. *Indian Epigraphy*. New York: OUP.
 - Mahadevan, Iravatham. 2003. *Early Tamil Epigraphy*. Chennai: Cre-A.

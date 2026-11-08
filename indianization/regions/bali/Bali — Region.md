@@ -75,8 +75,16 @@ Bali keeps Indianization from collapsing into a diffusionist story. Elsewhere th
 - **Neighbours:** [[Majapahit — Region]] · [[Sailendra Mataram — Region]] · [[Champa — Region]]
 - **Category:** [[Bali]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| SEAlang Classics | epigraphy corpus | http://sealang.net/classic/ | Cham, Khmer, Mon, Pyu inscriptions |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Ardika, I Wayan, and Peter Bellwood. "Sembiran: the beginnings of Indian contact with Bali." *Antiquity* 65 (1991).
 - Ardika, I Wayan. "Blanjong: An Ancient Port Site in Southern Bali." In *Form, Macht, Differenz*, 2009.
 - Coedès, George. *The Indianized States of Southeast Asia*. 1968.

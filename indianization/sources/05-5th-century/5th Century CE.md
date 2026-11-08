@@ -90,8 +90,16 @@ Confidence: high on the inscriptions' content, medium on Kutai's chronology, low
 - [[3rd Century CE]] · [[4th Century CE]] · [[6th Century CE]] · [[7th Century CE]]
 - [[Funan Chenla — Region]] · [[Dvaravati — Region]] · [[Kedah Srivijaya — Region]] · [[Champa — Region]] · [[Buddhism — Vector]] · [[Brahmin Royal — Vector]] · [[Pallava Script — Vector]] · [[Trade Maritime — Vector]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Byzantium (Ep. 11) | podcast + YouTube | https://www.youtube.com/watch?v=HvzoAfpCvbw | YouTube CC |
+| Fall of Civilizations — Han China (Ep. 10) | podcast + YouTube | https://youtu.be/U9W7cOMGXyA | YouTube CC |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Coedès, G. (1968). *The Indianized States of Southeast Asia*. Hawaii.
 - Vogel, J. Ph. (1918). "The Yupa Inscriptions of King Mulavarman." *BKI* 74.
 - de Casparis, J. G. (1956). *Selected Inscriptions from the 7th to the 9th Century A.D.* Masa Baru.

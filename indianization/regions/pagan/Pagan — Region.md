@@ -83,8 +83,16 @@ Third, Pagan is contested: Aung-Thwin's *Mists of Rāmañña* (2005) calls the M
 - **Vectors:** [[Buddhism — Vector]] · [[Brahmin Royal — Vector]] · [[Art Architecture — Vector]]
 - **Category:** [[Pagan]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Bagan Empire / Pagan (Ep. 16) | podcast + YouTube | https://www.youtube.com/watch?v=ZR48gFySJoM | YouTube CC |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| EFEO | research + archives | https://www.efeo.fr/ | Angkor, Cham, Khmer archives |
+
+## Sources
 - Aung-Thwin, Michael. 1985. *Pagan: The Origins of Modern Burma*. University of Hawai'i Press.
 - Aung-Thwin, Michael. 2005. *The Mists of Rāmañña*. University of Hawai'i Press.
 - Cœdès, George. 1968. *The Indianized States of Southeast Asia*. University of Hawai'i Press.

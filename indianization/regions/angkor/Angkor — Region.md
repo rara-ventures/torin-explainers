@@ -87,8 +87,16 @@ Third, Angkor shows the **Hindu → Buddhist transition as retention, not replac
 - **Vectors:** [[Brahmin Royal — Vector]] · [[Buddhism — Vector]] · [[Art Architecture — Vector]]
 - **Category:** [[Angkor]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| Virtual Angkor | 3D reconstruction + teaching modules | https://www.virtualangkor.com/ | modules + scenes |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| EFEO | research + archives | https://www.efeo.fr/ | Angkor, Cham, Khmer archives |
+
+## Sources
 - Coedès, George. *The Indianized States of Southeast Asia*. Honolulu, 1968.
 - Wolters, O. W. *History, Culture, and Region in Southeast Asian Perspectives*. Ithaca, 1999.
 - Kulke, Hermann. *The Devarāja Cult*. Ithaca, 1978.

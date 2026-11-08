@@ -79,8 +79,16 @@ Finally, the region is a historiographical fault line. The Sukhothai "golden age
 - **Upstream:** [[Dvaravati — Region]] · [[Angkor — Region]] · [[Pagan — Region]] · [[Sri Lanka — Region]]
 - **Framing/vectors:** [[Mainland SE Asia — Region]] · [[Trade Maritime — Vector]] · [[Buddhism — Vector]] · [[Brahmin Royal — Vector]] · [[Sukhothai Ayutthaya]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| SEAlang Classics | epigraphy corpus | http://sealang.net/classic/ | Cham, Khmer, Mon, Pyu inscriptions |
+
+## Sources
 - Baker, Chris, and Pasuk Phongpaichit. 2016. *The Palace Law of Ayutthaya and the Thammasat*. Cornell SEAP.
 - Baker, Chris, and Pasuk Phongpaichit. 2017. *A History of Ayutthaya*. Cambridge UP.
 - Chamberlain, James R., ed. 1991. *The Ram Khamhaeng Controversy*. Siam Society.

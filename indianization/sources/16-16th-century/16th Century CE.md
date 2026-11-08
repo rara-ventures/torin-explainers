@@ -80,8 +80,16 @@ The "Bali as Hindu refuge" thesis is the century's most contested inheritance. V
 - **Vectors:** [[Trade Maritime — Vector]] · [[Brahmin Royal — Vector]] · [[Art Architecture — Vector]] · [[Buddhism — Vector]]
 - **Timeline:** [[16th Century CE — Timeline]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| Fall of Civilizations — Majapahit (Ep. 21) | podcast + YouTube | https://youtu.be/01CZBhZM430 | YouTube CC |
+| Fall of Civilizations — The Khmer Empire / Angkor (Ep. 5) | podcast + YouTube | https://fallofcivilizationspodcast.com/2019/05/06/episode-5-of-fall-of-civilizations-is-now-live/ | episode page; YouTube CC |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+
+## Sources
 - Andaya, Barbara Watson. 2008. *A History of Early Modern Southeast Asia, 1400–1830*. Cambridge University Press.
 - Creese, Helen. 2016. *Bali in the Early Nineteenth Century*. Brill.
 - Pigeaud, Theodore G. Th., and H. J. de Graaf. 1976. *Islamic States in Java, 1500–1700*. Martinus Nijhoff.

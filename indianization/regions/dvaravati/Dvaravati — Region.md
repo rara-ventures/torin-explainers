@@ -78,8 +78,16 @@ Three things remain open. **Chronology:** the 6th–11th-century frame is pushed
 - **Framing:** [[Mainland SE Asia — Region]] · [[Trade Maritime — Vector]] · [[Art Architecture — Vector]]
 - **Category:** [[Dvaravati]] · [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| In Our Time (BBC Radio 4) | podcast | https://www.bbc.co.uk/programmes/b006qykl | episode archive + transcripts |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+| SEAlang Classics | epigraphy corpus | http://sealang.net/classic/ | Cham, Khmer, Mon, Pyu inscriptions |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+
+## Sources
 - Boeles, Jan J. 1964. "The King of Sri Dvāravatī and his Regalia." *Journal of the Siam Society* 52(1).
 - Brown, Robert L. 1996. *The Dvāravatī Wheels of the Law and the Indianization of South East Asia*. Leiden: Brill.
 - Cœdès, George. 1968. *The Indianized States of Southeast Asia*. Honolulu: University of Hawai'i Press.

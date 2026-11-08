@@ -79,8 +79,16 @@ Three disputes matter. The Võ Cạnh date rests on palaeography, which gives a 
 - [[Pallava Script]]
 - [[Indianization Sources]]
 
-## Sources
+## Watch & listen
 
+| Resource | Type | Link | Captions / readout |
+|---|---|---|---|
+| SEAlang Classics | epigraphy corpus | http://sealang.net/classic/ | Cham, Khmer, Mon, Pyu inscriptions |
+| GRETIL | primary texts (Sanskrit/Pali/Old Javanese) | https://gretil.sub.uni-goettingen.de/gretil.html | full text |
+| OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| SEAlang Library | language + corpora | http://sealang.net/ | dictionaries + corpora |
+
+## Sources
 - Ali, Daud. 2011. "The Early Inscriptions of Indonesia and the Problem of the Sanskrit Cosmopolis." In *Early Interactions between South and Southeast Asia*, 277–298. Singapore: ISEAS.
 - Coedès, George. 1968. *The Indianized States of Southeast Asia*. Honolulu: University of Hawai'i Press.
 - de Casparis, J. G. 1975. *Indonesian Palaeography*. Leiden: Brill.
