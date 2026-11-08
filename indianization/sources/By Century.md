@@ -39,7 +39,7 @@ status: draft
 | [`03-3rd-century/`](./03-3rd-century/) | 3rd | 1 Contact | Funan Fan Shiman, Champa Lâm Ấp | → champa |
 | [`04-4th-century/`](./04-4th-century/) | 4th | 1 Contact | Champa My Son E1 (Bhadravarman), Gupta start | → champa |
 | [`05-5th-century/`](./05-5th-century/) | 5th | 2 Transplant | Chenla rise, Dvaravati Dharma wheels | → dvaravati |
-| [`06-6th-century/`](./06-6th-century/) | 6th | 2 Transplant | Champa My Son A1, Kedah proto-city | → kedah-srivijaya |
+| [`06-6th-century/`](./06-6th-century/) | 6th | 2 Transplant | Champa Mỹ Sơn E1/E4, Kedah proto-city | → kedah-srivijaya |
 | [`07-7th-century/`](./07-7th-century/) | 7th | 2 Transplant | **Kedukan Bukit 683** (Srivijaya), Xuanzang | → kedah-srivijaya |
 | [`08-8th-century/`](./08-8th-century/) | 8th | 3 Classical | **Borobudur start ~782**, Kalasan 778, Jayavarman II 802 | → sailendra-mataram |
 | [`09-9th-century/`](./09-9th-century/) | 9th | 3 Classical | Borobudur done, Prambanan, Angkor Hariharalaya | → angkor |

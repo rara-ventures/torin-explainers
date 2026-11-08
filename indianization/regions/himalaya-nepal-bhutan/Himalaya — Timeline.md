@@ -4,7 +4,7 @@ region: ["Himalaya"]
 status: draft
 ---
 
-> **Verified anchors 2026-10-31:** Kalasan 778 (Sarkar CC extant Yogyakarta) ✓ high, Angkor K.235 802 (Sdok Kak Thom) ✓ high, Kalyani 1472 (Luce) ✓ medium, Mahavamsa 36.111 Vetullavada ✓ medium (Mahavihara partisan), Swayambhu 1751 trilingual ✓ high.
+> **Verified anchors 2026-10-31:** Kalasan 778 (Sarkar CC extant Yogyakarta) ✓ high, Angkor K.235 802 (Sdok Kak Thom) ✓ high, Kalyani 1476–79 (Luce) ✓ medium, Mahavamsa 36.111 Vetullavada ✓ medium (Mahavihara partisan), Swayambhu 1751 trilingual ✓ high.
 
 > ⚠️ **Draft — Buddhism gap filled 2026-10-31:** See thesis.md + Confidence col.
 

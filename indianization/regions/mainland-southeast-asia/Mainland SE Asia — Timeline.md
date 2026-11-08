@@ -11,7 +11,7 @@ status: verified
 | Year | Event | Indianization Link | Source | Confidence |
 |------|------|------|------|------|
 | 192 CE | Linyi (Champa) — Khu Lien rebels vs Han at Xianglin | Austronesian Sa Huynh base secondarily Indianized via Oc Eo | Momoki 1996; Coedès | medium |
-| c. 350–400 CE* (Vo Canh late 3rd–early 4th c. per Zakharov; My Son A1 380–413) | Vo Canh Sanskrit 2nd–3rd c. contested → Zakharov late, My Son A1 brick Shiva temples | Kaundinya Brahmins, rajadharma, Pallava script | Filliozat 1969; Schweyer; Zakharov 2010; Griffiths 2025 | medium (contested) |
+| c. 350–400 CE* (Vo Canh late 3rd–early 4th c. per Zakharov; Mỹ Sơn E1/E4 380–413) | Vo Canh Sanskrit 2nd–3rd c. contested → Zakharov late, Mỹ Sơn E1/E4 brick Shiva temples (A1 is later) | Kaundinya Brahmins, rajadharma, Pallava script | Filliozat 1969; Schweyer; Zakharov 2010; Griffiths 2025 | medium (contested) |
 | mid-5th c. (440–490) | Vat Phou Shrestapura — Stele K.365 Devanika, titha Kurukshetra at Lingaparvata, Bhadreshvara | Sanskrit Brahmi reframes landscape as Indian tirtha, tutelary | Coedès BEFEO 48; Jacques | medium |
 | c. 500–630 CE | Proto-Dvaravati — U Thong, Nakhon Pathom moated cities, Sridvaravati coins 6–7th c. | Gupta-style Buddha, Pali ye dhamma, trans-peninsular trade | Dupont 1959; Brown 1996 | medium |
 | 6th–11th c. CE | Dvaravati florescence (550–1000) — moated rectangles, Dhamma-wheel pillars, Prakhon Chai | Predominantly Theravada + Mahayana/Brahmanical | Higham & Thosarat; Revire 2006 | medium |

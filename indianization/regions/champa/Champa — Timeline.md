@@ -12,7 +12,7 @@ status: verified
 | 192 | Khu Liên founds Lâm Ấp (Linyi) — first Cham polity north of Hải Vân | Chinese Hou Hanshu |
 | c. 350 | Dong Yen Chau C.174 — oldest Old Cham (Austronesian) with Nāga curse | Cham language Hinduized |
 | c. 350–400 CE | Early Mahayana at Tra Kieu/Thu Bon — votive tablets, Sanskrit dharma inscriptions | Amaravati → Cham via Funan/Oc Eo — Schweyer 2011 (medium) |
-| 380–413 | Bhadravarman I C.72 My Son A1: Simhapura, Bhadreśvara valley, invites Brahmins | -varman, Shaiva devaraja |
+| 380–413 | Bhadravarman I C.72: Simhapura, Bhadreśvara valley (timber shrine; brick A1 later), invites Brahmins | -varman, Shaiva devaraja |
 | 605 CE | Sui Yangdi sacks Linyi, captures 1350 Buddhist sutras in Sanskrit/Pali — proves pre-600 Cham library | Cham royal archive (captured) — Suishu 64 (medium) |
 | 658 | Prakasadharma C.96 — first `Campapura`, Kaundinya–Soma Nāga myth, Gangaraja | Naga ancestor |
 | 774 | Javanese/Sailendra raid sacks Po Nagar (C.38) — jewelled Mukhalinga stolen | Malay-Java rivalry |
