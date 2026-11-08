@@ -31,6 +31,7 @@ Media, documentaries, primary-source archives and transcripts for the Indianizat
 
 ## How to use this list
 
+- **Deep-research prompt:** [[indianization/resources/Deep Research Prompt|Deep Research Prompt]] — copy-paste prompt that turns this index into an evidence audit (claim register → primary source → verdict → minimal edit).
 - **Listen first** for the narrative arc (Fall of Civilizations, In Our Time), then **read the inscription** (SEAlang Classics, GRETIL) and update the relevant `— Timeline.md`.
 - **Captions/readouts:** YouTube episodes have CC; podcast pages carry show notes; GRETIL/SEAlang give full text. Some BBC In Our Time pages include transcripts.
 - **Do not treat any of these as primary evidence.** They are orientation; the notes' `## Debates & confidence` sections tell you where the real uncertainty sits.

@@ -40,6 +40,8 @@ This dashboard is pre-filtered for your question: *How did Champa's Buddhism lea
 
 [[indianization/resources/Watch & Listen|Media index]] — episodes, documentaries, epigraphy corpora, maps, transcripts.
 
+[[indianization/resources/Deep Research Prompt|Deep Research Prompt]] — copy-paste audit prompt for turning a note's claims into cited anchors.
+
 ---
 
 ## How to Filter Yourself
