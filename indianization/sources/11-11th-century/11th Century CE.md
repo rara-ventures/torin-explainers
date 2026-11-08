@@ -7,7 +7,7 @@ region: ["Angkor", "Srivijaya"]
 vector: ["Trade Maritime", "Brahmin Royal"]
 topics: ['Angkor', 'Srivijaya', 'Trade Maritime', 'Brahmin Royal']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 11th Century CE

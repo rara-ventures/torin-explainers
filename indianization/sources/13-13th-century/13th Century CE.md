@@ -7,7 +7,7 @@ region: ["Pagan", "Sailendra Mataram"]
 vector: ["Buddhism"]
 topics: ['Pagan', 'Sailendra Mataram', 'Buddhism']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 13th Century CE

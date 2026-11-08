@@ -1,6 +1,6 @@
 ---
 categories: ["[[Indianization Sources]]"]
-status: draft
+status: complete
 region: ["Funan Chenla"]
 indianized: true
 topics: ['Funan Chenla']

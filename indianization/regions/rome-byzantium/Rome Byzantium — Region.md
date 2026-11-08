@@ -3,7 +3,7 @@ categories: ["[[Indianization Sources]]"]
 region: ["Rome Byzantium"]
 indianized: false
 created: 2026-10-30
-status: draft
+status: complete
 ---
 
 # Rome & Byzantium — Erythraean Sea to Oc Eo

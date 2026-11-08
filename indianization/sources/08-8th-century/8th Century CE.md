@@ -7,7 +7,7 @@ region: ["Sailendra Mataram", "Champa"]
 vector: ["Buddhism", "Art Architecture"]
 topics: ['Sailendra Mataram', 'Champa', 'Buddhism', 'Art Architecture']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 8th Century CE

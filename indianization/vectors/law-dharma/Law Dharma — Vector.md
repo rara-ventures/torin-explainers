@@ -3,7 +3,7 @@ categories: ["[[Indianization Sources]]"]
 vector: ["Law Dharma"]
 topics: ["Law Dharma"]
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # Vector: Dharmaśāstra, Manu & Local Law

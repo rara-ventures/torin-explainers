@@ -2,7 +2,7 @@
 categories: ["[[Indianization Sources]]"]
 region: ["Dvaravati"]
 indianized: true
-status: draft
+status: complete
 topics: ['Dvaravati']
 created: 2026-10-29
 ---

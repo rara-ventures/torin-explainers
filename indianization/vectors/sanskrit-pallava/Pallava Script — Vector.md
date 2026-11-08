@@ -3,7 +3,7 @@ categories: ["[[Indianization Sources]]"]
 vector: ["Pallava Script"]
 topics: ["Pallava Script"]
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # Vector: Sanskrit & Pallava-Grantha Script

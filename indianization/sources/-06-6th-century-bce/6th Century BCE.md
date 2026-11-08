@@ -7,7 +7,7 @@ region: ["Gandhara", "Persia"]
 vector: ["Trade Maritime", "Pallava Script"]
 topics: ['Gandhara', 'Persia', 'Trade Maritime', 'Pallava Script']
 created: 2026-10-30
-status: draft
+status: complete
 ---
 
 # 6th Century BCE (600–501 BCE)

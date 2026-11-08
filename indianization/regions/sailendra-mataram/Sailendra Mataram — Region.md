@@ -4,7 +4,7 @@ region: ["Sailendra Mataram"]
 indianized: true
 topics: ['Sailendra Mataram', 'Java']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # Sailendra–Mataram (Java)

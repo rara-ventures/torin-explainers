@@ -3,7 +3,7 @@ categories: ["[[Indianization Sources]]"]
 vector: ["Art Architecture"]
 topics: ["Art Architecture"]
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # Vector: Art & Architecture — Temple as Cosmos

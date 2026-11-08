@@ -7,7 +7,7 @@ region: ["Funan Chenla", "Dvaravati"]
 vector: ["Buddhism"]
 topics: ['Funan Chenla', 'Dvaravati', 'Buddhism']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 5th Century CE

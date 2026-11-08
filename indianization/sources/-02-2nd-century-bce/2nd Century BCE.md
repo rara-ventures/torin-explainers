@@ -7,7 +7,7 @@ region: ["Gandhara"]
 vector: ["Buddhism", "Trade Maritime"]
 topics: ['Gandhara', 'Buddhism', 'Trade Maritime', 'Pallava Script']
 created: 2026-10-30
-status: draft
+status: complete
 ---
 
 # 2nd Century BCE (200–101 BCE)

@@ -7,7 +7,7 @@ region: ["Funan Chenla", "Champa"]
 vector: ["Pallava Script"]
 topics: ['Funan Chenla', 'Champa', 'Pallava Script']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 2nd Century CE

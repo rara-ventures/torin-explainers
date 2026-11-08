@@ -7,7 +7,7 @@ region: ["Bali"]
 vector: ["Trade Maritime"]
 topics: ['Bali', 'Trade Maritime']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 16th Century CE

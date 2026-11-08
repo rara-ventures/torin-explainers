@@ -3,7 +3,7 @@ categories: ["[[Indianization Sources]]"]
 vector: ["Brahmin Royal"]
 topics: ["Brahmin Royal"]
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # Vector: Brahmins, Devaraja & Cakravartin

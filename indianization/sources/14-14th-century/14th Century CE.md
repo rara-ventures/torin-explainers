@@ -7,7 +7,7 @@ region: ["Majapahit"]
 vector: ["Trade Maritime"]
 topics: ['Majapahit', 'Trade Maritime']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 14th Century CE

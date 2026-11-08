@@ -4,7 +4,7 @@ region: ["Pagan"]
 indianized: true
 topics: ['Pagan']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # Pagan (Myanmar)

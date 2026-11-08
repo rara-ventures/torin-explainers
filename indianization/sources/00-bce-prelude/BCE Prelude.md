@@ -7,7 +7,7 @@ region: ["Funan Chenla", "Sri Lanka", "Gandhara"]
 vector: ["Trade Maritime", "Buddhism"]
 topics: ['Funan Chenla', 'Sri Lanka', 'Gandhara', 'Trade Maritime', 'Buddhism']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # BCE Prelude (500 BCE – 1st c. CE)

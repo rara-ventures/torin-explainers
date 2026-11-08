@@ -4,7 +4,7 @@ region: ["Majapahit"]
 indianized: true
 topics: ['Majapahit']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # Majapahit & Successors (Java–Malay)

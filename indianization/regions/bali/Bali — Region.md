@@ -1,6 +1,6 @@
 ---
 categories: ["[[Indianization Sources]]"]
-status: draft
+status: complete
 region: ["Bali"]
 indianized: true
 topics: ['Bali']

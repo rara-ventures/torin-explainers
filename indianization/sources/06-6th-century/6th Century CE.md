@@ -7,7 +7,7 @@ region: ["Funan Chenla", "Champa"]
 vector: ["Buddhism"]
 topics: ['Funan Chenla', 'Champa', 'Buddhism']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 6th Century CE

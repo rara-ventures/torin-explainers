@@ -7,7 +7,7 @@ region: ["Srivijaya", "Champa"]
 vector: ["Buddhism", "Trade Maritime"]
 topics: ['Srivijaya', 'Champa', 'Buddhism', 'Trade Maritime']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 7th Century CE

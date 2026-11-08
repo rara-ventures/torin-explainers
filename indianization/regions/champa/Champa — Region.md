@@ -4,7 +4,7 @@ region: ["Champa"]
 indianized: true
 topics: ['Champa']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # Champa (Vietnam Coast)

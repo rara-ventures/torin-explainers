@@ -3,7 +3,7 @@ categories: ["[[Indianization Sources]]"]
 vector: ["Trade Maritime"]
 topics: ["Trade Maritime"]
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # Vector: Monsoon Trade & Port-Polities

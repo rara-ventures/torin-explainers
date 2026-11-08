@@ -7,7 +7,7 @@ region: ["Champa"]
 vector: ["Brahmin Royal", "Pallava Script"]
 topics: ['Champa', 'Brahmin Royal', 'Pallava Script']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 4th Century CE

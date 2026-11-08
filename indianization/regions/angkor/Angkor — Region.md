@@ -4,7 +4,7 @@ region: ["Angkor"]
 indianized: true
 topics: ['Angkor']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # Angkor (Cambodia)

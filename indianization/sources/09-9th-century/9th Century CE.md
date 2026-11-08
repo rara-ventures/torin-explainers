@@ -7,7 +7,7 @@ region: ["Sailendra Mataram", "Angkor"]
 vector: ["Art Architecture"]
 topics: ['Sailendra Mataram', 'Angkor', 'Art Architecture']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 9th Century CE

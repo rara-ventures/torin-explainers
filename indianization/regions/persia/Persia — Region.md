@@ -3,7 +3,7 @@ categories: ["[[Indianization Sources]]"]
 region: ["Persia"]
 indianized: false
 created: 2026-10-30
-status: draft
+status: complete
 ---
 
 # Persia — Sasanian Gate (Ctesiphon & Sogdian Network)

@@ -53,10 +53,10 @@ Or pick an axis:
 ## Status
 
 - Scaffolding: ✅ 19 century folders (-06,-02,00-16), 18 regions (14 core + 4 relay per thesis.md), 6 vectors, 2 traces — all timeline notes carry frontmatter (`century`/`century_num`/`phase`/`region`/`vector`/`status`)
-- Sources ingestion: ✅ 266 dated rows across all timeline notes (Vo Canh, My Son, Kedukan Bukit, Kalasan, Borobudur, Angkor K.235) + Chinese annals (Liangshu on Funan, Songshi on Champa); every row carries a source and confidence note
-- Status legend: `verified` = anchor checked; `draft` = plausible, needs one more source; `todo` = placeholder; `stub` = <3 rows; `deprecated` = superseded; `complete` = done
+- Sources ingestion: ✅ 606 dated rows across all timeline notes (Vo Canh, My Son, Kedukan Bukit, Kalasan, Borobudur, Angkor K.235) + Chinese annals (Liangshu on Funan, Songshi on Champa); every row carries a source and confidence note
+- Status legend: `complete` = note written and reviewed (secondary sources cited, debates flagged); `verified` = primary anchor checked; `draft` = timeline ledger or scaffold pending review; `todo` = placeholder; `stub` = <3 rows; `deprecated` = superseded
 - `original/` is untouched history (git `R` from root), so Torin archive stays citable.
 
 ---
 
-*Next: promote `draft` timelines (Bali, Majapahit, Dvaravati, Funan-Chenla) to `verified` with 3+ cited rows each.*
+*Next: primary-source spot-check of the low-confidence rows flagged in each note's Debates & confidence section, then promote timelines from `draft` to `verified`.*

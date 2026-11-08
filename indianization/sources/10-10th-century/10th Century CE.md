@@ -7,7 +7,7 @@ region: ["Angkor", "Pagan"]
 vector: ["Trade Maritime"]
 topics: ['Angkor', 'Pagan', 'Trade Maritime']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 10th Century CE

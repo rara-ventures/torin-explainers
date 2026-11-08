@@ -7,7 +7,7 @@ region: ["Angkor", "Pagan"]
 vector: ["Buddhism"]
 topics: ['Angkor', 'Pagan', 'Buddhism']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 12th Century CE

@@ -3,7 +3,7 @@ categories: ["[[Indianization Sources]]"]
 vector: ["Buddhism"]
 topics: ["Buddhism"]
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # Vector: Buddhism — Theravada / Mahayana / Vajrayana

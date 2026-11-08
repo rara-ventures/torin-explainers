@@ -7,7 +7,7 @@ region: ["Funan Chenla"]
 vector: ["Trade Maritime"]
 topics: ['Funan Chenla', 'Trade Maritime', 'Brahmin Royal']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 1st Century CE

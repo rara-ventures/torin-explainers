@@ -3,7 +3,7 @@ categories: ["[[Indianization Sources]]"]
 region: ["China"]
 indianized: false
 created: 2026-10-30
-status: draft
+status: complete
 ---
 
 # China — Gandhara to Chang'an Buddhism

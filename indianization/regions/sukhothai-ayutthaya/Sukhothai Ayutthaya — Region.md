@@ -1,6 +1,6 @@
 ---
 categories: ["[[Indianization Sources]]"]
-status: draft
+status: complete
 region: ["Sukhothai Ayutthaya"]
 indianized: true
 topics: ['Sukhothai', 'Ayutthaya']

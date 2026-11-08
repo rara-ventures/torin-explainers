@@ -1,6 +1,6 @@
 ---
 categories: ["[[Indianization Sources]]"]
-status: draft
+status: complete
 ---
 
 # Sources — By Century
@@ -57,7 +57,7 @@ status: draft
 - **Regional:** Starting from Champa? Open `champa` region then follow its timeline *across* centuries back to `sources/`.
 - **Vector:** Following Buddhism? Open `vectors/buddhism` — it links to the century where Borobudur vs My Son diverge.
 
-Each `"<Nth> Century CE.md"` inside a century lists *stories* (narratives) for that slice; each `"<Nth> Century CE — Timeline.md"` is the dated ledger (inscriptions, temples, Chinese annals). Timelines are filled (266 dated rows, each with source + confidence) and carry frontmatter so they appear in `Sources.base`.
+Each `"<Nth> Century CE.md"` inside a century lists *stories* (narratives) for that slice; each `"<Nth> Century CE — Timeline.md"` is the dated ledger (inscriptions, temples, Chinese annals). Timelines are filled (606 dated rows, each with source + confidence) and carry frontmatter so they appear in `Sources.base`.
 
 ## Next Visualization
 

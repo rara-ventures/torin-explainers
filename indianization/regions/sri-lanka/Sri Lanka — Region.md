@@ -3,7 +3,7 @@ categories: ["[[Indianization Sources]]"]
 region: ["Sri Lanka"]
 indianized: true
 created: 2026-10-30
-status: draft
+status: complete
 ---
 
 # Sri Lanka — Theravada Conservatory

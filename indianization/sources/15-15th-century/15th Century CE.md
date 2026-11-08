@@ -7,7 +7,7 @@ region: ["Champa", "Majapahit", "Bali"]
 vector: ["Trade Maritime"]
 topics: ['Champa', 'Majapahit', 'Bali', 'Trade Maritime']
 created: 2026-10-29
-status: draft
+status: complete
 ---
 
 # 15th Century CE
