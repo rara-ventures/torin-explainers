@@ -47,6 +47,10 @@ food-passports/
 
 Start with `traces/chili-two-doors.md` — how a Amazonian shrub entered Asia through **two doors** (Goa and Manila) and rewrote Sichuan, Korea, Thailand, Nepal, Hungary on the way. Or the home angle: `traces/potato-to-nepal.md`.
 
+## STORY LAYER — start here if you want scripts, not research
+
+`stories/Story Bank.md` ranks 13 reveal-first cards by the gasp (S/A/B tiers), each formatted: **assumption → reveal → proof stamps → kicker**. Green = script-ready, ⚠ = run the Deep Research Prompt first. S-tier: tomato-Italy, white-kimchi, mala-marriage, paprika-Turkish. Anchor (ours alone): `stories/07-potato-festival.md` — Andes→Goa→Rolpa→Hemja festival 2025.
+
 ## Status
 
 - Scaffold: ✅ tree, 18 passports, 10 dishes, 9 kitchens, 6 vectors, 6 waves, 5 traces — all `status: stub` until the Deep Research Prompt is run per note.

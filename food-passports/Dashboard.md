@@ -11,6 +11,10 @@ status: complete
 >
 > Source of truth: [[food-passports/README|Food Passports README]] · rule: [[thesis|Thesis — Naturalized Food]] · time index: [[sources/By Wave|Sources — By Wave]]
 
+## 🎬 Stories first? (script-ready reveals)
+
+**[[stories/Story Bank|Story Bank — ranked by the gasp]]** — 13 cards: assumption → reveal → proof stamps → kicker. S-tier: [[stories/01-tomato-italy|Tomato-Italy]], [[stories/02-kimchi-was-white|Kimchi was white]], [[stories/03-mala-marriage|Mala marriage]], [[stories/04-paprika-turkish|Paprika's three-name lie]]. Home anchor: [[stories/07-potato-festival|Potato → Hemja festival]].
+
 ## Your Path: The Potato's Longest Trip
 
 *How a tuber from the Andes via Portuguese Goa and British India became the mid-hills' mainstay — and got a national festival in Hemja, Kaski (2025).*
