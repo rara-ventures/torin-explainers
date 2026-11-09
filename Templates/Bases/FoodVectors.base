@@ -1,0 +1,21 @@
+filters:
+  and:
+    - list(categories).contains(link("Food Passports"))
+    - note.unit.containsAny("vector")
+properties:
+  file.name:
+    displayName: Vector
+  note.vector:
+    displayName: Route
+  note.crops:
+    displayName: Carried
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: All Vectors
+    order:
+      - file.name
+      - vector
+      - crops
+      - status

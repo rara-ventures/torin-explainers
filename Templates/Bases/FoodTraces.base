@@ -1,0 +1,27 @@
+filters:
+  and:
+    - list(categories).contains(link("Food Passports"))
+    - note.unit.containsAny("trace")
+properties:
+  file.name:
+    displayName: Trace
+  note.crop:
+    displayName: Crop
+  note.vectors:
+    displayName: Doors
+  note.regions:
+    displayName: Kitchens
+  note.wave:
+    displayName: Waves
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: All Traces
+    order:
+      - file.name
+      - crop
+      - vectors
+      - regions
+      - wave
+      - status

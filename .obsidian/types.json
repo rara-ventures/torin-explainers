@@ -76,6 +76,16 @@
     "trace": "text",
     "regions": "multitext",
     "vectors": "multitext",
-    "supersedes": "multitext"
+    "supersedes": "multitext",
+    "unit": "multitext",
+    "wave": "text",
+    "wave_num": "number",
+    "crop": "multitext",
+    "crops": "multitext",
+    "origin": "text",
+    "direction": "text",
+    "mainstay": "checkbox",
+    "kitchens": "multitext",
+    "dish": "text"
   }
 }

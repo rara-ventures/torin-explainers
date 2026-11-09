@@ -1,0 +1,45 @@
+filters:
+  and:
+    - list(categories).contains(link("Food Passports"))
+    - note.unit.containsAny("wave")
+properties:
+  file.name:
+    displayName: Wave note
+  note.wave:
+    displayName: Wave
+  note.wave_num:
+    displayName: Start
+  note.vectors:
+    displayName: Vectors
+  note.crops:
+    displayName: Crops moving
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: By Wave
+    filters:
+      and:
+        - '!file.name.contains("Timeline")'
+    order:
+      - file.name
+      - wave
+      - wave_num
+      - vectors
+      - crops
+      - status
+    sort:
+      - property: wave_num
+        direction: ASC
+  - type: table
+    name: Timelines
+    filters:
+      and:
+        - 'file.name.contains("Timeline")'
+    order:
+      - file.name
+      - wave
+      - wave_num
+    sort:
+      - property: wave_num
+        direction: ASC

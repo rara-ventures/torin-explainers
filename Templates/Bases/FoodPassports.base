@@ -1,0 +1,56 @@
+filters:
+  and:
+    - list(categories).contains(link("Food Passports"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Note
+  note.unit:
+    displayName: Unit
+  note.crop:
+    displayName: Crop
+  note.kitchens:
+    displayName: Kitchens
+  note.vectors:
+    displayName: Vectors
+  note.wave:
+    displayName: Wave
+  note.mainstay:
+    displayName: Citizen
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: All Food Passports
+    order:
+      - file.name
+      - unit
+      - crop
+      - kitchens
+      - vectors
+      - mainstay
+      - status
+  - type: table
+    name: Chili everywhere
+    filters:
+      and:
+        - or:
+            - note.crop.containsAny("Chili Pepper")
+            - note.cuisine.containsAny("East Asia")
+    order:
+      - file.name
+      - unit
+      - crop
+  - type: table
+    name: Nepal lane
+    filters:
+      and:
+        - or:
+            - note.kitchens.containsAny("Nepal & Himalaya")
+            - note.region.containsAny("Nepal & Himalaya")
+            - note.regions.containsAny("Nepal & Himalaya")
+    order:
+      - file.name
+      - unit
+      - crop
+      - status

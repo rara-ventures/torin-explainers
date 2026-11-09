@@ -1,0 +1,47 @@
+filters:
+  and:
+    - list(categories).contains(link("Food Passports"))
+    - note.unit.containsAny("passport")
+properties:
+  file.name:
+    displayName: Passport
+  note.crop:
+    displayName: Crop
+  note.origin:
+    displayName: Born
+  note.direction:
+    displayName: Direction
+  note.kitchens:
+    displayName: Settled in
+  note.vectors:
+    displayName: Doors
+  note.mainstay:
+    displayName: Citizen
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: All Passports
+    order:
+      - file.name
+      - crop
+      - origin
+      - direction
+      - kitchens
+      - vectors
+      - mainstay
+      - status
+    sort:
+      - property: direction
+        direction: ASC
+  - type: table
+    name: Citizens (mainstay)
+    filters:
+      and:
+        - note.mainstay == true
+    order:
+      - file.name
+      - origin
+      - kitchens
+  - type: cards
+    name: Cards

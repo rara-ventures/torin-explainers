@@ -1,0 +1,32 @@
+filters:
+  and:
+    - list(categories).contains(link("Food Passports"))
+    - note.unit.containsAny("kitchen")
+properties:
+  file.name:
+    displayName: Kitchen
+  note.region:
+    displayName: Region
+  note.crops:
+    displayName: Adopted crops
+  note.mainstay:
+    displayName: Naturalized?
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: All Kitchens
+    order:
+      - file.name
+      - region
+      - crops
+      - mainstay
+      - status
+  - type: table
+    name: Nepal Focus
+    filters:
+      and:
+        - note.region.containsAny("Nepal")
+    order:
+      - file.name
+      - crops

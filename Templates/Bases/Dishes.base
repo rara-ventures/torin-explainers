@@ -1,0 +1,32 @@
+filters:
+  and:
+    - list(categories).contains(link("Food Passports"))
+    - note.unit.containsAny("dish")
+properties:
+  file.name:
+    displayName: Dish
+  note.dish:
+    displayName: Name
+  note.cuisine:
+    displayName: Kitchen
+  note.ingredients:
+    displayName: Immigrants inside
+  note.wave_num:
+    displayName: Era
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: All Dishes
+    order:
+      - file.name
+      - dish
+      - cuisine
+      - ingredients
+      - wave_num
+      - status
+    sort:
+      - property: wave_num
+        direction: ASC
+  - type: cards
+    name: Cards
