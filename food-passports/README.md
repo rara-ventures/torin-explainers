@@ -16,6 +16,7 @@ food-passports/
 ├── vectors/             ← HOW they traveled — routes & carriers (6)
 ├── sources/             ← WHEN — 6 wave folders (W0 prelude → W5 industrial)
 ├── traces/              ← stitched narratives (tomato→Naples, potato→Nepal, chili→Asia...)
+├── stories/             ← STORY BANK: 13 reveal-first cards (assumption→reveal→proof→kicker)
 ├── visualizations/      ← Mermaid spread map + crop × kitchen passport matrix
 └── resources/           ← Watch & Listen + Deep Research Prompt
 ```
