@@ -7,7 +7,7 @@ created: 2026-11-08
 
 # New Connections — What the Two-Hop Crawl Joined
 
-Ten links that did not exist in the vault before the crawl. Each one joins notes that were sitting in separate folders, and each is filmable.
+Thirteen links that did not exist in the vault before this work. 1–10 came from the two-hop crawl; 11–13 are reversals found on the third review pass — vectors that run **out of** Southeast Asia, or that the vault never had at all.
 
 ---
 
@@ -121,8 +121,49 @@ The **Leiden copper plates** of Rajaraja I — the charter for a Sumatran king's
 | 10 | Why did the Mongols lose in Java? | [[VIRAL-CONNECTIONS]] §09 |
 | 11 | The Philippines' oldest document is a receipt | [[Philippines — Region]] |
 | 12 | Who wrote this down, and why? | connections 9–10 above |
+| 13 | The habit that went the other way — betel, 2,000 years before the alphabet | [[12-betel-runs-the-other-way]] |
+| 14 | The Indian army that became a Thai river economy (chess) | [[13-the-chessboard-is-a-fossil]] |
+| 15 | The king who sailed west to steal a relic | [[14-the-king-who-sailed-west]] |
 
-Episodes 1–5 are written. 6–8 are outlined here with their connections. 9–12 have hooks and anchors in the other two docs.
+Episodes 1–5 and 13–15 are written as full scripts. 6–8 and 12 are outlined with their connections and anchors.
+
+
+
+## Pass 3 — the three reversals
+
+The first two passes found connections *within* the Indianization frame. This pass broke the frame. Each of these is a vector the vault did not have.
+
+### 11. Betel runs the other way — and it is 2,000 years older than Indianization
+
+**Joins (new): Island SE Asia → Sri Lanka → India → Persia → the Mediterranean.** Not in the vault at all.
+
+The areca palm is native to Island Southeast Asia; the betel leaf (*Piper betle*, pepper family) is too. The dated diffusion, from archaeology and chemistry rather than inscriptions: nut traces in **pre-agricultural forager** dental calculus on Sulawesi (**25,000–16,000 BP**); the earliest full quid with lime at **Duyong Cave, Palawan, 4,630 ± 250 BP**; Micronesia and Near Oceania 3,500–3,000 BP; Lapita 3,600–2,500 BP; **mainland SE Asia 3,000–2,500 BP; South India and Sri Lanka by ~3,500 BP; northern India by 1,500 BP; Madagascar by 600 BP** — and from India westward into Persia and the Mediterranean. The word follows the plant: English *areca* is from **Dravidian** (Malayalam *aṭaykka*, Kannada *aḍike*, Tamil *aḍaikkāy*), not Sanskrit. Proto-Austronesian **\*buaq** ("fruit") narrowed to mean the nut in Proto-Malayo-Polynesian.
+
+**Why this is the biggest find of the crawl:** the habit reached South Asia roughly two thousand years before the script did, carried by the same Austronesian sailors whose trade routes later carried Brahmins. ~600 million people chew it today. Script: [[12-betel-runs-the-other-way]].
+**Source:** Zumbroich, *eJournal of Indian Medicine* 1 (2007–08).
+
+### 12. Games: the seventh vector nobody has written
+
+**Joins (new): India → Mainland SE Asia, still played.** Zero hits in the vault for *chess*, *chaturanga*, *makruk*, *ouk*.
+
+Thai **makruk** descends from sixth–seventh-century Indian *chaturanga*, and its piece names are a localisation you can read off the board: *khun* (lord), **met (seed)** — the queen-equivalent, still moving one diagonal square like the Persian *ferz*, an upgrade Europe applied c. 1475 and Thailand never took; *khon* (nobleman), *ma* (horse), **ruea ("boat")** where Europe put a castle, and **bia ("cowrie shell")** for the pawns — money as infantry, in sets actually cut from cowrie and buffalo horn. Cambodian **ouk chaktrang** keeps the word *chaturanga* alive in Khmer, with 12th-century bas-relief attestation. Murray argued it travelled **with Buddhism** — the same vector as the script. Plus a rule no Western version has: endgame **counting**, where the winning side must mate inside a fixed move budget or the game is drawn.
+
+**Why it matters for the vault:** the six vectors (script, kingship, law, religion, art, trade) miss leisure entirely, and leisure is the most filmable transfer there is. Script: [[13-the-chessboard-is-a-fossil]].
+
+### 13. Indianized polities invaded India. Twice, in the same century.
+
+**Joins:** [[Sri Lanka — Region]] · 13th-century timeline · [[Mainland SE Asia — Region]] · [[Kedah Srivijaya — Region]] — and this was **missing from the vault**.
+
+**1247:** **Chandrabhanu Sridhamaraja** of **Tambralinga** (Nakhon Si Thammarat) sends a fleet to Sri Lanka; the chronicle gives the aim as acquiring the **Buddhist relic**. Repelled by Prince Veerabahu under Parakramabahu II.
+**1255:** he returns and **occupies the Jaffna kingdom** in the Tamil north, holding it seven years.
+**1258:** **Jatavarman Sundara Pandyan I** lands, reduces Jaffna to Pandyan suzerainty.
+**1262:** Chandrabhanu killed. His son **Savakanmaindan** continues with Chola, Pandyan and Sinhalese allies until defeat in the late 1270s. Thirty years of attempts.
+
+**Why it matters:** the Tooth Relic is already in the vault as the palladium of Sri Lankan kingship. The missing half is that a peninsular king used the *same* relic theory of legitimacy to attack the island — Indianized states were not receivers of a package, they were competitors inside it. Script: [[14-the-king-who-sailed-west]].
+
+### Accuracy flag from pass 3
+
+The entry article's Malaysia section dates **Chandrabhanu's attacks on Sri Lanka to the 11th century** and calls him a Ligor king who "attacked Sri Lanka in the 11th century, an event noted in a stone inscription in Nagapattinum and in the Mahavamsa." The chronicle and epigraphic sequence is **1247 → late 1270s**, i.e. thirteenth century. The entry page is off by two hundred years — which is exactly the kind of error the two-hop method catches and the one-hop read would have repeated.
 
 ---
 

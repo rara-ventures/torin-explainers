@@ -35,6 +35,9 @@ Every file now has 3 hooks from different categories — 1 stop-scroll (Negation
 | 9 | [09-five-ancient-facts.md](./09-five-ancient-facts.md) | Historiography — what was invented 1776–1918 |
 | 10 | [10-the-law-book-that-never-existed.md](./10-the-law-book-that-never-existed.md) | Law / dharma — Ayutthaya, Burma, Java, Bali |
 | 11 | [11-three-hundred-ramayanas.md](./11-three-hundred-ramayanas.md) | Epics — Java, Cambodia, Thailand, Malay world, Maranao |
+| 12 | [12-betel-runs-the-other-way.md](./12-betel-runs-the-other-way.md) | **Reverse vector** — areca/betel out of Island SE Asia into India, Persia, the Mediterranean |
+| 13 | [13-the-chessboard-is-a-fossil.md](./13-the-chessboard-is-a-fossil.md) | Games — makruk/ouk, chaturanga still played, the queen Europe changed and Thailand didn't |
+| 14 | [14-the-king-who-sailed-west.md](./14-the-king-who-sailed-west.md) | **Reversal** — Tambralinga invades Sri Lanka for the Tooth Relic, 1247–1270s |
 
 Bases: `Templates/Bases/TikTok.base` filters `categories.contains(link("TikTok Stories"))` — 3 views (All/Cards). See `HOOKS.md` for playbook.
 
@@ -43,5 +46,5 @@ Bases: `Templates/Bases/TikTok.base` filters `categories.contains(link("TikTok S
 | File | What it is |
 |---|---|
 | [VIRAL-CONNECTIONS.md](./VIRAL-CONNECTIONS.md) | **The India Effect** — 20 stories around one question: India never conquered Southeast Asia, so why do its scripts, kings, laws, epics and temples come from India? Influence ledger across the six vectors, five myth corrections, flagship 3–4 minute scripts, playlist order. Channel data applies: the product is a **3–5 minute paradox explainer** (median 224k views, top video 4.7M), not an 80-second reel. |
-| [NEW-CONNECTIONS.md](./NEW-CONNECTIONS.md) | **Ten new cross-note connections** found by the crawl — camphor as the invasion route, the refugee princess who founded a Javanese monastery, corporate law on stone, Meru reaching China, the ritual layer staying female — plus a 12-episode series order. |
+| [NEW-CONNECTIONS.md](./NEW-CONNECTIONS.md) | **Thirteen new cross-note connections** found by the crawl — camphor as the invasion route, the refugee princess who founded a Javanese monastery, corporate law on stone, Meru reaching China, the ritual layer staying female — plus a 12-episode series order. |
 | [TWO-HOP-STORIES.md](./TWO-HOP-STORIES.md) | A **2-hop Wikipedia trail** (entry → 4 pages → 3 pages) that produced 10 sourced stories, 4 new to the vault: Chola-era Tamil guild charters, the 1006 Chūḍāmaṇi-vihāra endowment and its 2026 restitution, the 1025 Atisha coincidence, Sanskrit inside Tagalog. Includes an accuracy table where the pages contradict each other. |

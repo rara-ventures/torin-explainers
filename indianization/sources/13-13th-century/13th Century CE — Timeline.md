@@ -13,6 +13,8 @@ status: draft
 | 1215 CE | Kalinga Magha seizes Polonnaruwa; Sinhalese court and saṅgha begin the southward retreat | Sri Lanka | Cūḷavaṃsa; Sirisena 1978 | medium |
 | 1222 CE | Ken Arok defeats Kertajaya at Ganter and founds Singhasari, ending Kediri's primacy in East Java | Java | Pararaton; Coedès 1968 | high |
 | 1238 CE | Si Intharathit throws off Khmer Lavo and founds Sukhothai, the first Tai polity in the Chao Phraya basin | Siam | Thai chronicles; Chamberlain 1991 | medium |
+| 1247 / 1255 CE | Chandrabhanu of Tambralinga raids Sri Lanka for the relic, then occupies the Jaffna kingdom | Peninsular polity projecting power west into the relic economy | Mahavamsa; Coedès 1968 | medium |
+| 1258 / 1262 CE | Jatavarman Sundara Pandyan I lands in Sri Lanka; Jaffna passes to Pandyan suzerainty, Chandrabhanu killed | Tamil dynastic absorption of a Southeast Asian foothold | Tamil records; Mahavamsa | medium |
 | 1243 CE | Jayavarman VIII, a Shaivite, succeeds Indravarman II at Angkor | Angkor | Coedès 1968; Higham 2001 | high |
 | 1253 CE | Sanskrit epigraphy in Champa ceases; Old Cham replaces it for royal records | Champa | Cham inscriptions; Vickery 2011 | high |
 | 1275 CE | Kertanegara launches the Pamalayu expedition against Malayu in Sumatra | Java / Sumatra | Pararaton; Coedès 1968 | high |

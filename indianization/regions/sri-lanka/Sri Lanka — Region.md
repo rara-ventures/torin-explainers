@@ -42,6 +42,10 @@ It is the strongest test of that framing. Indianization here was neither a venee
 
 **1153–1186 — the purification.** Parakramabahu I reunifies the island, rebuilds the irrigation network around the Parakrama Samudra, and convenes a council c. 1165 under Mahathera Kassapa. The Abhayagiri and Jetavana fraternities are abolished and their Mahayana books banned; Lankan Mahayana never recovers (Gombrich 2006). The unified Mahavihara church that emerged is the body Pagan and Sukhothai later imported.
 
+**1247–1270s — the relic wars run backwards.** Tambralinga, the peninsular kingdom at Nakhon Si Thammarat, sends fleets against Sri Lanka. Chandrabhanu Sridhamaraja, described in the sources as a *Javaka*, attacks in **1247** — the chronicle account gives the aim as acquiring the Buddhist relic — is repelled by Prince Veerabahu under Parakramabahu II, then occupies the **Jaffna kingdom in 1255** and holds it until the Pandyan king **Jatavarman Sundara Pandyan I** lands in **1258** and reduces the north to Pandyan suzerainty. Chandrabhanu is killed in **1262**; his son Savakanmaindan keeps trying with Chola, Pandyan and Sinhalese allies until defeat in the late 1270s (Mahavamsa; Tamil records; Coedès 1968).
+
+The structural point: an Indianized peninsular polity deployed the *same* relic theory of kingship against Sri Lanka, and Tamil dynasties absorbed the result. Indianization here is not reception, it is competition inside one shared system. Through the same port, decades later, the Lankavamsa ordination line returns to Sukhothai via Sumana Thera.
+
 ## Indian vs local
 
 | Indian import | Lankan transformation |
@@ -49,7 +53,7 @@ It is the strongest test of that framing. Indianization here was neither a venee
 | Early Brahmi script and Magadhi-type Prakrit | Evolves into Elu and Sinhala with Grantha and Kadamba letterforms; Pali written in Sinhala script, so the canon's physical form is Lankan |
 | Pali Tipitaka and Mahavihara ordination | Fixed in writing at Aluvihare; Sinhala commentaries re-translated into Pali by Buddhaghosa — the canon is as much Lankan as Indian |
 | Stupa and vihara monasticism | Brick dagobas on square terraces, plus the *sandakada pahana* moonstone and guardstone idiom unknown in India (Bandaranayake 1974) |
-| Relic veneration | The Tooth Relic becomes the palladium of kingship; Parakramabahu I retrieves it in 1157 to secure accession |
+| Relic veneration | The Tooth Relic becomes the palladium of kingship; Parakramabahu I retrieves it in 1157 to secure accession — and a peninsular king attacks the island for it in 1247 |
 | Brahmanical deities | Absorbed as *devale* cults beneath the Buddha; Vishnu protects the dharma and the island, not a royal ancestor |
 
 ## Key sources
