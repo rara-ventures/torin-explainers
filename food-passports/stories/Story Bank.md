@@ -49,6 +49,7 @@ status: complete
 | 31 | [[31-bacalhau-salazar]] ⚠ | "Bacalhau = Portugal since the discoveries" | Norwegian supply chain + Salazar-era state promotion wrote the "tradition" |
 | 32 | [[32-fries-india]] ⚠ | "French fries = France / fast-food original" | Belgian cut, Andean tuber, Idaho-industrialized — India sued the beef tallow out of it |
 | 33 | [[33-kodo-reversal]] ⚠ | "Millets are poor-food; development = rice/maize" | The exchange's displaced grain is now "superfood" — reversal happening LIVE in Nepal |
+| 34 | [[34-chai-tapri-hijack]] ⚠ | "Masala chai is ancient Indian" | British stole tea from China; India stole chai back — twice: Maniram Dewan, then the tapri |
 
 > ⚠ = needs the [[../resources/Deep Research Prompt|Deep Research]] pass before scripting. 🥇/S-tier stories all share one structure: *assumption → reveal → dated proof → kicker*.
 
