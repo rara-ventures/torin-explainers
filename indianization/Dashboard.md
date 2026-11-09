@@ -54,6 +54,6 @@ This dashboard is pre-filtered for your question: *How did Champa's Buddhism lea
 ## Structure Reminder
 
 - `sources/` = when (19 folders, each `"<Nth> Century CE.md"` + `"<Nth> Century CE — Timeline.md"` with frontmatter `century`/`century_num`/`phase`)
-- `regions/` = where (18 regions, each `"<Region> — Region.md"` + `"<Region> — Timeline.md"`)
+- `regions/` = where (19 regions, each `"<Region> — Region.md"` + `"<Region> — Timeline.md"`)
 - `vectors/` = how (6 mechanisms)
 - `traces/` = why (narratives stitching where+how+when)

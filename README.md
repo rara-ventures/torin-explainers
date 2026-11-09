@@ -16,7 +16,7 @@ torin-explainers/  ← Open this folder as Obsidian Vault
 ├── indianization/      ← South Asian history: Champa → Buddhism in Indonesia
 │   ├── Dashboard.md    ← START HERE (embeds all Bases)
 │   ├── sources/        ← 19 century folders (BCE–16th), each with century note + timeline
-│   ├── regions/        ← 18 regions (Champa, Srivijaya, Sailendra...)
+│   ├── regions/        ← 19 regions (Champa, Srivijaya, Sailendra, Philippines...)
 │   ├── vectors/        ← 6 mechanisms (Buddhism, Pallava Script...)
 │   ├── traces/         ← Narratives (champa-to-borobudur-buddhism.md)
 │   ├── visualizations/ ← Mermaid maps & matrix

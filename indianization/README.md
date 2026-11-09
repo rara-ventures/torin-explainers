@@ -9,7 +9,7 @@
 ```
 indianization/
 ├── sources/          century folders (BCE–16th) — each: "<Nth> Century CE.md" (story list) + "<Nth> Century CE — Timeline.md"
-├── regions/          18 polities (Gandhara, Himalaya, Lanka, China, Persia, Rome + 10 SE Asia + Straits/Mainland)/sites — each: "<Region> — Region.md" + "<Region> — Timeline.md"
+├── regions/          19 polities (13 SE Asia incl. Philippines + Gandhara, Himalaya, Lanka, China, Persia, Rome)/sites — each: "<Region> — Region.md" + "<Region> — Timeline.md"
 ├── vectors/          6 mechanisms — each: "<Vector> — Vector.md" + "<Vector> — Timeline.md"
 ├── traces/           cross-cutting narratives (Champa → Borobudur)
 ├── visualizations/   master timelines & maps (Mermaid)
@@ -57,7 +57,7 @@ Or pick an axis:
 
 ## Status
 
-- Scaffolding: ✅ 19 century folders (-06,-02,00-16), 18 regions (14 core + 4 relay per thesis.md), 6 vectors, 2 traces — all timeline notes carry frontmatter (`century`/`century_num`/`phase`/`region`/`vector`/`status`)
+- Scaffolding: ✅ 19 century folders (-06,-02,00-16), 19 regions (14 core + 4 relay + 1 outer per thesis.md), 6 vectors, 2 traces — all timeline notes carry frontmatter (`century`/`century_num`/`phase`/`region`/`vector`/`status`)
 - Sources ingestion: ✅ 606 dated rows across all timeline notes (Vo Canh, My Son, Kedukan Bukit, Kalasan, Borobudur, Angkor K.235) + Chinese annals (Liangshu on Funan, Songshi on Champa); every row carries a source and confidence note
 - Status legend: `complete` = note written and reviewed (secondary sources cited, debates flagged); `verified` = primary anchor checked; `draft` = timeline ledger or scaffold pending review; `todo` = placeholder; `stub` = <3 rows; `deprecated` = superseded
 - `original/` is untouched history (git `R` from root), so Torin archive stays citable.

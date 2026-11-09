@@ -30,7 +30,7 @@ Law is diagnostic: Indianization here requires dharmaśāstra, and law is where 
 
 ## How it traveled
 
-**The corpus.** Manu's *Mānava Dharmaśāstra* was fixed around the second or third century CE (Olivelle 2005) and travelled with the smṛti tradition and *niti* compendia. The *Arthaśāstra* left no Southeast Asian manuscript; Ricklefs (1967) inferred its norms behind a 974 inscription on a prince's education. *Niti* is better attested, in the Old Javanese *Tantri Kāmāndaka* and Majapahit *Nitisastra*.
+**The corpus.** Manu’s *Mānava Dharmaśāstra* was fixed around the second or third century CE (Olivelle 2005) and travelled with the smṛti tradition and *niti* compendia. The text itself is unstable: over fifty manuscripts survive and they disagree, and the Kulluka-Bhaṭṭa Calcutta recension long treated as authoritative is not the oldest — it is the one British philology canonised after William Jones's 1776 translation. So the Manu that Southeast Asian codes invoke was never a single fixed book, which weakens any argument that a specific version was copied out and applied (Kane 1968; Olivelle 2005). The *Arthaśāstra* left no Southeast Asian manuscript; Ricklefs (1967) inferred its norms behind a 974 inscription on a prince's education. *Niti* is better attested, in the Old Javanese *Tantri Kāmāndaka* and Majapahit *Nitisastra*.
 
 **Carriers.** Transmission was a by-product: Brahmins served as consecrators, astrologers and jurists; monasteries trained scribes; merchants needed contracts. The clearest carrier is a monk — Shin Buddhaghosa translated the Mon *Wareru Dhammathat* into Burmese and Pali in the sixteenth century.
 

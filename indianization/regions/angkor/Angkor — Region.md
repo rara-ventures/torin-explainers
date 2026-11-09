@@ -55,7 +55,7 @@ Third, Angkor shows the **Hindu → Buddhist transition as retention, not replac
 | Devaraja / cakravartin | *Kamrateṅ jagat ta rāja* — territorial guardian tied to *neak ta* and naga ancestry |
 | Sanskrit + Pallava script | Old Khmer for administration; Sanskrit for eulogy; Pali after the 14th c. |
 | Temple-mountain (Meru) | Baray/canal hydraulic mandala; temple as royal mausoleum |
-| Ramayana / Mahabharata | Bas-reliefs at Angkor Wat and the Bayon, with Khmer court scenes |
+| Ramayana / Mahabharata | Bas-reliefs at Angkor Wat and the Bayon, with Khmer court scenes; the Khmer *Reamker* re-casts the Rāma story in Buddhist terms and foregrounds Hanumān and Suvannamaccha |
 | Brahmin priesthood | Hereditary *bakou* retained after the Theravada turn |
 | Theravada monasticism | Village *wat* fused with *neak ta* shrines and ancestor cult |
 
@@ -64,6 +64,8 @@ Third, Angkor shows the **Hindu → Buddhist transition as retention, not replac
 | Type | Source | Date |
 |---|---|---|
 | Inscription | Sdok Kak Thom (K.235) — devaraja rite | 1053 |
+| Inscription | Veal Kantel (K.359), Vyādhapura — read as the earliest Cambodian allusion to the Rāma story | 7th c. |
+| Epic | *Reamker* — Khmer Rāmāyaṇa; alluded to in the 7th c., surviving text 16th c. | 7th–16th c. |
 | Temple | Angkor Wat — Suryavarman II | 1113–1150 |
 | Temple | Bayon / Angkor Thom — Jayavarman VII | 1181–1218 |
 | Chinese | Zhou Daguan, *A Record of Cambodia* | 1296–97 |
@@ -74,6 +76,8 @@ Third, Angkor shows the **Hindu → Buddhist transition as retention, not replac
 **"Collapse."** 1431 is a chronicle convention, not an extinction. Angkor Wat's enclosure was reoccupied after a 13th–14th-century gap and used into the 18th century; Carter et al. (2019) read the decline as protracted, driven by drought, monsoons and maritime trade. Buckley et al. (2010) tie the megadroughts to the water network's failure.
 
 **Devaraja.** Coedès read it as royal apotheosis; Kulke (1978) and Jacques (1985) argue the Sanskrit term denotes the god, while the Khmer *kamrateṅ jagat ta rāja* is a territorial guardian spirit.
+
+**The Rāma story.** The Cambodian epic *Reamker* is usually called a national epic, but the evidence is layered: a 7th-century inscription (K.359) is read as its earliest allusion, the Angkor Wat bas-reliefs are 12th-century, and the surviving poem is 16th-century. The Khmer version is not a translation but a re-doctrine — Hindu figures recast in Buddhist terms, with Hanumān and the mermaid Suvannamaccha promoted over Rāma (Bergundal 1971). Confidence: medium on the 7th-century reading, high that the surviving text is early modern.
 
 **Hindu → Buddhist.** Not linear: Mahayana, then a violent Shaiva restoration under Jayavarman VIII (1243–95), then Theravada under Indravarman III.
 

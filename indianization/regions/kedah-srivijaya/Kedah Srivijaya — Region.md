@@ -61,7 +61,7 @@ Kedah's archaeology supplies the material base the Sumatran inscriptions lack: i
 | Buddhist monasticism | Endowment diplomacy: Nalanda funded, Chudamani Vihara built in Chola country |
 | Nāga cosmology | Telaga Batu: seven nāga heads and a spout, water poured over the oath-stone |
 | Śaiva temple | Low brick candi on square platforms; Candi Bukit Batu Pahat |
-| Tamil merchant guilds | Tamil quarters at Kedah and Barus; charters negotiated locally |
+| Tamil merchant guilds | Takuapa (Māṇiggirāmam, c. 9th c.) and Lobu Tua (Ayyavole 500, 1088) charters; Tamil quarters at Kedah and Barus |
 
 ## Key sources
 
@@ -72,14 +72,20 @@ Kedah's archaeology supplies the material base the Sumatran inscriptions lack: i
 | Inscription | Kota Kapur, Bangka | 686 |
 | Inscription | Ligor B, Vat Sema Muang | 775 |
 | Inscription | Nalanda copper-plate of Devapaladeva | 860 |
-| Inscription | Leiden plates of Rajaraja I | c. 1006 |
+| Inscription | Leiden plates of Rajaraja I — Chūḍāmaṇi-vihāra endowment | c. 1006 |
+| Inscription | Takuapa Tamil charter — Māṇiggirāmam guild | c. 9th c. |
+| Inscription | Lobu Tua (Barus) Tamil charter — Ayyavole 500 | 1088 |
 | Inscription | Rajendra I's Tanjavur inscription | c. 1030 |
 | Chinese | Yijing, *Record of the Buddhist Religion* | 671–695 |
 | Archaeology | Bujang Valley candi; Sungai Batu ironworks | 5th–14th c. |
 
 ## Debates & confidence
 
-Confidence is high for the inscriptions' dates and wording, medium for the political narrative, low for the polity's extent. The capital is unresolved: Palembang is the Coedès–Manguin orthodoxy, but a 2013 University of Indonesia survey argued for Muara Jambi, and Chaiya has Thai proponents; no site has yielded a convincing urban core. Kulke (1993) asks whether *kadatuan* Śrīvijaya was an empire or a kraton, and most now prefer "mandala" or "network". Kedah's status oscillated between province and autonomous port, and Chola inscriptions claim conquests that archaeology reads as continuity. Sungai Batu's radiocarbon dates — 788–547 BCE against a 2nd–10th-century CE reading — remain contested (Khaw and Gooi 2021). The 20,000 troops of 683 and the older 1090 date for the Chudamani Vihara are both doubtful.
+**Thalassocracy or land power?** The older description of Srivijaya as a maritime empire is being revised: Heng (2013) reads its fleets as logistical support projecting *land* power from river-mouth centres, with a naval strategy that began as coercive toll-collection and degraded into raiding. On this account Palembang is a port-polity with a fleet, not a sea-borne state. Confidence: medium, contested.
+
+**The Chola “navy”.** Rajendra’s expedition is often described as a naval conquest; the Cholas had no standing navy in the modern sense — the force was assembled from merchant shipping, and the campaign left no garrisons or administration (Kulke et al. 2009).
+
+Confidence is high for the inscriptions’ dates and wording, medium for the political narrative, low for the polity’s extent. The capital is unresolved: Palembang is the Coedès–Manguin orthodoxy, but a 2013 University of Indonesia survey argued for Muara Jambi, and Chaiya has Thai proponents; no site has yielded a convincing urban core. Kulke (1993) asks whether *kadatuan* Śrīvijaya was an empire or a kraton, and most now prefer "mandala" or "network". Kedah's status oscillated between province and autonomous port, and Chola inscriptions claim conquests that archaeology reads as continuity. Sungai Batu's radiocarbon dates — 788–547 BCE against a 2nd–10th-century CE reading — remain contested (Khaw and Gooi 2021). The 20,000 troops of 683 and the older 1090 date for the Chudamani Vihara are both doubtful.
 
 ## Connections
 

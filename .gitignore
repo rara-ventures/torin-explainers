@@ -2,3 +2,4 @@
 *.tmp
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.tmp.driveupload/

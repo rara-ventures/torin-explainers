@@ -28,10 +28,14 @@ Media, documentaries, primary-source archives and transcripts for the Indianizat
 | EFEO | research + archives | https://www.efeo.fr/ | Angkor, Cham, Khmer archives |
 | Virtual Angkor | 3D reconstruction | https://www.virtualangkor.com/ | teaching modules |
 | OpenHistoricalMap | historical map | https://www.openhistoricalmap.org/ | — |
+| Field Museum — Agusan image | museum collection | https://www.fieldmuseum.org/ | object record; images |
+| National Museum of the Philippines | museum | https://www.nationalmuseum.gov.ph/ | Laguna Copperplate, gold collection |
+| Wikipedia — History of Indian influence on Southeast Asia | reference (Tier 3) | https://en.wikipedia.org/wiki/History_of_Indian_influence_on_Southeast_Asia | country-by-country coverage map; verify every claim |
 
 ## How to use this list
 
 - **Deep-research prompt:** [[indianization/resources/Deep Research Prompt|Deep Research Prompt]] — copy-paste prompt that turns this index into an evidence audit (claim register → primary source → verdict → minimal edit).
 - **Listen first** for the narrative arc (Fall of Civilizations, In Our Time), then **read the inscription** (SEAlang Classics, GRETIL) and update the relevant `— Timeline.md`.
 - **Captions/readouts:** YouTube episodes have CC; podcast pages carry show notes; GRETIL/SEAlang give full text. Some BBC In Our Time pages include transcripts.
+- **Tier 3 warning:** the Wikipedia article is a *coverage map*, not evidence. It repeats the Ashoka-to-Thailand mission, the "Chola conquest" of Srivijaya and the 1471 casualty figures as if settled; see the correction table in [[indianization/resources/Deep Research Prompt|Deep Research Prompt]] and `tiktok-stories/VIRAL-CONNECTIONS.md` §9.
 - **Do not treat any of these as primary evidence.** They are orientation; the notes' `## Debates & confidence` sections tell you where the real uncertainty sits.

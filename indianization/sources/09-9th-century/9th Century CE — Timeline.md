@@ -23,6 +23,7 @@ status: draft
 | 889 CE | **Yasovarman I takes the throne after a succession war with his brother and repels a Cham invasion** (Cham sources credit Indravarman II with the repulse); in his first year he founds about a hundred *āśramas* across the kingdom | Angkor, Champa | Coedès 1968; Maspero 2002 | medium |
 | 889–900 CE | **Yasodharapura founded around Phnom Bakheng, with the East Baray (Yaśodharatataka) at 7.5 by 1.8 km and hilltop temples at Phnom Krom and Phnom Bok** — the hydraulic-mandala capital that lasts six centuries | Angkor | Coedès 1968; Higham 2001 | high |
 | 893 CE | **Lolei, K.324 (8 July 893) — the Indratāṭaka is completed and Lolei raised on an island within it, dedicated to Indravarman I and his ancestors**; the last of the Roluos temples | Angkor | K.324; Glaize 1993 | high |
+| 9th–10th c. | Kakawin Rāmāyaṇa composed in Central Java — the longest Old Javanese kakawin; Robson dates it 856–930 | Sailendra Mataram | Robson 1995; Zoetmulder 1983 | high |
 | 900 CE | **Laguna Copperplate, 21 April 900 (Śaka 822) — Old Malay in Kawi script from Luzon: the debt of Namwaran is cleared before the chief of Tundun (Tondo), with Medang invoked as an authority**; the earliest dated document in the Philippines, showing how far the Sanskritic diplomatic idiom travelled | Philippines | Postma 1992 | high |
 
 > Filled from verified research (Coedès, de Casparis, Dumarçay, Vickery, EFEO epigraphy). Cross-ref `../regions/` and `../vectors/`.

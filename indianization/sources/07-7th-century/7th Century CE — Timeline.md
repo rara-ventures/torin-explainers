@@ -24,3 +24,4 @@ status: draft
 | 7th c. | Nakhon Pathom / Wat Phra Rang — Mon Buddhist urbanism and earliest Old Mon writing | Dvaravati | Skilling 2003 | medium |
 | 7th–9th c. | Telaga Batu oath stone — nāga-headed water spout for royal oaths | Kedah Srivijaya | de Casparis 1956 | medium |
 | c. 700 | Old Malay in a Pallava-type script becomes the archipelago's charter idiom | Kedah Srivijaya | de Casparis 1975 | medium |
+| 7th c. | Veal Kantel (K.359) at Vyādhapura — read as the earliest epigraphic allusion to the Rāma story in Cambodia | Funan Chenla | RCAMS I (K.359); Bergundal 1971 | medium |

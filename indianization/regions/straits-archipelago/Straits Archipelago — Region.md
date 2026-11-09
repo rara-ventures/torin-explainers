@@ -44,7 +44,7 @@ The folder is also a lesson in source types: Sumatra gives inscriptions, Kedah a
 
 **1025 and 1068 CE** — Rajendra I's fleet attacks Kadaram and Palembang and captures Sangrama Vijayottunggavarman. The raids break Srivijayan toll power but not the port complex, which shifts to Sungai Mas.
 
-**c. 1300–1400 CE** — Temasek is a walled settlement of perhaps 85 hectares at Fort Canning, with palace terraces, imported ceramics and Indian carnelian (Miksic 2013). Wang Dayuan (1349) describes Danmaxi with Malay and Chinese residents. Sacked in 1398.
+**c. 1300–1400 CE** — Temasek is a walled settlement of perhaps 85 hectares at Fort Canning, with palace terraces, imported ceramics and Indian carnelian (Miksic 2013). Wang Dayuan (1349) describes Danmaxi with Malay and Chinese residents. The Singapore Stone — a slab in an Indic script, dated 10th–13th century and blown up in 1843 to widen the river — is the settlement's only epigraphic trace; one fragment survives in the National Museum. Sacked in 1398.
 
 **c. 1400–1511 CE** — Melaka is founded around 1400–1402 by Parameswara; conversion to Islam follows c. 1414 through Pasai. Under Muzaffar and Mansur Shah it becomes the region's entrepôt, with Gujarati, Tamil and Chinese quarters. Albuquerque takes it in 1511.
 
@@ -68,6 +68,7 @@ The folder is also a lesson in source types: Sumatra gives inscriptions, Kedah a
 | Inscription | Kedukan Bukit (D.161), Old Malay | 683 |
 | Inscription | Talang Tuwo (D.145), Old Malay | 684 |
 | Inscription | Kota Kapur, Bangka | 686 |
+| Inscription | Singapore Stone (fragment), Indic script | 10th–13th c. |
 | Archaeology | Sungai Batu radiocarbon (SB2H charcoal; SB2B brick) | 535 BCE claim / c. 110 CE |
 | Chinese | *Liangshu* on Lang-ya-xiu | 515–523 |
 | Chinese | Zhao Rugua, *Zhufan zhi*; Wang Dayuan, *Daoyi zhilue* | 1225; 1349–1350 |
