@@ -43,6 +43,11 @@ Every file now has 3 hooks from different categories — 1 stop-scroll (Negation
 | 18 | [18-sanskrit-inside-tagalog.md](./18-sanskrit-inside-tagalog.md) | Philippines — *lahò* = Rāhu, 336 Sanskrit loans, Laguna Copperplate 900 CE, Ma-i |
 | 19 | [19-every-alphabet-but-vietnams.md](./19-every-alphabet-but-vietnams.md) | Scripts — Pallava grandparent for Thai/Khmer/Burmese/Lao; Vietnam took the Chinese road, then Latin |
 | 20 | [20-thai-kings-named-rama.md](./20-thai-kings-named-rama.md) | Ayutthaya = Ayodhya (1351) and why Thai kings are numbered "Rama" |
+| 21 | [21-the-zero-cambodia-wrote-first.md](./21-the-zero-cambodia-wrote-first.md) | Numbers — the 683 CE Khmer zero (Saka 605) and the Saka era nobody can date |
+| 22 | [22-the-cloth-copied-from-india.md](./22-the-cloth-copied-from-india.md) | Cloth — Gujarati patola motifs inside Tenganan's sacred geringsing (Bali Aga) |
+| 23 | [23-the-motto-that-says-buddha-and-shiva-are-one.md](./23-the-motto-that-says-buddha-and-shiva-are-one.md) | Modern survival — Indonesia's motto from the 14th-c. Buddhist *Sutasoma*, plus Garuda |
+| 24 | [24-the-prince-who-refused-a-throne.md](./24-the-prince-who-refused-a-throne.md) | People — Gunavarman: Kashmiri prince-monk via Sri Lanka, Java, Champa to Nanjing (d. 431) |
+| 25 | [25-the-doctor-carved-in-stone.md](./25-the-doctor-carved-in-stone.md) | Body — Jīvaka the Buddha's doctor vs Wat Pho's 1830s stone rulebook for Thai massage |
 
 Bases: `Templates/Bases/TikTok.base` filters `categories.contains(link("TikTok Stories"))` — 3 views (All/Cards). See `HOOKS.md` for playbook.
 
