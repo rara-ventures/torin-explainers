@@ -38,6 +38,11 @@ Every file now has 3 hooks from different categories — 1 stop-scroll (Negation
 | 12 | [12-betel-runs-the-other-way.md](./12-betel-runs-the-other-way.md) | **Reverse vector** — areca/betel out of Island SE Asia into India, Persia, the Mediterranean |
 | 13 | [13-the-chessboard-is-a-fossil.md](./13-the-chessboard-is-a-fossil.md) | Games — makruk/ouk, chaturanga still played, the queen Europe changed and Thailand didn't |
 | 14 | [14-the-king-who-sailed-west.md](./14-the-king-who-sailed-west.md) | **Reversal** — Tambralinga invades Sri Lanka for the Tooth Relic, 1247–1270s |
+| 15 | [15-the-guild-that-dug-a-lake.md](./15-the-guild-that-dug-a-lake.md) | Takuapa, Thailand — a Tamil merchant guild guards a lake, c. 850: India exported the company, not the state |
+| 16 | [16-the-empire-invented-in-1918.md](./16-the-empire-invented-in-1918.md) | Srivijaya — named in 1918 by Cœdès; sea empire or toll network? |
+| 18 | [18-sanskrit-inside-tagalog.md](./18-sanskrit-inside-tagalog.md) | Philippines — *lahò* = Rāhu, 336 Sanskrit loans, Laguna Copperplate 900 CE, Ma-i |
+| 19 | [19-every-alphabet-but-vietnams.md](./19-every-alphabet-but-vietnams.md) | Scripts — Pallava grandparent for Thai/Khmer/Burmese/Lao; Vietnam took the Chinese road, then Latin |
+| 20 | [20-thai-kings-named-rama.md](./20-thai-kings-named-rama.md) | Ayutthaya = Ayodhya (1351) and why Thai kings are numbered "Rama" |
 
 Bases: `Templates/Bases/TikTok.base` filters `categories.contains(link("TikTok Stories"))` — 3 views (All/Cards). See `HOOKS.md` for playbook.
 
